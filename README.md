@@ -1,69 +1,120 @@
+
 # RL-Driven MAC Scheduling with EdgeRIC and srsRAN
 
 This repository provides an integrated real-time framework for MAC layer scheduling using Reinforcement Learning (RL) within an srsRAN + EdgeRIC setup. The architecture supports deployment of Q-Learning, PPO, and Actor-Critic agents as μApps interacting with a simulated or real RAN stack via ZMQ and Redis interfaces.
 
 ## 🔗 Repository Link
-https://github.com/Sikander-Kathat/srsRAN.git
+[GitHub: Sikander-Kathat/srsRAN](https://github.com/Sikander-Kathat/srsRAN.git)
 
 ---
 
-## Setup Instructions
+## **🧱 Setup Instructions**
 
-### Step 1: Clone and Run EdgeRIC Base
+### **Step 1: Clone and Run EdgeRIC Base**
 ```bash
 git clone https://github.com/ushasigh/EdgeRIC-A-real-time-RIC.git
 cd EdgeRIC-A-real-time-RIC
 git checkout oaic-workshop
 sudo docker pull nlpurnhyun/edgeric_base_oaic
 sudo ./dockerrun_edgeric_oaic.sh host 0
+```
 
-**Step 2: Build srsRAN Inside Docker**
+### **Step 2: Build srsRAN Inside Docker**
+```bash
 ./make_ran.sh
+```
 
-**Running the System
-Multi-UE Setup**
+---
 
-EPC: ./run_epc.sh
-eNB: ./run_enb.sh
-UEs: ./run_srsran_2ue.sh
+## **🚀 Running the System (Multi-UE Setup)**
 
-**Traffic Generation
-iperf for UDP Traffic**
+### **EPC:**
+```bash
+./run_epc.sh
+```
 
+### **eNB:**
+```bash
+./run_enb.sh
+```
+
+### **UEs (2 UEs Scenario):**
+```bash
+./run_srsran_2ue.sh
+```
+
+---
+
+## **📡 Traffic Generation with iperf**
+
+### **Terminal 5:**
+```bash
 cd traffic-generator
-./iperf_server_2ues.sh       # Terminal 5
-./iperf_client_2ues.sh 21M 5M 10000   # Terminal 6
+./iperf_server_2ues.sh
+```
 
-**Running RL-Based Scheduling
-muApp1 – Inference Execution (Pre-trained Models)**
+### **Terminal 6:**
+```bash
+cd traffic-generator
+./iperf_client_2ues.sh 21M 5M 10000
+```
 
+---
+
+## **🧠 Running RL-Based Scheduling**
+
+### **muApp1 – Inference Execution (Pre-trained Models)**
+```bash
 cd edgeric/muApp1
 redis-cli set scheduling_algorithm "RL"
 python3 muApp1_run_DL_scheduling.py
+```
 
-**To Run Q_learning or Actor critic Based RL model**
+### **To Run Q-Learning or Actor-Critic Based RL Model**
+```bash
 cd edgeric/muApp1
 python3 q_learning_MAc_scheduling.py
-**OR**
+# OR
 python3 actor_critic_MAc_scheduling.py
+```
 
-**Training RL Models
-1. Proximal Policy Optimization (PPO)**
+---
 
+## **📚 Training RL Models**
+
+### **1. Proximal Policy Optimization (PPO)**
+```bash
 cd edgeric/muApp2
 python3 muApp2_train_RL_DL_scheduling.py
+```
 
-**2. Tabular Q-Learning**
-
+### **2. Tabular Q-Learning**
+```bash
 cd edgeric/muApp2/q_learning
 python3 muApp2_train_RL_DL_q_learning_scheduling.py
+```
 
-**3. Actor-Critic**
+### **3. Actor-Critic**
+```bash
 cd edgeric/muApp2/actor_critic
 python3 actor_critic_mac_scheduling.py
+```
 
-**Monitoring and Metrics
-muApp3 – Real-Time Monitoring**
+---
+
+## **📊 Monitoring and Metrics**
+
+### **muApp3 – Real-Time Monitoring**
+```bash
 cd edgeric/muApp3
 python3 muApp3_monitor_terminal.py
+```
+
+---
+
+## 📡 Real-World Deployment Note
+
+You can replace GNU Radio with SDR hardware like the **USRP X410** to run over-the-air MAC scheduling for experimental validation.
+
+---
 
