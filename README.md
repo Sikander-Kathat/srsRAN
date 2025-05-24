@@ -1,4 +1,3 @@
-
 # RL-Driven MAC Scheduling with EdgeRIC and srsRAN
 
 This repository provides an integrated real-time framework for MAC layer scheduling using Reinforcement Learning (RL) within an srsRAN + EdgeRIC setup. The architecture supports deployment of Q-Learning, PPO, and Actor-Critic agents as μApps interacting with a simulated or real RAN stack via ZMQ and Redis interfaces.
@@ -21,8 +20,22 @@ sudo ./dockerrun_edgeric_oaic.sh host 0
 
 ### **Step 2: Build srsRAN Inside Docker**
 ```bash
+#Terminal 1
 ./make_ran.sh
 ```
+---
+
+### Running in Docker container: Run the following on every terminal before running the following set of commands
+```bash
+cd EdgeRIC-A-real-time-RIC
+sudo ./dockerexec_edgeric_oaic.sh 0
+
+---
+
+### Run the GRC Broker, we will run a 2UE scenario
+```bash
+#Terminal 1
+python3 top_block_2ue_no_gui.py # OR ./top_block_2ue_23.04MHz.py if you have GUI support
 
 ---
 
@@ -30,16 +43,19 @@ sudo ./dockerrun_edgeric_oaic.sh host 0
 
 ### **EPC:**
 ```bash
+#Terminal 2
 ./run_epc.sh
 ```
 
 ### **eNB:**
 ```bash
+#Terminal 3
 ./run_enb.sh
 ```
 
 ### **UEs (2 UEs Scenario):**
 ```bash
+#Terminal 4
 ./run_srsran_2ue.sh
 ```
 
@@ -61,10 +77,20 @@ cd traffic-generator
 
 ---
 
+
+**Running EdgeRIC**
+
+```bash
+# Terminal 7
+cd edgeric
+redis-server
+```
+
 ## **🧠 Running RL-Based Scheduling**
 
 ### **muApp1 – Inference Execution (Pre-trained Models)**
 ```bash
+# Terminal 8
 cd edgeric/muApp1
 redis-cli set scheduling_algorithm "RL"
 python3 muApp1_run_DL_scheduling.py
@@ -72,6 +98,7 @@ python3 muApp1_run_DL_scheduling.py
 
 ### **To Run Q-Learning or Actor-Critic Based RL Model**
 ```bash
+#Terminal 8
 cd edgeric/muApp1
 python3 q_learning_MAc_scheduling.py
 # OR
@@ -106,6 +133,7 @@ python3 actor_critic_mac_scheduling.py
 
 ### **muApp3 – Real-Time Monitoring**
 ```bash
+#Terminal 9
 cd edgeric/muApp3
 python3 muApp3_monitor_terminal.py
 ```
@@ -118,3 +146,4 @@ You can replace GNU Radio with SDR hardware like the **USRP X410** to run over-t
 
 ---
 
+`
