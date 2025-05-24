@@ -1,3 +1,4 @@
+
 # RL-Driven MAC Scheduling with EdgeRIC and srsRAN
 
 This repository provides an integrated real-time framework for MAC layer scheduling using Reinforcement Learning (RL) within an srsRAN + EdgeRIC setup. The architecture supports deployment of Q-Learning, PPO, and Actor-Critic agents as μApps interacting with a simulated or real RAN stack via ZMQ and Redis interfaces.
@@ -20,56 +21,56 @@ sudo ./dockerrun_edgeric_oaic.sh host 0
 
 ### **Step 2: Build srsRAN Inside Docker**
 ```bash
-#Terminal 1
 ./make_ran.sh
 ```
+
 ---
 
-### Running in Docker container: Run the following on every terminal before running the following set of commands
+### **Running in Docker Container: Run the following on every terminal**
 ```bash
 cd EdgeRIC-A-real-time-RIC
 sudo ./dockerexec_edgeric_oaic.sh 0
-
----
-
-### Run the GRC Broker, we will run a 2UE scenario
-```bash
-#Terminal 1
-python3 top_block_2ue_no_gui.py # OR ./top_block_2ue_23.04MHz.py if you have GUI support
+```
 
 ---
 
 ## **🚀 Running the System (Multi-UE Setup)**
 
-### **EPC:**
+### **Run the GRC Broker (2UE Scenario)**
 ```bash
-#Terminal 2
+# Terminal 1
+python3 top_block_2ue_no_gui.py
+```
+
+### **EPC**
+```bash
+# Terminal 2
 ./run_epc.sh
 ```
 
-### **eNB:**
+### **eNB**
 ```bash
-#Terminal 3
+# Terminal 3
 ./run_enb.sh
 ```
 
-### **UEs (2 UEs Scenario):**
+### **UEs**
 ```bash
-#Terminal 4
+# Terminal 4
 ./run_srsran_2ue.sh
 ```
 
 ---
 
-## **📡 Traffic Generation with iperf**
+## **📡 Traffic Generation**
 
-### **Terminal 5:**
+### **Terminal 5**
 ```bash
 cd traffic-generator
 ./iperf_server_2ues.sh
 ```
 
-### **Terminal 6:**
+### **Terminal 6**
 ```bash
 cd traffic-generator
 ./iperf_client_2ues.sh 21M 5M 10000
@@ -77,29 +78,36 @@ cd traffic-generator
 
 ---
 
+## **🧠 Running EdgeRIC Core and Scheduling**
 
-**Running EdgeRIC**
-
+### **Start Redis Server**
 ```bash
 # Terminal 7
 cd edgeric
 redis-server
 ```
 
-## **🧠 Running RL-Based Scheduling**
+---
 
-### **muApp1 – Inference Execution (Pre-trained Models)**
+## **⚙️ muApp1 – Downlink Scheduler (Weight-Based)**
+
+The scheduling logic in srsenb is updated to support a weight-based abstraction. This allows dynamic scheduling where a weight `w_i` is given to each UE, allocating `[w_i × available_RBGs]`.
+
 ```bash
 # Terminal 8
 cd edgeric/muApp1
+redis-cli set scheduling_algorithm "Max CQI"  # Initial scheduler
+python3 muApp1_run_DL_scheduling.py
+```
+
+### **Switch to RL-Based Scheduling (Pre-trained)**
+```bash
 redis-cli set scheduling_algorithm "RL"
 python3 muApp1_run_DL_scheduling.py
 ```
 
-### **To Run Q-Learning or Actor-Critic Based RL Model**
+### **Run Specific Models**
 ```bash
-#Terminal 8
-cd edgeric/muApp1
 python3 q_learning_MAc_scheduling.py
 # OR
 python3 actor_critic_MAc_scheduling.py
@@ -107,15 +115,15 @@ python3 actor_critic_MAc_scheduling.py
 
 ---
 
-## **📚 Training RL Models**
+## **🎯 Training RL Models**
 
-### **1. Proximal Policy Optimization (PPO)**
+### **1. PPO**
 ```bash
 cd edgeric/muApp2
 python3 muApp2_train_RL_DL_scheduling.py
 ```
 
-### **2. Tabular Q-Learning**
+### **2. Q-Learning**
 ```bash
 cd edgeric/muApp2/q_learning
 python3 muApp2_train_RL_DL_q_learning_scheduling.py
@@ -129,11 +137,9 @@ python3 actor_critic_mac_scheduling.py
 
 ---
 
-## **📊 Monitoring and Metrics**
-
-### **muApp3 – Real-Time Monitoring**
+## **📊 Real-Time Monitoring (muApp3)**
 ```bash
-#Terminal 9
+# Terminal 9
 cd edgeric/muApp3
 python3 muApp3_monitor_terminal.py
 ```
@@ -142,8 +148,6 @@ python3 muApp3_monitor_terminal.py
 
 ## 📡 Real-World Deployment Note
 
-You can replace GNU Radio with SDR hardware like the **USRP X410** to run over-the-air MAC scheduling for experimental validation.
+To validate over-the-air MAC scheduling, you may replace the GNU Radio emulation with **SDR hardware** such as the **USRP X410**.
 
 ---
-
-`
