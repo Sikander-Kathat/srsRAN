@@ -67,8 +67,3 @@ muApp3 – Real-Time Monitoring**
 cd edgeric/muApp3
 python3 muApp3_monitor_terminal.py
 
-
-
-
-
-
