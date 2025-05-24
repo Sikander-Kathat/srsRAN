@@ -1,0 +1,122 @@
+[2025-03-15 08:51:33,016][__main__][INFO] - Determined number of UEs: 2
+[2025-03-15 08:51:33,565][__main__][INFO] - Iteration: 0 - Throughput: 592.66
+[2025-03-15 08:51:33,565][__main__][INFO] - Iteration: 0	Episode Reward: 592.66	Moving Avg Reward: 592.66
+[2025-03-15 08:51:34,213][__main__][INFO] - Iteration: 1	Episode Reward: 589.07	Moving Avg Reward: 590.86
+[2025-03-15 08:51:35,061][__main__][INFO] - Iteration: 2	Episode Reward: 588.07	Moving Avg Reward: 589.93
+[2025-03-15 08:51:36,032][__main__][INFO] - Iteration: 3	Episode Reward: 590.80	Moving Avg Reward: 590.15
+[2025-03-15 08:51:37,055][__main__][INFO] - Iteration: 4	Episode Reward: 591.79	Moving Avg Reward: 590.48
+[2025-03-15 08:51:38,050][__main__][INFO] - Iteration: 5 - Throughput: 589.48
+[2025-03-15 08:51:38,050][__main__][INFO] - Iteration: 5	Episode Reward: 589.48	Moving Avg Reward: 590.31
+[2025-03-15 08:51:39,090][__main__][INFO] - Iteration: 6	Episode Reward: 590.89	Moving Avg Reward: 590.39
+[2025-03-15 08:51:40,122][__main__][INFO] - Iteration: 7	Episode Reward: 590.12	Moving Avg Reward: 590.36
+[2025-03-15 08:51:41,188][__main__][INFO] - Iteration: 8	Episode Reward: 590.95	Moving Avg Reward: 590.43
+[2025-03-15 08:51:42,204][__main__][INFO] - Iteration: 9	Episode Reward: 592.43	Moving Avg Reward: 590.63
+[2025-03-15 08:51:43,149][__main__][INFO] - Iteration: 10 - Throughput: 593.36
+[2025-03-15 08:51:43,149][__main__][INFO] - Iteration: 10	Episode Reward: 593.36	Moving Avg Reward: 590.70
+[2025-03-15 08:51:44,098][__main__][INFO] - Iteration: 11	Episode Reward: 590.91	Moving Avg Reward: 590.88
+[2025-03-15 08:51:45,052][__main__][INFO] - Iteration: 12	Episode Reward: 591.25	Moving Avg Reward: 591.20
+[2025-03-15 08:51:46,030][__main__][INFO] - Iteration: 13	Episode Reward: 595.19	Moving Avg Reward: 591.64
+[2025-03-15 08:51:47,033][__main__][INFO] - Iteration: 14	Episode Reward: 592.53	Moving Avg Reward: 591.71
+[2025-03-15 08:51:48,001][__main__][INFO] - Iteration: 15 - Throughput: 591.17
+[2025-03-15 08:51:48,001][__main__][INFO] - Iteration: 15	Episode Reward: 591.17	Moving Avg Reward: 591.88
+[2025-03-15 08:51:49,000][__main__][INFO] - Iteration: 16	Episode Reward: 589.11	Moving Avg Reward: 591.70
+[2025-03-15 08:51:50,059][__main__][INFO] - Iteration: 17	Episode Reward: 590.28	Moving Avg Reward: 591.72
+[2025-03-15 08:51:51,107][__main__][INFO] - Iteration: 18	Episode Reward: 590.10	Moving Avg Reward: 591.63
+[2025-03-15 08:51:52,075][__main__][INFO] - Iteration: 19	Episode Reward: 593.57	Moving Avg Reward: 591.75
+[2025-03-15 08:51:52,992][__main__][INFO] - Iteration: 20 - Throughput: 590.53
+[2025-03-15 08:51:52,992][__main__][INFO] - Iteration: 20	Episode Reward: 590.53	Moving Avg Reward: 591.46
+[2025-03-15 08:51:53,887][__main__][INFO] - Iteration: 21	Episode Reward: 592.54	Moving Avg Reward: 591.63
+[2025-03-15 08:51:54,736][__main__][INFO] - Iteration: 22	Episode Reward: 591.15	Moving Avg Reward: 591.62
+[2025-03-15 08:51:55,628][__main__][INFO] - Iteration: 23	Episode Reward: 593.09	Moving Avg Reward: 591.41
+[2025-03-15 08:51:56,594][__main__][INFO] - Iteration: 24	Episode Reward: 590.82	Moving Avg Reward: 591.24
+[2025-03-15 08:51:57,593][__main__][INFO] - Iteration: 25 - Throughput: 589.71
+[2025-03-15 08:51:57,593][__main__][INFO] - Iteration: 25	Episode Reward: 589.71	Moving Avg Reward: 591.09
+[2025-03-15 08:51:58,517][__main__][INFO] - Iteration: 26	Episode Reward: 590.94	Moving Avg Reward: 591.27
+[2025-03-15 08:51:59,479][__main__][INFO] - Iteration: 27	Episode Reward: 591.30	Moving Avg Reward: 591.38
+[2025-03-15 08:52:00,442][__main__][INFO] - Iteration: 28	Episode Reward: 589.80	Moving Avg Reward: 591.35
+[2025-03-15 08:52:01,403][__main__][INFO] - Iteration: 29	Episode Reward: 593.05	Moving Avg Reward: 591.29
+[2025-03-15 08:52:02,340][__main__][INFO] - Iteration: 30 - Throughput: 590.30
+[2025-03-15 08:52:02,341][__main__][INFO] - Iteration: 30	Episode Reward: 590.30	Moving Avg Reward: 591.27
+[2025-03-15 08:52:03,309][__main__][INFO] - Iteration: 31	Episode Reward: 589.10	Moving Avg Reward: 590.93
+[2025-03-15 08:52:04,261][__main__][INFO] - Iteration: 32	Episode Reward: 592.11	Moving Avg Reward: 591.02
+[2025-03-15 08:52:05,220][__main__][INFO] - Iteration: 33	Episode Reward: 589.89	Moving Avg Reward: 590.70
+[2025-03-15 08:52:06,185][__main__][INFO] - Iteration: 34	Episode Reward: 591.65	Moving Avg Reward: 590.79
+[2025-03-15 08:52:07,128][__main__][INFO] - Iteration: 35 - Throughput: 590.86
+[2025-03-15 08:52:07,128][__main__][INFO] - Iteration: 35	Episode Reward: 590.86	Moving Avg Reward: 590.90
+[2025-03-15 08:52:08,085][__main__][INFO] - Iteration: 36	Episode Reward: 588.53	Moving Avg Reward: 590.66
+[2025-03-15 08:52:09,044][__main__][INFO] - Iteration: 37	Episode Reward: 591.94	Moving Avg Reward: 590.72
+[2025-03-15 08:52:09,997][__main__][INFO] - Iteration: 38	Episode Reward: 592.99	Moving Avg Reward: 591.04
+[2025-03-15 08:52:10,935][__main__][INFO] - Iteration: 39	Episode Reward: 590.39	Moving Avg Reward: 590.78
+[2025-03-15 08:52:11,897][__main__][INFO] - Iteration: 40 - Throughput: 590.60
+[2025-03-15 08:52:11,897][__main__][INFO] - Iteration: 40	Episode Reward: 590.60	Moving Avg Reward: 590.81
+[2025-03-15 08:52:12,867][__main__][INFO] - Iteration: 41	Episode Reward: 593.38	Moving Avg Reward: 591.23
+[2025-03-15 08:52:13,829][__main__][INFO] - Iteration: 42	Episode Reward: 590.86	Moving Avg Reward: 591.11
+[2025-03-15 08:52:14,783][__main__][INFO] - Iteration: 43	Episode Reward: 591.39	Moving Avg Reward: 591.26
+[2025-03-15 08:52:15,718][__main__][INFO] - Iteration: 44	Episode Reward: 592.08	Moving Avg Reward: 591.30
+[2025-03-15 08:52:16,697][__main__][INFO] - Iteration: 45 - Throughput: 591.60
+[2025-03-15 08:52:16,697][__main__][INFO] - Iteration: 45	Episode Reward: 591.60	Moving Avg Reward: 591.38
+[2025-03-15 08:52:17,743][__main__][INFO] - Iteration: 46	Episode Reward: 590.70	Moving Avg Reward: 591.59
+[2025-03-15 08:52:18,770][__main__][INFO] - Iteration: 47	Episode Reward: 589.86	Moving Avg Reward: 591.39
+[2025-03-15 08:52:19,769][__main__][INFO] - Iteration: 48	Episode Reward: 590.39	Moving Avg Reward: 591.13
+[2025-03-15 08:52:20,737][__main__][INFO] - Iteration: 49	Episode Reward: 590.64	Moving Avg Reward: 591.15
+[2025-03-15 08:52:21,685][__main__][INFO] - Iteration: 50 - Throughput: 589.48
+[2025-03-15 08:52:21,685][__main__][INFO] - Iteration: 50	Episode Reward: 589.48	Moving Avg Reward: 591.04
+[2025-03-15 08:52:22,655][__main__][INFO] - Iteration: 51	Episode Reward: 591.44	Moving Avg Reward: 590.84
+[2025-03-15 08:52:23,616][__main__][INFO] - Iteration: 52	Episode Reward: 592.96	Moving Avg Reward: 591.05
+[2025-03-15 08:52:24,586][__main__][INFO] - Iteration: 53	Episode Reward: 592.04	Moving Avg Reward: 591.12
+[2025-03-15 08:52:25,512][__main__][INFO] - Iteration: 54	Episode Reward: 591.43	Moving Avg Reward: 591.05
+[2025-03-15 08:52:26,414][__main__][INFO] - Iteration: 55 - Throughput: 591.57
+[2025-03-15 08:52:26,414][__main__][INFO] - Iteration: 55	Episode Reward: 591.57	Moving Avg Reward: 591.05
+[2025-03-15 08:52:27,308][__main__][INFO] - Iteration: 56	Episode Reward: 589.48	Moving Avg Reward: 590.93
+[2025-03-15 08:52:28,223][__main__][INFO] - Iteration: 57	Episode Reward: 592.33	Moving Avg Reward: 591.18
+[2025-03-15 08:52:29,127][__main__][INFO] - Iteration: 58	Episode Reward: 589.69	Moving Avg Reward: 591.10
+[2025-03-15 08:52:30,020][__main__][INFO] - Iteration: 59	Episode Reward: 590.04	Moving Avg Reward: 591.05
+[2025-03-15 08:52:30,916][__main__][INFO] - Iteration: 60 - Throughput: 590.99
+[2025-03-15 08:52:30,916][__main__][INFO] - Iteration: 60	Episode Reward: 590.99	Moving Avg Reward: 591.20
+[2025-03-15 08:52:31,822][__main__][INFO] - Iteration: 61	Episode Reward: 592.61	Moving Avg Reward: 591.31
+[2025-03-15 08:52:32,733][__main__][INFO] - Iteration: 62	Episode Reward: 590.03	Moving Avg Reward: 591.02
+[2025-03-15 08:52:33,641][__main__][INFO] - Iteration: 63	Episode Reward: 589.80	Moving Avg Reward: 590.80
+[2025-03-15 08:52:34,544][__main__][INFO] - Iteration: 64	Episode Reward: 592.31	Moving Avg Reward: 590.89
+[2025-03-15 08:52:35,452][__main__][INFO] - Iteration: 65 - Throughput: 591.93
+[2025-03-15 08:52:35,453][__main__][INFO] - Iteration: 65	Episode Reward: 591.93	Moving Avg Reward: 590.92
+[2025-03-15 08:52:36,358][__main__][INFO] - Iteration: 66	Episode Reward: 591.13	Moving Avg Reward: 591.09
+[2025-03-15 08:52:37,262][__main__][INFO] - Iteration: 67	Episode Reward: 591.33	Moving Avg Reward: 590.99
+[2025-03-15 08:52:38,148][__main__][INFO] - Iteration: 68	Episode Reward: 593.15	Moving Avg Reward: 591.33
+[2025-03-15 08:52:39,051][__main__][INFO] - Iteration: 69	Episode Reward: 592.15	Moving Avg Reward: 591.54
+[2025-03-15 08:52:39,944][__main__][INFO] - Iteration: 70 - Throughput: 592.67
+[2025-03-15 08:52:39,944][__main__][INFO] - Iteration: 70	Episode Reward: 592.67	Moving Avg Reward: 591.71
+[2025-03-15 08:52:40,848][__main__][INFO] - Iteration: 71	Episode Reward: 590.84	Moving Avg Reward: 591.53
+[2025-03-15 08:52:41,746][__main__][INFO] - Iteration: 72	Episode Reward: 590.91	Moving Avg Reward: 591.62
+[2025-03-15 08:52:42,653][__main__][INFO] - Iteration: 73	Episode Reward: 590.59	Moving Avg Reward: 591.70
+[2025-03-15 08:52:43,558][__main__][INFO] - Iteration: 74	Episode Reward: 591.82	Moving Avg Reward: 591.65
+[2025-03-15 08:52:44,456][__main__][INFO] - Iteration: 75 - Throughput: 592.37
+[2025-03-15 08:52:44,456][__main__][INFO] - Iteration: 75	Episode Reward: 592.37	Moving Avg Reward: 591.70
+[2025-03-15 08:52:45,366][__main__][INFO] - Iteration: 76	Episode Reward: 591.14	Moving Avg Reward: 591.70
+[2025-03-15 08:52:46,251][__main__][INFO] - Iteration: 77	Episode Reward: 589.84	Moving Avg Reward: 591.55
+[2025-03-15 08:52:47,147][__main__][INFO] - Iteration: 78	Episode Reward: 591.47	Moving Avg Reward: 591.38
+[2025-03-15 08:52:48,057][__main__][INFO] - Iteration: 79	Episode Reward: 592.32	Moving Avg Reward: 591.40
+[2025-03-15 08:52:48,972][__main__][INFO] - Iteration: 80 - Throughput: 594.03
+[2025-03-15 08:52:48,973][__main__][INFO] - Iteration: 80	Episode Reward: 594.03	Moving Avg Reward: 591.53
+[2025-03-15 08:52:49,861][__main__][INFO] - Iteration: 81	Episode Reward: 590.81	Moving Avg Reward: 591.53
+[2025-03-15 08:52:50,843][__main__][INFO] - Iteration: 82	Episode Reward: 593.42	Moving Avg Reward: 591.78
+[2025-03-15 08:52:51,880][__main__][INFO] - Iteration: 83	Episode Reward: 589.27	Moving Avg Reward: 591.65
+[2025-03-15 08:52:52,920][__main__][INFO] - Iteration: 84	Episode Reward: 591.35	Moving Avg Reward: 591.60
+[2025-03-15 08:52:53,964][__main__][INFO] - Iteration: 85 - Throughput: 590.11
+[2025-03-15 08:52:53,964][__main__][INFO] - Iteration: 85	Episode Reward: 590.11	Moving Avg Reward: 591.38
+[2025-03-15 08:52:54,932][__main__][INFO] - Iteration: 86	Episode Reward: 591.50	Moving Avg Reward: 591.41
+[2025-03-15 08:52:55,872][__main__][INFO] - Iteration: 87	Episode Reward: 592.55	Moving Avg Reward: 591.68
+[2025-03-15 08:52:56,818][__main__][INFO] - Iteration: 88	Episode Reward: 591.02	Moving Avg Reward: 591.64
+[2025-03-15 08:52:57,783][__main__][INFO] - Iteration: 89	Episode Reward: 589.74	Moving Avg Reward: 591.38
+[2025-03-15 08:52:58,725][__main__][INFO] - Iteration: 90 - Throughput: 591.96
+[2025-03-15 08:52:58,726][__main__][INFO] - Iteration: 90	Episode Reward: 591.96	Moving Avg Reward: 591.17
+[2025-03-15 08:52:59,675][__main__][INFO] - Iteration: 91	Episode Reward: 589.50	Moving Avg Reward: 591.04
+[2025-03-15 08:53:00,646][__main__][INFO] - Iteration: 92	Episode Reward: 591.23	Moving Avg Reward: 590.82
+[2025-03-15 08:53:01,603][__main__][INFO] - Iteration: 93	Episode Reward: 592.09	Moving Avg Reward: 591.11
+[2025-03-15 08:53:02,543][__main__][INFO] - Iteration: 94	Episode Reward: 588.01	Moving Avg Reward: 590.77
+[2025-03-15 08:53:03,479][__main__][INFO] - Iteration: 95 - Throughput: 592.39
+[2025-03-15 08:53:03,479][__main__][INFO] - Iteration: 95	Episode Reward: 592.39	Moving Avg Reward: 591.00
+[2025-03-15 08:53:04,431][__main__][INFO] - Iteration: 96	Episode Reward: 589.89	Moving Avg Reward: 590.84
+[2025-03-15 08:53:05,385][__main__][INFO] - Iteration: 97	Episode Reward: 591.10	Moving Avg Reward: 590.69
+[2025-03-15 08:53:06,329][__main__][INFO] - Iteration: 98	Episode Reward: 592.40	Moving Avg Reward: 590.83
+[2025-03-15 08:53:07,258][__main__][INFO] - Iteration: 99	Episode Reward: 590.10	Moving Avg Reward: 590.87
+[2025-03-15 08:53:07,260][__main__][INFO] - SAC model saved to outputs/2025-03-15/08-51-32/checkpoints/edge_ric_sac_model.pth

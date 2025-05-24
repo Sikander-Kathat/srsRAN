@@ -1,0 +1,76 @@
+defaults:
+  - _self_
+
+exp:
+  name: "unnamed"
+
+# Change algorithm to q_learning to train using the Q-learning agent.
+algorithm: "q_learning"
+num_seeds: 1                   # Number of independent training runs
+num_iters: 200                 # Number of training iterations
+num_eval_episodes: 2000        # Number of evaluation episodes
+
+env: "EdgeRIC"
+
+env_config:
+  augment_state_space: False   # Add backpressure to state space if needed
+  delay_state: 0
+  delay_action: 0
+  seed: -1                     # Environment seed (-1 means no fixed seed)
+  T: 5000
+  num_RBGs: 17                 # Modify according to MHz of operation
+  num_UEs: 4
+  backlog_population: 
+    - [1, 3000]               # For UE1: [TTIs between chunk arrivals, chunk size in bytes]
+    - [1, 3000]               # For UE2
+  cqi_trace: "stream_rl/envs/cqi_traces/data_triangle.csv"      # Training CQI trace file
+  cqi_trace_eval: "stream_rl/envs/cqi_traces/data_triangle.csv"  # Evaluation CQI trace file
+  reward: "throughput"         # Reward type; alternatives: "stalls", "negative_backlog_len"
+  base_station:
+    max_len: 300000            # Maximum buffer length (Bytes)
+  cqi_map:                     # CQI mapping: CQI -> [Mean throughput, Std Dev] (Mbps)
+    0: [0, 0]
+    1: [0.4432, 0.2206]
+    2: [0.6394, 0.2047]
+    3: [0.6990, 0.3575]
+    4: [0.9112, 0.2882]
+    5: [1.0014, 0.4647]
+    6: [1.3261, 0.3873]
+    7: [1.5028, 0.5879]
+    8: [1.9077, 0.3314]
+    9: [2.0347, 0.3120]
+    10: [2.0542, 0.3142]
+    11: [2.0479, 0.3019]
+    12: [2.0517, 0.3086]
+    13: [2.0303, 0.3170]
+    14: [2.0239, 0.3053]
+    15: [2.0477, 0.2942]
+
+agent_config:
+  # Specify which agent to use. For Q-learning, set to "q_learning".
+  type: "q_learning"
+  q_learning_params:
+    hidden_dim: 128          # Number of neurons in hidden layers of the Q-network
+    lr: 0.0005                # Learning rate for Q-learning optimizer
+    gamma: 0.95               # Discount factor (matches argparse --gamma default)
+    epsilon_start: 1.0       # Starting value for epsilon in epsilon-greedy exploration
+    epsilon_min: 0.1         # Minimum epsilon value after decay
+    epsilon_decay: 0.995     # Decay rate for epsilon per episode
+  ppo_params:                # (Optional) Parameters for PPO in case you switch algorithms later
+    learning_rate: 0.003
+    clip_epsilon: 0.2
+    l2_reg: 0.01
+    tau: 0.95
+    min_batch_size: 2048
+    eval_batch_size: 2048
+
+training_config:
+  max_steps_per_episode: 200            # Maximum steps allowed per episode
+  log_interval: 1                       # Interval for logging training metrics
+  save_model_interval: 10                # Interval for saving the model (0 means do not save)
+  model_save_path: "checkpoints/q_learning_model.pth"  # Path to save the trained Q-learning model
+
+misc_config:
+  seed: 1              # Global random seed for reproducibility
+  gpu_index: 0         # GPU index (if CUDA is available)
+  num_threads: 1       # Number of threads for training

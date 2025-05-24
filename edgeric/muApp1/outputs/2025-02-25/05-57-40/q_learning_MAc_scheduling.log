@@ -1,0 +1,6 @@
+[2025-02-25 05:57:40,170][__main__][INFO] - Evaluating Q-learning agent
+[2025-02-25 05:57:40,171][__main__][INFO] - Loading Q-learning model from: /home/EdgeRIC-A-real-time-RIC/edgeric/muApp1/rl_model/fully_trained_model/q_learning_model.pth
+[2025-02-25 05:57:41,171][__main__][INFO] - Mean throughput in last 1 second: 9.79 kilobits
+[2025-02-25 05:57:42,172][__main__][INFO] - Mean throughput in last 1 second: 9.83 kilobits
+[2025-02-25 05:57:43,173][__main__][INFO] - Mean throughput in last 1 second: 9.79 kilobits
+[2025-02-25 05:57:43,173][__main__][INFO] - No bitrate data collected.

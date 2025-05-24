@@ -1,0 +1,43 @@
+[2025-02-25 05:15:35,100][__main__][INFO] - Evaluating Q-learning agent
+[2025-02-25 05:15:35,100][__main__][INFO] - Loading Q-learning model from: /home/EdgeRIC-A-real-time-RIC/edgeric/muApp1/rl_model/fully_trained_model/q_learning_model.pth
+[2025-02-25 05:15:35,426][__main__][INFO] - Episode 0
+[2025-02-25 05:15:40,590][__main__][INFO] - Episode 0: Throughput: 49.43 megabits
+[2025-02-25 05:15:40,590][__main__][INFO] - Episode 1
+[2025-02-25 05:15:45,758][__main__][INFO] - Episode 1: Throughput: 49.52 megabits
+[2025-02-25 05:15:45,758][__main__][INFO] - Episode 2
+[2025-02-25 05:15:50,924][__main__][INFO] - Episode 2: Throughput: 49.52 megabits
+[2025-02-25 05:15:50,924][__main__][INFO] - Episode 3
+[2025-02-25 05:15:56,087][__main__][INFO] - Episode 3: Throughput: 49.46 megabits
+[2025-02-25 05:15:56,087][__main__][INFO] - Episode 4
+[2025-02-25 05:16:01,254][__main__][INFO] - Episode 4: Throughput: 49.46 megabits
+[2025-02-25 05:16:01,254][__main__][INFO] - Episode 5
+[2025-02-25 05:16:06,418][__main__][INFO] - Episode 5: Throughput: 49.50 megabits
+[2025-02-25 05:16:06,418][__main__][INFO] - Episode 6
+[2025-02-25 05:16:11,586][__main__][INFO] - Episode 6: Throughput: 49.48 megabits
+[2025-02-25 05:16:11,586][__main__][INFO] - Episode 7
+[2025-02-25 05:16:16,753][__main__][INFO] - Episode 7: Throughput: 49.43 megabits
+[2025-02-25 05:16:16,753][__main__][INFO] - Episode 8
+[2025-02-25 05:16:21,919][__main__][INFO] - Episode 8: Throughput: 49.48 megabits
+[2025-02-25 05:16:21,919][__main__][INFO] - Episode 9
+[2025-02-25 05:16:27,080][__main__][INFO] - Episode 9: Throughput: 49.45 megabits
+[2025-02-25 05:16:27,080][__main__][INFO] - Episode 10
+[2025-02-25 05:16:32,246][__main__][INFO] - Episode 10: Throughput: 49.46 megabits
+[2025-02-25 05:16:32,246][__main__][INFO] - Episode 11
+[2025-02-25 05:16:37,412][__main__][INFO] - Episode 11: Throughput: 49.53 megabits
+[2025-02-25 05:16:37,412][__main__][INFO] - Episode 12
+[2025-02-25 05:16:42,579][__main__][INFO] - Episode 12: Throughput: 49.48 megabits
+[2025-02-25 05:16:42,579][__main__][INFO] - Episode 13
+[2025-02-25 05:16:47,750][__main__][INFO] - Episode 13: Throughput: 49.52 megabits
+[2025-02-25 05:16:47,750][__main__][INFO] - Episode 14
+[2025-02-25 05:16:52,919][__main__][INFO] - Episode 14: Throughput: 49.52 megabits
+[2025-02-25 05:16:52,919][__main__][INFO] - Episode 15
+[2025-02-25 05:16:58,080][__main__][INFO] - Episode 15: Throughput: 49.46 megabits
+[2025-02-25 05:16:58,080][__main__][INFO] - Episode 16
+[2025-02-25 05:17:03,243][__main__][INFO] - Episode 16: Throughput: 49.42 megabits
+[2025-02-25 05:17:03,243][__main__][INFO] - Episode 17
+[2025-02-25 05:17:08,405][__main__][INFO] - Episode 17: Throughput: 49.47 megabits
+[2025-02-25 05:17:08,405][__main__][INFO] - Episode 18
+[2025-02-25 05:17:13,570][__main__][INFO] - Episode 18: Throughput: 49.42 megabits
+[2025-02-25 05:17:13,570][__main__][INFO] - Episode 19
+[2025-02-25 05:17:18,729][__main__][INFO] - Episode 19: Throughput: 49.44 megabits
+[2025-02-25 05:17:18,730][__main__][INFO] - Episode 20

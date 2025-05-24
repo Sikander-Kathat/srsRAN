@@ -1,0 +1,425 @@
+[2025-02-25 04:50:37,756][__main__][INFO] - Evaluating Q-learning agent
+[2025-02-25 04:50:37,756][__main__][INFO] - Loading Q-learning model from: /home/EdgeRIC-A-real-time-RIC/edgeric/muApp1/rl_model/fully_trained_model/q_learning_model.pth
+[2025-02-25 04:50:38,082][__main__][INFO] - Episode 0
+[2025-02-25 04:50:43,249][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 04:50:43,250][__main__][INFO] - Episode 1
+[2025-02-25 04:50:48,419][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 04:50:48,419][__main__][INFO] - Episode 2
+[2025-02-25 04:50:53,589][__main__][INFO] - Throughput: 53.15 megabits
+[2025-02-25 04:50:53,589][__main__][INFO] - Episode 3
+[2025-02-25 04:50:58,756][__main__][INFO] - Throughput: 53.05 megabits
+[2025-02-25 04:50:58,756][__main__][INFO] - Episode 4
+[2025-02-25 04:51:03,925][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 04:51:03,926][__main__][INFO] - Episode 5
+[2025-02-25 04:51:09,092][__main__][INFO] - Throughput: 53.10 megabits
+[2025-02-25 04:51:09,093][__main__][INFO] - Episode 6
+[2025-02-25 04:51:14,268][__main__][INFO] - Throughput: 53.08 megabits
+[2025-02-25 04:51:14,268][__main__][INFO] - Episode 7
+[2025-02-25 04:51:19,434][__main__][INFO] - Throughput: 53.08 megabits
+[2025-02-25 04:51:19,434][__main__][INFO] - Episode 8
+[2025-02-25 04:51:24,599][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 04:51:24,599][__main__][INFO] - Episode 9
+[2025-02-25 04:51:29,764][__main__][INFO] - Throughput: 53.07 megabits
+[2025-02-25 04:51:29,764][__main__][INFO] - Episode 10
+[2025-02-25 04:51:34,929][__main__][INFO] - Throughput: 53.08 megabits
+[2025-02-25 04:51:34,929][__main__][INFO] - Episode 11
+[2025-02-25 04:51:40,100][__main__][INFO] - Throughput: 53.17 megabits
+[2025-02-25 04:51:40,100][__main__][INFO] - Episode 12
+[2025-02-25 04:51:45,263][__main__][INFO] - Throughput: 53.03 megabits
+[2025-02-25 04:51:45,263][__main__][INFO] - Episode 13
+[2025-02-25 04:51:50,429][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 04:51:50,429][__main__][INFO] - Episode 14
+[2025-02-25 04:51:55,597][__main__][INFO] - Throughput: 53.15 megabits
+[2025-02-25 04:51:55,597][__main__][INFO] - Episode 15
+[2025-02-25 04:52:00,766][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 04:52:00,766][__main__][INFO] - Episode 16
+[2025-02-25 04:52:05,935][__main__][INFO] - Throughput: 53.10 megabits
+[2025-02-25 04:52:05,935][__main__][INFO] - Episode 17
+[2025-02-25 04:52:11,100][__main__][INFO] - Throughput: 53.07 megabits
+[2025-02-25 04:52:11,100][__main__][INFO] - Episode 18
+[2025-02-25 04:52:16,272][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 04:52:16,272][__main__][INFO] - Episode 19
+[2025-02-25 04:52:21,445][__main__][INFO] - Throughput: 53.17 megabits
+[2025-02-25 04:52:21,445][__main__][INFO] - Episode 20
+[2025-02-25 04:52:26,607][__main__][INFO] - Throughput: 53.10 megabits
+[2025-02-25 04:52:26,607][__main__][INFO] - Episode 21
+[2025-02-25 04:52:31,777][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 04:52:31,777][__main__][INFO] - Episode 22
+[2025-02-25 04:52:36,948][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 04:52:36,948][__main__][INFO] - Episode 23
+[2025-02-25 04:52:42,115][__main__][INFO] - Throughput: 50.36 megabits
+[2025-02-25 04:52:42,115][__main__][INFO] - Episode 24
+[2025-02-25 04:52:47,284][__main__][INFO] - Throughput: 49.49 megabits
+[2025-02-25 04:52:47,284][__main__][INFO] - Episode 25
+[2025-02-25 04:52:52,450][__main__][INFO] - Throughput: 49.52 megabits
+[2025-02-25 04:52:52,450][__main__][INFO] - Episode 26
+[2025-02-25 04:52:57,621][__main__][INFO] - Throughput: 49.52 megabits
+[2025-02-25 04:52:57,622][__main__][INFO] - Episode 27
+[2025-02-25 04:53:02,789][__main__][INFO] - Throughput: 49.48 megabits
+[2025-02-25 04:53:02,789][__main__][INFO] - Episode 28
+[2025-02-25 04:53:07,957][__main__][INFO] - Throughput: 49.48 megabits
+[2025-02-25 04:53:07,957][__main__][INFO] - Episode 29
+[2025-02-25 04:53:13,118][__main__][INFO] - Throughput: 49.45 megabits
+[2025-02-25 04:53:13,118][__main__][INFO] - Episode 30
+[2025-02-25 04:53:18,281][__main__][INFO] - Throughput: 49.44 megabits
+[2025-02-25 04:53:18,281][__main__][INFO] - Episode 31
+[2025-02-25 04:53:23,442][__main__][INFO] - Throughput: 49.47 megabits
+[2025-02-25 04:53:23,442][__main__][INFO] - Episode 32
+[2025-02-25 04:53:28,605][__main__][INFO] - Throughput: 49.46 megabits
+[2025-02-25 04:53:28,605][__main__][INFO] - Episode 33
+[2025-02-25 04:53:33,769][__main__][INFO] - Throughput: 49.43 megabits
+[2025-02-25 04:53:33,769][__main__][INFO] - Episode 34
+[2025-02-25 04:53:38,930][__main__][INFO] - Throughput: 49.48 megabits
+[2025-02-25 04:53:38,930][__main__][INFO] - Episode 35
+[2025-02-25 04:53:44,100][__main__][INFO] - Throughput: 49.52 megabits
+[2025-02-25 04:53:44,100][__main__][INFO] - Episode 36
+[2025-02-25 04:53:49,271][__main__][INFO] - Throughput: 49.48 megabits
+[2025-02-25 04:53:49,271][__main__][INFO] - Episode 37
+[2025-02-25 04:53:54,441][__main__][INFO] - Throughput: 49.71 megabits
+[2025-02-25 04:53:54,441][__main__][INFO] - Episode 38
+[2025-02-25 04:53:59,596][__main__][INFO] - Throughput: 53.05 megabits
+[2025-02-25 04:53:59,596][__main__][INFO] - Episode 39
+[2025-02-25 04:54:04,762][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 04:54:04,762][__main__][INFO] - Episode 40
+[2025-02-25 04:54:09,922][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 04:54:09,922][__main__][INFO] - Episode 41
+[2025-02-25 04:54:15,088][__main__][INFO] - Throughput: 53.08 megabits
+[2025-02-25 04:54:15,088][__main__][INFO] - Episode 42
+[2025-02-25 04:54:20,256][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 04:54:20,256][__main__][INFO] - Episode 43
+[2025-02-25 04:54:25,425][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 04:54:25,425][__main__][INFO] - Episode 44
+[2025-02-25 04:54:30,587][__main__][INFO] - Throughput: 53.05 megabits
+[2025-02-25 04:54:30,587][__main__][INFO] - Episode 45
+[2025-02-25 04:54:35,756][__main__][INFO] - Throughput: 53.07 megabits
+[2025-02-25 04:54:35,756][__main__][INFO] - Episode 46
+[2025-02-25 04:54:40,924][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 04:54:40,924][__main__][INFO] - Episode 47
+[2025-02-25 04:54:46,091][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 04:54:46,091][__main__][INFO] - Episode 48
+[2025-02-25 04:54:51,255][__main__][INFO] - Throughput: 53.05 megabits
+[2025-02-25 04:54:51,255][__main__][INFO] - Episode 49
+[2025-02-25 04:54:56,422][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 04:54:56,422][__main__][INFO] - Episode 50
+[2025-02-25 04:55:01,586][__main__][INFO] - Throughput: 53.07 megabits
+[2025-02-25 04:55:01,586][__main__][INFO] - Episode 51
+[2025-02-25 04:55:06,754][__main__][INFO] - Throughput: 53.07 megabits
+[2025-02-25 04:55:06,754][__main__][INFO] - Episode 52
+[2025-02-25 04:55:11,924][__main__][INFO] - Throughput: 53.16 megabits
+[2025-02-25 04:55:11,924][__main__][INFO] - Episode 53
+[2025-02-25 04:55:17,096][__main__][INFO] - Throughput: 53.17 megabits
+[2025-02-25 04:55:17,096][__main__][INFO] - Episode 54
+[2025-02-25 04:55:22,266][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 04:55:22,267][__main__][INFO] - Episode 55
+[2025-02-25 04:55:27,436][__main__][INFO] - Throughput: 53.21 megabits
+[2025-02-25 04:55:27,436][__main__][INFO] - Episode 56
+[2025-02-25 04:55:32,605][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 04:55:32,605][__main__][INFO] - Episode 57
+[2025-02-25 04:55:37,774][__main__][INFO] - Throughput: 53.04 megabits
+[2025-02-25 04:55:37,774][__main__][INFO] - Episode 58
+[2025-02-25 04:55:42,943][__main__][INFO] - Throughput: 53.19 megabits
+[2025-02-25 04:55:42,944][__main__][INFO] - Episode 59
+[2025-02-25 04:55:48,113][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 04:55:48,113][__main__][INFO] - Episode 60
+[2025-02-25 04:55:53,283][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 04:55:53,283][__main__][INFO] - Episode 61
+[2025-02-25 04:55:58,453][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 04:55:58,453][__main__][INFO] - Episode 62
+[2025-02-25 04:56:03,622][__main__][INFO] - Throughput: 53.07 megabits
+[2025-02-25 04:56:03,622][__main__][INFO] - Episode 63
+[2025-02-25 04:56:08,796][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 04:56:08,796][__main__][INFO] - Episode 64
+[2025-02-25 04:56:13,968][__main__][INFO] - Throughput: 53.21 megabits
+[2025-02-25 04:56:13,968][__main__][INFO] - Episode 65
+[2025-02-25 04:56:19,134][__main__][INFO] - Throughput: 53.02 megabits
+[2025-02-25 04:56:19,134][__main__][INFO] - Episode 66
+[2025-02-25 04:56:24,301][__main__][INFO] - Throughput: 53.10 megabits
+[2025-02-25 04:56:24,301][__main__][INFO] - Episode 67
+[2025-02-25 04:56:29,470][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 04:56:29,470][__main__][INFO] - Episode 68
+[2025-02-25 04:56:34,645][__main__][INFO] - Throughput: 53.03 megabits
+[2025-02-25 04:56:34,645][__main__][INFO] - Episode 69
+[2025-02-25 04:56:39,816][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 04:56:39,816][__main__][INFO] - Episode 70
+[2025-02-25 04:56:44,983][__main__][INFO] - Throughput: 53.15 megabits
+[2025-02-25 04:56:44,983][__main__][INFO] - Episode 71
+[2025-02-25 04:56:50,151][__main__][INFO] - Throughput: 53.06 megabits
+[2025-02-25 04:56:50,151][__main__][INFO] - Episode 72
+[2025-02-25 04:56:55,320][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 04:56:55,320][__main__][INFO] - Episode 73
+[2025-02-25 04:57:00,489][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 04:57:00,489][__main__][INFO] - Episode 74
+[2025-02-25 04:57:05,659][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 04:57:05,659][__main__][INFO] - Episode 75
+[2025-02-25 04:57:10,827][__main__][INFO] - Throughput: 53.16 megabits
+[2025-02-25 04:57:10,827][__main__][INFO] - Episode 76
+[2025-02-25 04:57:15,997][__main__][INFO] - Throughput: 53.20 megabits
+[2025-02-25 04:57:15,997][__main__][INFO] - Episode 77
+[2025-02-25 04:57:21,166][__main__][INFO] - Throughput: 53.15 megabits
+[2025-02-25 04:57:21,166][__main__][INFO] - Episode 78
+[2025-02-25 04:57:26,332][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 04:57:26,332][__main__][INFO] - Episode 79
+[2025-02-25 04:57:31,498][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 04:57:31,498][__main__][INFO] - Episode 80
+[2025-02-25 04:57:36,674][__main__][INFO] - Throughput: 53.05 megabits
+[2025-02-25 04:57:36,674][__main__][INFO] - Episode 81
+[2025-02-25 04:57:41,846][__main__][INFO] - Throughput: 53.20 megabits
+[2025-02-25 04:57:41,846][__main__][INFO] - Episode 82
+[2025-02-25 04:57:47,027][__main__][INFO] - Throughput: 53.21 megabits
+[2025-02-25 04:57:47,027][__main__][INFO] - Episode 83
+[2025-02-25 04:57:52,198][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 04:57:52,198][__main__][INFO] - Episode 84
+[2025-02-25 04:57:57,363][__main__][INFO] - Throughput: 53.18 megabits
+[2025-02-25 04:57:57,363][__main__][INFO] - Episode 85
+[2025-02-25 04:58:02,537][__main__][INFO] - Throughput: 53.10 megabits
+[2025-02-25 04:58:02,537][__main__][INFO] - Episode 86
+[2025-02-25 04:58:07,703][__main__][INFO] - Throughput: 53.05 megabits
+[2025-02-25 04:58:07,703][__main__][INFO] - Episode 87
+[2025-02-25 04:58:12,868][__main__][INFO] - Throughput: 53.17 megabits
+[2025-02-25 04:58:12,868][__main__][INFO] - Episode 88
+[2025-02-25 04:58:18,034][__main__][INFO] - Throughput: 53.07 megabits
+[2025-02-25 04:58:18,034][__main__][INFO] - Episode 89
+[2025-02-25 04:58:23,208][__main__][INFO] - Throughput: 53.15 megabits
+[2025-02-25 04:58:23,208][__main__][INFO] - Episode 90
+[2025-02-25 04:58:28,373][__main__][INFO] - Throughput: 53.10 megabits
+[2025-02-25 04:58:28,373][__main__][INFO] - Episode 91
+[2025-02-25 04:58:33,542][__main__][INFO] - Throughput: 53.06 megabits
+[2025-02-25 04:58:33,542][__main__][INFO] - Episode 92
+[2025-02-25 04:58:38,712][__main__][INFO] - Throughput: 53.15 megabits
+[2025-02-25 04:58:38,712][__main__][INFO] - Episode 93
+[2025-02-25 04:58:43,880][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 04:58:43,880][__main__][INFO] - Episode 94
+[2025-02-25 04:58:49,051][__main__][INFO] - Throughput: 53.10 megabits
+[2025-02-25 04:58:49,051][__main__][INFO] - Episode 95
+[2025-02-25 04:58:54,221][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 04:58:54,221][__main__][INFO] - Episode 96
+[2025-02-25 04:58:59,385][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 04:58:59,385][__main__][INFO] - Episode 97
+[2025-02-25 04:59:04,551][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 04:59:04,551][__main__][INFO] - Episode 98
+[2025-02-25 04:59:09,716][__main__][INFO] - Throughput: 53.10 megabits
+[2025-02-25 04:59:09,716][__main__][INFO] - Episode 99
+[2025-02-25 04:59:14,885][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 04:59:14,885][__main__][INFO] - Episode 100
+[2025-02-25 04:59:20,052][__main__][INFO] - Throughput: 53.10 megabits
+[2025-02-25 04:59:20,052][__main__][INFO] - Episode 101
+[2025-02-25 04:59:25,220][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 04:59:25,220][__main__][INFO] - Episode 102
+[2025-02-25 04:59:30,385][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 04:59:30,385][__main__][INFO] - Episode 103
+[2025-02-25 04:59:35,553][__main__][INFO] - Throughput: 53.06 megabits
+[2025-02-25 04:59:35,553][__main__][INFO] - Episode 104
+[2025-02-25 04:59:40,722][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 04:59:40,722][__main__][INFO] - Episode 105
+[2025-02-25 04:59:45,888][__main__][INFO] - Throughput: 53.16 megabits
+[2025-02-25 04:59:45,888][__main__][INFO] - Episode 106
+[2025-02-25 04:59:51,060][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 04:59:51,060][__main__][INFO] - Episode 107
+[2025-02-25 04:59:56,229][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 04:59:56,230][__main__][INFO] - Episode 108
+[2025-02-25 05:00:01,391][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 05:00:01,391][__main__][INFO] - Episode 109
+[2025-02-25 05:00:06,562][__main__][INFO] - Throughput: 53.16 megabits
+[2025-02-25 05:00:06,562][__main__][INFO] - Episode 110
+[2025-02-25 05:00:11,733][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 05:00:11,733][__main__][INFO] - Episode 111
+[2025-02-25 05:00:16,901][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:00:16,901][__main__][INFO] - Episode 112
+[2025-02-25 05:00:22,067][__main__][INFO] - Throughput: 53.06 megabits
+[2025-02-25 05:00:22,067][__main__][INFO] - Episode 113
+[2025-02-25 05:00:27,240][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 05:00:27,240][__main__][INFO] - Episode 114
+[2025-02-25 05:00:32,412][__main__][INFO] - Throughput: 53.15 megabits
+[2025-02-25 05:00:32,412][__main__][INFO] - Episode 115
+[2025-02-25 05:00:37,579][__main__][INFO] - Throughput: 53.07 megabits
+[2025-02-25 05:00:37,579][__main__][INFO] - Episode 116
+[2025-02-25 05:00:42,749][__main__][INFO] - Throughput: 53.20 megabits
+[2025-02-25 05:00:42,749][__main__][INFO] - Episode 117
+[2025-02-25 05:00:47,921][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 05:00:47,921][__main__][INFO] - Episode 118
+[2025-02-25 05:00:53,086][__main__][INFO] - Throughput: 53.06 megabits
+[2025-02-25 05:00:53,086][__main__][INFO] - Episode 119
+[2025-02-25 05:00:58,261][__main__][INFO] - Throughput: 53.17 megabits
+[2025-02-25 05:00:58,261][__main__][INFO] - Episode 120
+[2025-02-25 05:01:03,430][__main__][INFO] - Throughput: 53.07 megabits
+[2025-02-25 05:01:03,430][__main__][INFO] - Episode 121
+[2025-02-25 05:01:08,600][__main__][INFO] - Throughput: 53.07 megabits
+[2025-02-25 05:01:08,600][__main__][INFO] - Episode 122
+[2025-02-25 05:01:13,770][__main__][INFO] - Throughput: 53.17 megabits
+[2025-02-25 05:01:13,771][__main__][INFO] - Episode 123
+[2025-02-25 05:01:18,941][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 05:01:18,941][__main__][INFO] - Episode 124
+[2025-02-25 05:01:24,111][__main__][INFO] - Throughput: 53.03 megabits
+[2025-02-25 05:01:24,111][__main__][INFO] - Episode 125
+[2025-02-25 05:01:29,276][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:01:29,276][__main__][INFO] - Episode 126
+[2025-02-25 05:01:34,441][__main__][INFO] - Throughput: 53.06 megabits
+[2025-02-25 05:01:34,441][__main__][INFO] - Episode 127
+[2025-02-25 05:01:39,611][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:01:39,611][__main__][INFO] - Episode 128
+[2025-02-25 05:01:44,783][__main__][INFO] - Throughput: 53.20 megabits
+[2025-02-25 05:01:44,783][__main__][INFO] - Episode 129
+[2025-02-25 05:01:49,953][__main__][INFO] - Throughput: 53.20 megabits
+[2025-02-25 05:01:49,953][__main__][INFO] - Episode 130
+[2025-02-25 05:01:55,124][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 05:01:55,125][__main__][INFO] - Episode 131
+[2025-02-25 05:02:00,292][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 05:02:00,292][__main__][INFO] - Episode 132
+[2025-02-25 05:02:05,462][__main__][INFO] - Throughput: 53.16 megabits
+[2025-02-25 05:02:05,462][__main__][INFO] - Episode 133
+[2025-02-25 05:02:10,632][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 05:02:10,632][__main__][INFO] - Episode 134
+[2025-02-25 05:02:15,800][__main__][INFO] - Throughput: 53.18 megabits
+[2025-02-25 05:02:15,800][__main__][INFO] - Episode 135
+[2025-02-25 05:02:20,968][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:02:20,968][__main__][INFO] - Episode 136
+[2025-02-25 05:02:26,135][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 05:02:26,135][__main__][INFO] - Episode 137
+[2025-02-25 05:02:31,309][__main__][INFO] - Throughput: 53.19 megabits
+[2025-02-25 05:02:31,309][__main__][INFO] - Episode 138
+[2025-02-25 05:02:36,479][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 05:02:36,479][__main__][INFO] - Episode 139
+[2025-02-25 05:02:41,648][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 05:02:41,648][__main__][INFO] - Episode 140
+[2025-02-25 05:02:46,813][__main__][INFO] - Throughput: 53.16 megabits
+[2025-02-25 05:02:46,813][__main__][INFO] - Episode 141
+[2025-02-25 05:02:51,985][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 05:02:51,985][__main__][INFO] - Episode 142
+[2025-02-25 05:02:57,154][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 05:02:57,154][__main__][INFO] - Episode 143
+[2025-02-25 05:03:02,322][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:03:02,323][__main__][INFO] - Episode 144
+[2025-02-25 05:03:07,486][__main__][INFO] - Throughput: 53.05 megabits
+[2025-02-25 05:03:07,486][__main__][INFO] - Episode 145
+[2025-02-25 05:03:12,652][__main__][INFO] - Throughput: 53.03 megabits
+[2025-02-25 05:03:12,652][__main__][INFO] - Episode 146
+[2025-02-25 05:03:17,817][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 05:03:17,817][__main__][INFO] - Episode 147
+[2025-02-25 05:03:22,985][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 05:03:22,985][__main__][INFO] - Episode 148
+[2025-02-25 05:03:28,158][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 05:03:28,158][__main__][INFO] - Episode 149
+[2025-02-25 05:03:33,329][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:03:33,329][__main__][INFO] - Episode 150
+[2025-02-25 05:03:38,497][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 05:03:38,497][__main__][INFO] - Episode 151
+[2025-02-25 05:03:43,667][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 05:03:43,667][__main__][INFO] - Episode 152
+[2025-02-25 05:03:48,828][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 05:03:48,828][__main__][INFO] - Episode 153
+[2025-02-25 05:03:53,998][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 05:03:53,998][__main__][INFO] - Episode 154
+[2025-02-25 05:03:59,171][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:03:59,171][__main__][INFO] - Episode 155
+[2025-02-25 05:04:04,341][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 05:04:04,341][__main__][INFO] - Episode 156
+[2025-02-25 05:04:09,514][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 05:04:09,514][__main__][INFO] - Episode 157
+[2025-02-25 05:04:14,686][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 05:04:14,686][__main__][INFO] - Episode 158
+[2025-02-25 05:04:19,850][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:04:19,850][__main__][INFO] - Episode 159
+[2025-02-25 05:04:25,019][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 05:04:25,019][__main__][INFO] - Episode 160
+[2025-02-25 05:04:30,189][__main__][INFO] - Throughput: 53.07 megabits
+[2025-02-25 05:04:30,189][__main__][INFO] - Episode 161
+[2025-02-25 05:04:35,351][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 05:04:35,351][__main__][INFO] - Episode 162
+[2025-02-25 05:04:40,520][__main__][INFO] - Throughput: 53.06 megabits
+[2025-02-25 05:04:40,520][__main__][INFO] - Episode 163
+[2025-02-25 05:04:45,694][__main__][INFO] - Throughput: 53.15 megabits
+[2025-02-25 05:04:45,694][__main__][INFO] - Episode 164
+[2025-02-25 05:04:50,861][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:04:50,861][__main__][INFO] - Episode 165
+[2025-02-25 05:04:56,032][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:04:56,032][__main__][INFO] - Episode 166
+[2025-02-25 05:05:01,200][__main__][INFO] - Throughput: 53.07 megabits
+[2025-02-25 05:05:01,200][__main__][INFO] - Episode 167
+[2025-02-25 05:05:06,369][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 05:05:06,369][__main__][INFO] - Episode 168
+[2025-02-25 05:05:11,538][__main__][INFO] - Throughput: 53.22 megabits
+[2025-02-25 05:05:11,538][__main__][INFO] - Episode 169
+[2025-02-25 05:05:16,706][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 05:05:16,706][__main__][INFO] - Episode 170
+[2025-02-25 05:05:21,876][__main__][INFO] - Throughput: 53.07 megabits
+[2025-02-25 05:05:21,876][__main__][INFO] - Episode 171
+[2025-02-25 05:05:27,043][__main__][INFO] - Throughput: 53.04 megabits
+[2025-02-25 05:05:27,043][__main__][INFO] - Episode 172
+[2025-02-25 05:05:32,210][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 05:05:32,210][__main__][INFO] - Episode 173
+[2025-02-25 05:05:37,378][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:05:37,378][__main__][INFO] - Episode 174
+[2025-02-25 05:05:42,544][__main__][INFO] - Throughput: 53.06 megabits
+[2025-02-25 05:05:42,544][__main__][INFO] - Episode 175
+[2025-02-25 05:05:47,714][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 05:05:47,714][__main__][INFO] - Episode 176
+[2025-02-25 05:05:52,883][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 05:05:52,883][__main__][INFO] - Episode 177
+[2025-02-25 05:05:58,049][__main__][INFO] - Throughput: 53.04 megabits
+[2025-02-25 05:05:58,050][__main__][INFO] - Episode 178
+[2025-02-25 05:06:03,220][__main__][INFO] - Throughput: 53.06 megabits
+[2025-02-25 05:06:03,220][__main__][INFO] - Episode 179
+[2025-02-25 05:06:08,383][__main__][INFO] - Throughput: 53.10 megabits
+[2025-02-25 05:06:08,384][__main__][INFO] - Episode 180
+[2025-02-25 05:06:13,559][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 05:06:13,559][__main__][INFO] - Episode 181
+[2025-02-25 05:06:18,730][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:06:18,730][__main__][INFO] - Episode 182
+[2025-02-25 05:06:23,900][__main__][INFO] - Throughput: 53.10 megabits
+[2025-02-25 05:06:23,900][__main__][INFO] - Episode 183
+[2025-02-25 05:06:29,067][__main__][INFO] - Throughput: 53.04 megabits
+[2025-02-25 05:06:29,067][__main__][INFO] - Episode 184
+[2025-02-25 05:06:34,241][__main__][INFO] - Throughput: 53.20 megabits
+[2025-02-25 05:06:34,241][__main__][INFO] - Episode 185
+[2025-02-25 05:06:39,413][__main__][INFO] - Throughput: 53.15 megabits
+[2025-02-25 05:06:39,413][__main__][INFO] - Episode 186
+[2025-02-25 05:06:44,582][__main__][INFO] - Throughput: 53.16 megabits
+[2025-02-25 05:06:44,582][__main__][INFO] - Episode 187
+[2025-02-25 05:06:49,750][__main__][INFO] - Throughput: 53.14 megabits
+[2025-02-25 05:06:49,750][__main__][INFO] - Episode 188
+[2025-02-25 05:06:54,920][__main__][INFO] - Throughput: 53.05 megabits
+[2025-02-25 05:06:54,920][__main__][INFO] - Episode 189
+[2025-02-25 05:07:00,086][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 05:07:00,087][__main__][INFO] - Episode 190
+[2025-02-25 05:07:05,257][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 05:07:05,257][__main__][INFO] - Episode 191
+[2025-02-25 05:07:10,424][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 05:07:10,425][__main__][INFO] - Episode 192
+[2025-02-25 05:07:15,594][__main__][INFO] - Throughput: 53.08 megabits
+[2025-02-25 05:07:15,594][__main__][INFO] - Episode 193
+[2025-02-25 05:07:20,765][__main__][INFO] - Throughput: 53.16 megabits
+[2025-02-25 05:07:20,765][__main__][INFO] - Episode 194
+[2025-02-25 05:07:25,940][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:07:25,940][__main__][INFO] - Episode 195
+[2025-02-25 05:07:31,106][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:07:31,106][__main__][INFO] - Episode 196
+[2025-02-25 05:07:36,274][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 05:07:36,274][__main__][INFO] - Episode 197
+[2025-02-25 05:07:41,442][__main__][INFO] - Throughput: 53.01 megabits
+[2025-02-25 05:07:41,442][__main__][INFO] - Episode 198
+[2025-02-25 05:07:46,611][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:07:46,611][__main__][INFO] - Episode 199
+[2025-02-25 05:07:51,784][__main__][INFO] - Throughput: 53.17 megabits
+[2025-02-25 05:07:51,785][__main__][INFO] - Episode 200
+[2025-02-25 05:07:56,954][__main__][INFO] - Throughput: 53.08 megabits
+[2025-02-25 05:07:56,954][__main__][INFO] - Episode 201
+[2025-02-25 05:08:02,118][__main__][INFO] - Throughput: 53.03 megabits
+[2025-02-25 05:08:02,118][__main__][INFO] - Episode 202
+[2025-02-25 05:08:07,290][__main__][INFO] - Throughput: 53.13 megabits
+[2025-02-25 05:08:07,290][__main__][INFO] - Episode 203
+[2025-02-25 05:08:12,466][__main__][INFO] - Throughput: 53.16 megabits
+[2025-02-25 05:08:12,466][__main__][INFO] - Episode 204
+[2025-02-25 05:08:17,630][__main__][INFO] - Throughput: 53.10 megabits
+[2025-02-25 05:08:17,630][__main__][INFO] - Episode 205
+[2025-02-25 05:08:22,799][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 05:08:22,799][__main__][INFO] - Episode 206
+[2025-02-25 05:08:27,963][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:08:27,963][__main__][INFO] - Episode 207
+[2025-02-25 05:08:33,127][__main__][INFO] - Throughput: 53.12 megabits
+[2025-02-25 05:08:33,127][__main__][INFO] - Episode 208
+[2025-02-25 05:08:38,294][__main__][INFO] - Throughput: 53.07 megabits
+[2025-02-25 05:08:38,294][__main__][INFO] - Episode 209
+[2025-02-25 05:08:43,461][__main__][INFO] - Throughput: 53.09 megabits
+[2025-02-25 05:08:43,461][__main__][INFO] - Episode 210
+[2025-02-25 05:08:48,624][__main__][INFO] - Throughput: 53.11 megabits
+[2025-02-25 05:08:48,624][__main__][INFO] - Episode 211

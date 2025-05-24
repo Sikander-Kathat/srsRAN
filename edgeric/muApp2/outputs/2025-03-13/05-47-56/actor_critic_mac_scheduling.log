@@ -1,0 +1,159 @@
+[2025-03-13 05:47:57,068][__main__][INFO] - Iteration: 0	Episode Reward: 248326.00	Moving Avg Reward: 248326.00
+[2025-03-13 05:47:57,275][__main__][INFO] - Iteration: 1	Episode Reward: 245541.00	Moving Avg Reward: 246933.50
+[2025-03-13 05:47:57,483][__main__][INFO] - Iteration: 2	Episode Reward: 253950.00	Moving Avg Reward: 249272.33
+[2025-03-13 05:47:57,690][__main__][INFO] - Iteration: 3	Episode Reward: 245255.00	Moving Avg Reward: 248268.00
+[2025-03-13 05:47:57,898][__main__][INFO] - Iteration: 4	Episode Reward: 246165.00	Moving Avg Reward: 247847.40
+[2025-03-13 05:47:57,982][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:47:58,189][__main__][INFO] - Iteration: 5	Episode Reward: 248674.00	Moving Avg Reward: 247985.17
+[2025-03-13 05:47:58,397][__main__][INFO] - Iteration: 6	Episode Reward: 246546.00	Moving Avg Reward: 247779.57
+[2025-03-13 05:47:58,604][__main__][INFO] - Iteration: 7	Episode Reward: 250771.00	Moving Avg Reward: 248153.50
+[2025-03-13 05:47:58,812][__main__][INFO] - Iteration: 8	Episode Reward: 247923.00	Moving Avg Reward: 248127.89
+[2025-03-13 05:47:59,019][__main__][INFO] - Iteration: 9	Episode Reward: 246611.00	Moving Avg Reward: 247976.20
+[2025-03-13 05:47:59,102][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:47:59,315][__main__][INFO] - Iteration: 10	Episode Reward: 250256.00	Moving Avg Reward: 248169.20
+[2025-03-13 05:47:59,519][__main__][INFO] - Iteration: 11	Episode Reward: 244384.00	Moving Avg Reward: 248053.50
+[2025-03-13 05:47:59,727][__main__][INFO] - Iteration: 12	Episode Reward: 249774.00	Moving Avg Reward: 247635.90
+[2025-03-13 05:47:59,934][__main__][INFO] - Iteration: 13	Episode Reward: 247015.00	Moving Avg Reward: 247811.90
+[2025-03-13 05:48:00,141][__main__][INFO] - Iteration: 14	Episode Reward: 247194.00	Moving Avg Reward: 247914.80
+[2025-03-13 05:48:00,224][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:00,431][__main__][INFO] - Iteration: 15	Episode Reward: 245336.00	Moving Avg Reward: 247581.00
+[2025-03-13 05:48:00,638][__main__][INFO] - Iteration: 16	Episode Reward: 246130.00	Moving Avg Reward: 247539.40
+[2025-03-13 05:48:00,845][__main__][INFO] - Iteration: 17	Episode Reward: 252095.00	Moving Avg Reward: 247671.80
+[2025-03-13 05:48:01,052][__main__][INFO] - Iteration: 18	Episode Reward: 246934.00	Moving Avg Reward: 247572.90
+[2025-03-13 05:48:01,260][__main__][INFO] - Iteration: 19	Episode Reward: 245599.00	Moving Avg Reward: 247471.70
+[2025-03-13 05:48:01,343][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:01,551][__main__][INFO] - Iteration: 20	Episode Reward: 247787.00	Moving Avg Reward: 247224.80
+[2025-03-13 05:48:01,758][__main__][INFO] - Iteration: 21	Episode Reward: 247152.00	Moving Avg Reward: 247501.60
+[2025-03-13 05:48:01,965][__main__][INFO] - Iteration: 22	Episode Reward: 251219.00	Moving Avg Reward: 247646.10
+[2025-03-13 05:48:02,172][__main__][INFO] - Iteration: 23	Episode Reward: 246031.00	Moving Avg Reward: 247547.70
+[2025-03-13 05:48:02,379][__main__][INFO] - Iteration: 24	Episode Reward: 245342.00	Moving Avg Reward: 247362.50
+[2025-03-13 05:48:02,474][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:02,682][__main__][INFO] - Iteration: 25	Episode Reward: 252755.00	Moving Avg Reward: 248104.40
+[2025-03-13 05:48:02,888][__main__][INFO] - Iteration: 26	Episode Reward: 247438.00	Moving Avg Reward: 248235.20
+[2025-03-13 05:48:03,207][__main__][INFO] - Iteration: 27	Episode Reward: 247799.00	Moving Avg Reward: 247805.60
+[2025-03-13 05:48:03,414][__main__][INFO] - Iteration: 28	Episode Reward: 244748.00	Moving Avg Reward: 247587.00
+[2025-03-13 05:48:03,620][__main__][INFO] - Iteration: 29	Episode Reward: 246926.00	Moving Avg Reward: 247719.70
+[2025-03-13 05:48:03,717][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:03,925][__main__][INFO] - Iteration: 30	Episode Reward: 249582.00	Moving Avg Reward: 247899.20
+[2025-03-13 05:48:04,131][__main__][INFO] - Iteration: 31	Episode Reward: 246963.00	Moving Avg Reward: 247880.30
+[2025-03-13 05:48:04,338][__main__][INFO] - Iteration: 32	Episode Reward: 245678.00	Moving Avg Reward: 247326.20
+[2025-03-13 05:48:04,544][__main__][INFO] - Iteration: 33	Episode Reward: 249720.00	Moving Avg Reward: 247695.10
+[2025-03-13 05:48:04,752][__main__][INFO] - Iteration: 34	Episode Reward: 247754.00	Moving Avg Reward: 247936.30
+[2025-03-13 05:48:04,850][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:05,058][__main__][INFO] - Iteration: 35	Episode Reward: 244408.00	Moving Avg Reward: 247101.60
+[2025-03-13 05:48:05,264][__main__][INFO] - Iteration: 36	Episode Reward: 251753.00	Moving Avg Reward: 247533.10
+[2025-03-13 05:48:05,471][__main__][INFO] - Iteration: 37	Episode Reward: 246047.00	Moving Avg Reward: 247357.90
+[2025-03-13 05:48:05,677][__main__][INFO] - Iteration: 38	Episode Reward: 245067.00	Moving Avg Reward: 247389.80
+[2025-03-13 05:48:05,884][__main__][INFO] - Iteration: 39	Episode Reward: 250513.00	Moving Avg Reward: 247748.50
+[2025-03-13 05:48:05,975][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:06,183][__main__][INFO] - Iteration: 40	Episode Reward: 253239.00	Moving Avg Reward: 248114.20
+[2025-03-13 05:48:06,390][__main__][INFO] - Iteration: 41	Episode Reward: 243287.00	Moving Avg Reward: 247746.60
+[2025-03-13 05:48:06,598][__main__][INFO] - Iteration: 42	Episode Reward: 245416.00	Moving Avg Reward: 247720.40
+[2025-03-13 05:48:06,805][__main__][INFO] - Iteration: 43	Episode Reward: 253087.00	Moving Avg Reward: 248057.10
+[2025-03-13 05:48:07,013][__main__][INFO] - Iteration: 44	Episode Reward: 248414.00	Moving Avg Reward: 248123.10
+[2025-03-13 05:48:07,098][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:07,305][__main__][INFO] - Iteration: 45	Episode Reward: 249691.00	Moving Avg Reward: 248651.40
+[2025-03-13 05:48:07,512][__main__][INFO] - Iteration: 46	Episode Reward: 247576.00	Moving Avg Reward: 248233.70
+[2025-03-13 05:48:07,719][__main__][INFO] - Iteration: 47	Episode Reward: 248630.00	Moving Avg Reward: 248492.00
+[2025-03-13 05:48:07,927][__main__][INFO] - Iteration: 48	Episode Reward: 251061.00	Moving Avg Reward: 249091.40
+[2025-03-13 05:48:08,135][__main__][INFO] - Iteration: 49	Episode Reward: 245065.00	Moving Avg Reward: 248546.60
+[2025-03-13 05:48:08,216][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:08,423][__main__][INFO] - Iteration: 50	Episode Reward: 249973.00	Moving Avg Reward: 248220.00
+[2025-03-13 05:48:08,630][__main__][INFO] - Iteration: 51	Episode Reward: 247851.00	Moving Avg Reward: 248676.40
+[2025-03-13 05:48:08,838][__main__][INFO] - Iteration: 52	Episode Reward: 247179.00	Moving Avg Reward: 248852.70
+[2025-03-13 05:48:09,044][__main__][INFO] - Iteration: 53	Episode Reward: 249763.00	Moving Avg Reward: 248520.30
+[2025-03-13 05:48:09,250][__main__][INFO] - Iteration: 54	Episode Reward: 245867.00	Moving Avg Reward: 248265.60
+[2025-03-13 05:48:09,347][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:09,556][__main__][INFO] - Iteration: 55	Episode Reward: 247386.00	Moving Avg Reward: 248035.10
+[2025-03-13 05:48:09,762][__main__][INFO] - Iteration: 56	Episode Reward: 250275.00	Moving Avg Reward: 248305.00
+[2025-03-13 05:48:09,969][__main__][INFO] - Iteration: 57	Episode Reward: 247690.00	Moving Avg Reward: 248211.00
+[2025-03-13 05:48:10,178][__main__][INFO] - Iteration: 58	Episode Reward: 247193.00	Moving Avg Reward: 247824.20
+[2025-03-13 05:48:10,385][__main__][INFO] - Iteration: 59	Episode Reward: 251925.00	Moving Avg Reward: 248510.20
+[2025-03-13 05:48:10,477][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:10,685][__main__][INFO] - Iteration: 60	Episode Reward: 250107.00	Moving Avg Reward: 248523.60
+[2025-03-13 05:48:10,891][__main__][INFO] - Iteration: 61	Episode Reward: 244751.00	Moving Avg Reward: 248213.60
+[2025-03-13 05:48:11,097][__main__][INFO] - Iteration: 62	Episode Reward: 247889.00	Moving Avg Reward: 248284.60
+[2025-03-13 05:48:11,304][__main__][INFO] - Iteration: 63	Episode Reward: 251556.00	Moving Avg Reward: 248463.90
+[2025-03-13 05:48:11,511][__main__][INFO] - Iteration: 64	Episode Reward: 246163.00	Moving Avg Reward: 248493.50
+[2025-03-13 05:48:11,609][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:11,817][__main__][INFO] - Iteration: 65	Episode Reward: 247075.00	Moving Avg Reward: 248462.40
+[2025-03-13 05:48:12,024][__main__][INFO] - Iteration: 66	Episode Reward: 249462.00	Moving Avg Reward: 248381.10
+[2025-03-13 05:48:12,231][__main__][INFO] - Iteration: 67	Episode Reward: 247652.00	Moving Avg Reward: 248377.30
+[2025-03-13 05:48:12,438][__main__][INFO] - Iteration: 68	Episode Reward: 247685.00	Moving Avg Reward: 248426.50
+[2025-03-13 05:48:12,645][__main__][INFO] - Iteration: 69	Episode Reward: 248002.00	Moving Avg Reward: 248034.20
+[2025-03-13 05:48:12,733][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:12,940][__main__][INFO] - Iteration: 70	Episode Reward: 248964.00	Moving Avg Reward: 247919.90
+[2025-03-13 05:48:13,146][__main__][INFO] - Iteration: 71	Episode Reward: 247907.00	Moving Avg Reward: 248235.50
+[2025-03-13 05:48:13,353][__main__][INFO] - Iteration: 72	Episode Reward: 244054.00	Moving Avg Reward: 247852.00
+[2025-03-13 05:48:13,560][__main__][INFO] - Iteration: 73	Episode Reward: 249007.00	Moving Avg Reward: 247597.10
+[2025-03-13 05:48:13,766][__main__][INFO] - Iteration: 74	Episode Reward: 247708.00	Moving Avg Reward: 247751.60
+[2025-03-13 05:48:13,864][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:14,151][__main__][INFO] - Iteration: 75	Episode Reward: 244460.00	Moving Avg Reward: 247490.10
+[2025-03-13 05:48:14,358][__main__][INFO] - Iteration: 76	Episode Reward: 248155.00	Moving Avg Reward: 247359.40
+[2025-03-13 05:48:14,565][__main__][INFO] - Iteration: 77	Episode Reward: 246492.00	Moving Avg Reward: 247243.40
+[2025-03-13 05:48:14,774][__main__][INFO] - Iteration: 78	Episode Reward: 249562.00	Moving Avg Reward: 247431.10
+[2025-03-13 05:48:14,981][__main__][INFO] - Iteration: 79	Episode Reward: 250398.00	Moving Avg Reward: 247670.70
+[2025-03-13 05:48:15,067][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:15,273][__main__][INFO] - Iteration: 80	Episode Reward: 248758.00	Moving Avg Reward: 247650.10
+[2025-03-13 05:48:15,479][__main__][INFO] - Iteration: 81	Episode Reward: 247760.00	Moving Avg Reward: 247635.40
+[2025-03-13 05:48:15,686][__main__][INFO] - Iteration: 82	Episode Reward: 246489.00	Moving Avg Reward: 247878.90
+[2025-03-13 05:48:15,894][__main__][INFO] - Iteration: 83	Episode Reward: 251100.00	Moving Avg Reward: 248088.20
+[2025-03-13 05:48:16,101][__main__][INFO] - Iteration: 84	Episode Reward: 247151.00	Moving Avg Reward: 248032.50
+[2025-03-13 05:48:16,188][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:16,395][__main__][INFO] - Iteration: 85	Episode Reward: 250327.00	Moving Avg Reward: 248619.20
+[2025-03-13 05:48:16,603][__main__][INFO] - Iteration: 86	Episode Reward: 249310.00	Moving Avg Reward: 248734.70
+[2025-03-13 05:48:16,810][__main__][INFO] - Iteration: 87	Episode Reward: 244913.00	Moving Avg Reward: 248576.80
+[2025-03-13 05:48:17,017][__main__][INFO] - Iteration: 88	Episode Reward: 250778.00	Moving Avg Reward: 248698.40
+[2025-03-13 05:48:17,224][__main__][INFO] - Iteration: 89	Episode Reward: 245170.00	Moving Avg Reward: 248175.60
+[2025-03-13 05:48:17,310][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:17,517][__main__][INFO] - Iteration: 90	Episode Reward: 249902.00	Moving Avg Reward: 248290.00
+[2025-03-13 05:48:17,724][__main__][INFO] - Iteration: 91	Episode Reward: 243818.00	Moving Avg Reward: 247895.80
+[2025-03-13 05:48:17,931][__main__][INFO] - Iteration: 92	Episode Reward: 249069.00	Moving Avg Reward: 248153.80
+[2025-03-13 05:48:18,138][__main__][INFO] - Iteration: 93	Episode Reward: 249826.00	Moving Avg Reward: 248026.40
+[2025-03-13 05:48:18,346][__main__][INFO] - Iteration: 94	Episode Reward: 249104.00	Moving Avg Reward: 248221.70
+[2025-03-13 05:48:18,431][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:18,639][__main__][INFO] - Iteration: 95	Episode Reward: 249046.00	Moving Avg Reward: 248093.60
+[2025-03-13 05:48:18,846][__main__][INFO] - Iteration: 96	Episode Reward: 246405.00	Moving Avg Reward: 247803.10
+[2025-03-13 05:48:19,053][__main__][INFO] - Iteration: 97	Episode Reward: 250746.00	Moving Avg Reward: 248386.40
+[2025-03-13 05:48:19,261][__main__][INFO] - Iteration: 98	Episode Reward: 248440.00	Moving Avg Reward: 248152.60
+[2025-03-13 05:48:19,469][__main__][INFO] - Iteration: 99	Episode Reward: 244570.00	Moving Avg Reward: 248092.60
+[2025-03-13 05:48:19,554][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:19,761][__main__][INFO] - Iteration: 100	Episode Reward: 245634.00	Moving Avg Reward: 247665.80
+[2025-03-13 05:48:19,968][__main__][INFO] - Iteration: 101	Episode Reward: 247076.00	Moving Avg Reward: 247991.60
+[2025-03-13 05:48:20,175][__main__][INFO] - Iteration: 102	Episode Reward: 250620.00	Moving Avg Reward: 248146.70
+[2025-03-13 05:48:20,382][__main__][INFO] - Iteration: 103	Episode Reward: 245616.00	Moving Avg Reward: 247725.70
+[2025-03-13 05:48:20,589][__main__][INFO] - Iteration: 104	Episode Reward: 247119.00	Moving Avg Reward: 247527.20
+[2025-03-13 05:48:20,673][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:20,881][__main__][INFO] - Iteration: 105	Episode Reward: 246075.00	Moving Avg Reward: 247230.10
+[2025-03-13 05:48:21,088][__main__][INFO] - Iteration: 106	Episode Reward: 247374.00	Moving Avg Reward: 247327.00
+[2025-03-13 05:48:21,295][__main__][INFO] - Iteration: 107	Episode Reward: 249970.00	Moving Avg Reward: 247249.40
+[2025-03-13 05:48:21,503][__main__][INFO] - Iteration: 108	Episode Reward: 244876.00	Moving Avg Reward: 246893.00
+[2025-03-13 05:48:21,711][__main__][INFO] - Iteration: 109	Episode Reward: 249223.00	Moving Avg Reward: 247358.30
+[2025-03-13 05:48:21,802][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:22,011][__main__][INFO] - Iteration: 110	Episode Reward: 246783.00	Moving Avg Reward: 247473.20
+[2025-03-13 05:48:22,218][__main__][INFO] - Iteration: 111	Episode Reward: 248998.00	Moving Avg Reward: 247665.40
+[2025-03-13 05:48:22,425][__main__][INFO] - Iteration: 112	Episode Reward: 247340.00	Moving Avg Reward: 247337.40
+[2025-03-13 05:48:22,633][__main__][INFO] - Iteration: 113	Episode Reward: 247713.00	Moving Avg Reward: 247547.10
+[2025-03-13 05:48:22,839][__main__][INFO] - Iteration: 114	Episode Reward: 250077.00	Moving Avg Reward: 247842.90
+[2025-03-13 05:48:22,930][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:23,139][__main__][INFO] - Iteration: 115	Episode Reward: 251147.00	Moving Avg Reward: 248350.10
+[2025-03-13 05:48:23,347][__main__][INFO] - Iteration: 116	Episode Reward: 245592.00	Moving Avg Reward: 248171.90
+[2025-03-13 05:48:23,553][__main__][INFO] - Iteration: 117	Episode Reward: 251084.00	Moving Avg Reward: 248283.30
+[2025-03-13 05:48:23,834][__main__][INFO] - Iteration: 118	Episode Reward: 249431.00	Moving Avg Reward: 248738.80
+[2025-03-13 05:48:24,041][__main__][INFO] - Iteration: 119	Episode Reward: 246788.00	Moving Avg Reward: 248495.30
+[2025-03-13 05:48:24,133][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:24,340][__main__][INFO] - Iteration: 120	Episode Reward: 245920.00	Moving Avg Reward: 248409.00
+[2025-03-13 05:48:24,547][__main__][INFO] - Iteration: 121	Episode Reward: 247849.00	Moving Avg Reward: 248294.10
+[2025-03-13 05:48:24,754][__main__][INFO] - Iteration: 122	Episode Reward: 249735.00	Moving Avg Reward: 248533.60
+[2025-03-13 05:48:24,966][__main__][INFO] - Iteration: 123	Episode Reward: 248949.00	Moving Avg Reward: 248657.20
+[2025-03-13 05:48:25,170][__main__][INFO] - Iteration: 124	Episode Reward: 248731.00	Moving Avg Reward: 248522.60
+[2025-03-13 05:48:25,269][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:25,478][__main__][INFO] - Iteration: 125	Episode Reward: 245845.00	Moving Avg Reward: 247992.40
+[2025-03-13 05:48:25,685][__main__][INFO] - Iteration: 126	Episode Reward: 244806.00	Moving Avg Reward: 247913.80
+[2025-03-13 05:48:25,892][__main__][INFO] - Iteration: 127	Episode Reward: 250316.00	Moving Avg Reward: 247837.00
+[2025-03-13 05:48:26,098][__main__][INFO] - Iteration: 128	Episode Reward: 247039.00	Moving Avg Reward: 247597.80
+[2025-03-13 05:48:26,305][__main__][INFO] - Iteration: 129	Episode Reward: 243765.00	Moving Avg Reward: 247295.50
+[2025-03-13 05:48:26,388][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0208
+[2025-03-13 05:48:26,595][__main__][INFO] - Iteration: 130	Episode Reward: 247822.00	Moving Avg Reward: 247485.70
+[2025-03-13 05:48:26,802][__main__][INFO] - Iteration: 131	Episode Reward: 244928.00	Moving Avg Reward: 247193.60
+[2025-03-13 05:48:27,009][__main__][INFO] - Iteration: 132	Episode Reward: 251807.00	Moving Avg Reward: 247400.80

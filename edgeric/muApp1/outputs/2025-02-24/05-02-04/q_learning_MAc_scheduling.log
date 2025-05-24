@@ -1,0 +1,2 @@
+[2025-02-24 05:02:05,014][__main__][INFO] - Evaluating Q-learning agent
+[2025-02-24 05:02:05,348][__main__][INFO] - Loading Q-learning model from: outputs/2025-02-24/05-02-04/checkpoints/q_learning_model.pth

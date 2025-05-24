@@ -1,0 +1,1201 @@
+[2025-03-12 12:06:41,401][__main__][INFO] - Iteration: 0	Episode Reward: 0.00
+[2025-03-12 12:06:41,607][__main__][INFO] - Iteration: 1	Episode Reward: 0.00
+[2025-03-12 12:06:41,812][__main__][INFO] - Iteration: 2	Episode Reward: 97.00
+[2025-03-12 12:06:42,018][__main__][INFO] - Iteration: 3	Episode Reward: 0.00
+[2025-03-12 12:06:42,223][__main__][INFO] - Iteration: 4	Episode Reward: 97.00
+[2025-03-12 12:06:42,305][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:06:42,510][__main__][INFO] - Iteration: 5	Episode Reward: 0.00
+[2025-03-12 12:06:42,715][__main__][INFO] - Iteration: 6	Episode Reward: 97.00
+[2025-03-12 12:06:42,921][__main__][INFO] - Iteration: 7	Episode Reward: 0.00
+[2025-03-12 12:06:43,126][__main__][INFO] - Iteration: 8	Episode Reward: 97.00
+[2025-03-12 12:06:43,331][__main__][INFO] - Iteration: 9	Episode Reward: 0.00
+[2025-03-12 12:06:43,416][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:06:43,621][__main__][INFO] - Iteration: 10	Episode Reward: 0.00
+[2025-03-12 12:06:43,826][__main__][INFO] - Iteration: 11	Episode Reward: 97.00
+[2025-03-12 12:06:44,032][__main__][INFO] - Iteration: 12	Episode Reward: 0.00
+[2025-03-12 12:06:44,237][__main__][INFO] - Iteration: 13	Episode Reward: 97.00
+[2025-03-12 12:06:44,442][__main__][INFO] - Iteration: 14	Episode Reward: 0.00
+[2025-03-12 12:06:44,525][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:06:44,731][__main__][INFO] - Iteration: 15	Episode Reward: 97.00
+[2025-03-12 12:06:44,936][__main__][INFO] - Iteration: 16	Episode Reward: 0.00
+[2025-03-12 12:06:45,142][__main__][INFO] - Iteration: 17	Episode Reward: 97.00
+[2025-03-12 12:06:45,347][__main__][INFO] - Iteration: 18	Episode Reward: 0.00
+[2025-03-12 12:06:45,553][__main__][INFO] - Iteration: 19	Episode Reward: 0.00
+[2025-03-12 12:06:45,654][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:06:45,860][__main__][INFO] - Iteration: 20	Episode Reward: 97.00
+[2025-03-12 12:06:46,066][__main__][INFO] - Iteration: 21	Episode Reward: 0.00
+[2025-03-12 12:06:46,271][__main__][INFO] - Iteration: 22	Episode Reward: 97.00
+[2025-03-12 12:06:46,477][__main__][INFO] - Iteration: 23	Episode Reward: 0.00
+[2025-03-12 12:06:46,683][__main__][INFO] - Iteration: 24	Episode Reward: 0.00
+[2025-03-12 12:06:46,767][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0128
+[2025-03-12 12:06:46,972][__main__][INFO] - Iteration: 25	Episode Reward: 0.00
+[2025-03-12 12:06:47,178][__main__][INFO] - Iteration: 26	Episode Reward: 97.00
+[2025-03-12 12:06:47,461][__main__][INFO] - Iteration: 27	Episode Reward: 0.00
+[2025-03-12 12:06:47,667][__main__][INFO] - Iteration: 28	Episode Reward: 0.00
+[2025-03-12 12:06:47,872][__main__][INFO] - Iteration: 29	Episode Reward: 97.00
+[2025-03-12 12:06:47,964][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:06:48,172][__main__][INFO] - Iteration: 30	Episode Reward: 97.00
+[2025-03-12 12:06:48,377][__main__][INFO] - Iteration: 31	Episode Reward: 0.00
+[2025-03-12 12:06:48,583][__main__][INFO] - Iteration: 32	Episode Reward: 0.00
+[2025-03-12 12:06:48,788][__main__][INFO] - Iteration: 33	Episode Reward: 97.00
+[2025-03-12 12:06:48,994][__main__][INFO] - Iteration: 34	Episode Reward: 0.00
+[2025-03-12 12:06:49,095][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:06:49,302][__main__][INFO] - Iteration: 35	Episode Reward: 0.00
+[2025-03-12 12:06:49,507][__main__][INFO] - Iteration: 36	Episode Reward: 0.00
+[2025-03-12 12:06:49,713][__main__][INFO] - Iteration: 37	Episode Reward: 0.00
+[2025-03-12 12:06:49,919][__main__][INFO] - Iteration: 38	Episode Reward: 97.00
+[2025-03-12 12:06:50,125][__main__][INFO] - Iteration: 39	Episode Reward: 97.00
+[2025-03-12 12:06:50,222][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0169
+[2025-03-12 12:06:50,428][__main__][INFO] - Iteration: 40	Episode Reward: 0.00
+[2025-03-12 12:06:50,633][__main__][INFO] - Iteration: 41	Episode Reward: 0.00
+[2025-03-12 12:06:50,839][__main__][INFO] - Iteration: 42	Episode Reward: 101.00
+[2025-03-12 12:06:51,044][__main__][INFO] - Iteration: 43	Episode Reward: 0.00
+[2025-03-12 12:06:51,249][__main__][INFO] - Iteration: 44	Episode Reward: 97.00
+[2025-03-12 12:06:51,333][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:06:51,538][__main__][INFO] - Iteration: 45	Episode Reward: 0.00
+[2025-03-12 12:06:51,744][__main__][INFO] - Iteration: 46	Episode Reward: 97.00
+[2025-03-12 12:06:51,949][__main__][INFO] - Iteration: 47	Episode Reward: 0.00
+[2025-03-12 12:06:52,154][__main__][INFO] - Iteration: 48	Episode Reward: 97.00
+[2025-03-12 12:06:52,360][__main__][INFO] - Iteration: 49	Episode Reward: 0.00
+[2025-03-12 12:06:52,442][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:06:52,647][__main__][INFO] - Iteration: 50	Episode Reward: 0.00
+[2025-03-12 12:06:52,853][__main__][INFO] - Iteration: 51	Episode Reward: 101.00
+[2025-03-12 12:06:53,058][__main__][INFO] - Iteration: 52	Episode Reward: 0.00
+[2025-03-12 12:06:53,263][__main__][INFO] - Iteration: 53	Episode Reward: 97.00
+[2025-03-12 12:06:53,469][__main__][INFO] - Iteration: 54	Episode Reward: 0.00
+[2025-03-12 12:06:53,565][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:06:53,770][__main__][INFO] - Iteration: 55	Episode Reward: 97.00
+[2025-03-12 12:06:53,976][__main__][INFO] - Iteration: 56	Episode Reward: 0.00
+[2025-03-12 12:06:54,181][__main__][INFO] - Iteration: 57	Episode Reward: 97.00
+[2025-03-12 12:06:54,387][__main__][INFO] - Iteration: 58	Episode Reward: 0.00
+[2025-03-12 12:06:54,593][__main__][INFO] - Iteration: 59	Episode Reward: 0.00
+[2025-03-12 12:06:54,677][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:06:54,882][__main__][INFO] - Iteration: 60	Episode Reward: 97.00
+[2025-03-12 12:06:55,088][__main__][INFO] - Iteration: 61	Episode Reward: 0.00
+[2025-03-12 12:06:55,293][__main__][INFO] - Iteration: 62	Episode Reward: 97.00
+[2025-03-12 12:06:55,499][__main__][INFO] - Iteration: 63	Episode Reward: 0.00
+[2025-03-12 12:06:55,705][__main__][INFO] - Iteration: 64	Episode Reward: 0.00
+[2025-03-12 12:06:55,807][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0133
+[2025-03-12 12:06:56,014][__main__][INFO] - Iteration: 65	Episode Reward: 0.00
+[2025-03-12 12:06:56,219][__main__][INFO] - Iteration: 66	Episode Reward: 97.00
+[2025-03-12 12:06:56,425][__main__][INFO] - Iteration: 67	Episode Reward: 0.00
+[2025-03-12 12:06:56,630][__main__][INFO] - Iteration: 68	Episode Reward: 0.00
+[2025-03-12 12:06:56,836][__main__][INFO] - Iteration: 69	Episode Reward: 97.00
+[2025-03-12 12:06:56,917][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:06:57,121][__main__][INFO] - Iteration: 70	Episode Reward: 97.00
+[2025-03-12 12:06:57,327][__main__][INFO] - Iteration: 71	Episode Reward: 0.00
+[2025-03-12 12:06:57,532][__main__][INFO] - Iteration: 72	Episode Reward: 0.00
+[2025-03-12 12:06:57,737][__main__][INFO] - Iteration: 73	Episode Reward: 101.00
+[2025-03-12 12:06:57,943][__main__][INFO] - Iteration: 74	Episode Reward: 0.00
+[2025-03-12 12:06:58,025][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:06:58,306][__main__][INFO] - Iteration: 75	Episode Reward: 97.00
+[2025-03-12 12:06:58,511][__main__][INFO] - Iteration: 76	Episode Reward: 0.00
+[2025-03-12 12:06:58,717][__main__][INFO] - Iteration: 77	Episode Reward: 0.00
+[2025-03-12 12:06:58,922][__main__][INFO] - Iteration: 78	Episode Reward: 97.00
+[2025-03-12 12:06:59,127][__main__][INFO] - Iteration: 79	Episode Reward: 97.00
+[2025-03-12 12:06:59,221][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0086
+[2025-03-12 12:06:59,427][__main__][INFO] - Iteration: 80	Episode Reward: 0.00
+[2025-03-12 12:06:59,633][__main__][INFO] - Iteration: 81	Episode Reward: 0.00
+[2025-03-12 12:06:59,838][__main__][INFO] - Iteration: 82	Episode Reward: 101.00
+[2025-03-12 12:07:00,043][__main__][INFO] - Iteration: 83	Episode Reward: 0.00
+[2025-03-12 12:07:00,249][__main__][INFO] - Iteration: 84	Episode Reward: 97.00
+[2025-03-12 12:07:00,344][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:07:00,551][__main__][INFO] - Iteration: 85	Episode Reward: 0.00
+[2025-03-12 12:07:00,757][__main__][INFO] - Iteration: 86	Episode Reward: 97.00
+[2025-03-12 12:07:00,962][__main__][INFO] - Iteration: 87	Episode Reward: 0.00
+[2025-03-12 12:07:01,168][__main__][INFO] - Iteration: 88	Episode Reward: 97.00
+[2025-03-12 12:07:01,373][__main__][INFO] - Iteration: 89	Episode Reward: 0.00
+[2025-03-12 12:07:01,470][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:01,677][__main__][INFO] - Iteration: 90	Episode Reward: 0.00
+[2025-03-12 12:07:01,883][__main__][INFO] - Iteration: 91	Episode Reward: 97.00
+[2025-03-12 12:07:02,088][__main__][INFO] - Iteration: 92	Episode Reward: 0.00
+[2025-03-12 12:07:02,294][__main__][INFO] - Iteration: 93	Episode Reward: 97.00
+[2025-03-12 12:07:02,499][__main__][INFO] - Iteration: 94	Episode Reward: 0.00
+[2025-03-12 12:07:02,579][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0128
+[2025-03-12 12:07:02,784][__main__][INFO] - Iteration: 95	Episode Reward: 101.00
+[2025-03-12 12:07:02,990][__main__][INFO] - Iteration: 96	Episode Reward: 0.00
+[2025-03-12 12:07:03,196][__main__][INFO] - Iteration: 97	Episode Reward: 97.00
+[2025-03-12 12:07:03,401][__main__][INFO] - Iteration: 98	Episode Reward: 0.00
+[2025-03-12 12:07:03,607][__main__][INFO] - Iteration: 99	Episode Reward: 0.00
+[2025-03-12 12:07:03,707][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:07:03,914][__main__][INFO] - Iteration: 100	Episode Reward: 97.00
+[2025-03-12 12:07:04,120][__main__][INFO] - Iteration: 101	Episode Reward: 97.00
+[2025-03-12 12:07:04,325][__main__][INFO] - Iteration: 102	Episode Reward: 0.00
+[2025-03-12 12:07:04,531][__main__][INFO] - Iteration: 103	Episode Reward: 0.00
+[2025-03-12 12:07:04,737][__main__][INFO] - Iteration: 104	Episode Reward: 97.00
+[2025-03-12 12:07:04,823][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0076
+[2025-03-12 12:07:05,029][__main__][INFO] - Iteration: 105	Episode Reward: 0.00
+[2025-03-12 12:07:05,234][__main__][INFO] - Iteration: 106	Episode Reward: 97.00
+[2025-03-12 12:07:05,440][__main__][INFO] - Iteration: 107	Episode Reward: 0.00
+[2025-03-12 12:07:05,645][__main__][INFO] - Iteration: 108	Episode Reward: 0.00
+[2025-03-12 12:07:05,850][__main__][INFO] - Iteration: 109	Episode Reward: 97.00
+[2025-03-12 12:07:05,938][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:06,143][__main__][INFO] - Iteration: 110	Episode Reward: 97.00
+[2025-03-12 12:07:06,349][__main__][INFO] - Iteration: 111	Episode Reward: 0.00
+[2025-03-12 12:07:06,554][__main__][INFO] - Iteration: 112	Episode Reward: 0.00
+[2025-03-12 12:07:06,760][__main__][INFO] - Iteration: 113	Episode Reward: 97.00
+[2025-03-12 12:07:06,966][__main__][INFO] - Iteration: 114	Episode Reward: 0.00
+[2025-03-12 12:07:07,048][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:07,254][__main__][INFO] - Iteration: 115	Episode Reward: 97.00
+[2025-03-12 12:07:07,459][__main__][INFO] - Iteration: 116	Episode Reward: 0.00
+[2025-03-12 12:07:07,664][__main__][INFO] - Iteration: 117	Episode Reward: 0.00
+[2025-03-12 12:07:07,989][__main__][INFO] - Iteration: 118	Episode Reward: 0.00
+[2025-03-12 12:07:08,194][__main__][INFO] - Iteration: 119	Episode Reward: 97.00
+[2025-03-12 12:07:08,285][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:08,492][__main__][INFO] - Iteration: 120	Episode Reward: 0.00
+[2025-03-12 12:07:08,698][__main__][INFO] - Iteration: 121	Episode Reward: 0.00
+[2025-03-12 12:07:08,904][__main__][INFO] - Iteration: 122	Episode Reward: 97.00
+[2025-03-12 12:07:09,109][__main__][INFO] - Iteration: 123	Episode Reward: 0.00
+[2025-03-12 12:07:09,315][__main__][INFO] - Iteration: 124	Episode Reward: 97.00
+[2025-03-12 12:07:09,407][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0150
+[2025-03-12 12:07:09,614][__main__][INFO] - Iteration: 125	Episode Reward: 0.00
+[2025-03-12 12:07:09,819][__main__][INFO] - Iteration: 126	Episode Reward: 97.00
+[2025-03-12 12:07:10,025][__main__][INFO] - Iteration: 127	Episode Reward: 0.00
+[2025-03-12 12:07:10,231][__main__][INFO] - Iteration: 128	Episode Reward: 97.00
+[2025-03-12 12:07:10,437][__main__][INFO] - Iteration: 129	Episode Reward: 0.00
+[2025-03-12 12:07:10,523][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:10,730][__main__][INFO] - Iteration: 130	Episode Reward: 0.00
+[2025-03-12 12:07:10,935][__main__][INFO] - Iteration: 131	Episode Reward: 97.00
+[2025-03-12 12:07:11,141][__main__][INFO] - Iteration: 132	Episode Reward: 97.00
+[2025-03-12 12:07:11,346][__main__][INFO] - Iteration: 133	Episode Reward: 0.00
+[2025-03-12 12:07:11,552][__main__][INFO] - Iteration: 134	Episode Reward: 0.00
+[2025-03-12 12:07:11,640][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0137
+[2025-03-12 12:07:11,845][__main__][INFO] - Iteration: 135	Episode Reward: 97.00
+[2025-03-12 12:07:12,052][__main__][INFO] - Iteration: 136	Episode Reward: 0.00
+[2025-03-12 12:07:12,256][__main__][INFO] - Iteration: 137	Episode Reward: 97.00
+[2025-03-12 12:07:12,462][__main__][INFO] - Iteration: 138	Episode Reward: 0.00
+[2025-03-12 12:07:12,667][__main__][INFO] - Iteration: 139	Episode Reward: 0.00
+[2025-03-12 12:07:12,752][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:12,958][__main__][INFO] - Iteration: 140	Episode Reward: 0.00
+[2025-03-12 12:07:13,163][__main__][INFO] - Iteration: 141	Episode Reward: 97.00
+[2025-03-12 12:07:13,369][__main__][INFO] - Iteration: 142	Episode Reward: 0.00
+[2025-03-12 12:07:13,575][__main__][INFO] - Iteration: 143	Episode Reward: 0.00
+[2025-03-12 12:07:13,781][__main__][INFO] - Iteration: 144	Episode Reward: 97.00
+[2025-03-12 12:07:13,881][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:14,089][__main__][INFO] - Iteration: 145	Episode Reward: 0.00
+[2025-03-12 12:07:14,294][__main__][INFO] - Iteration: 146	Episode Reward: 97.00
+[2025-03-12 12:07:14,500][__main__][INFO] - Iteration: 147	Episode Reward: 0.00
+[2025-03-12 12:07:14,705][__main__][INFO] - Iteration: 148	Episode Reward: 0.00
+[2025-03-12 12:07:14,911][__main__][INFO] - Iteration: 149	Episode Reward: 101.00
+[2025-03-12 12:07:15,006][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:07:15,212][__main__][INFO] - Iteration: 150	Episode Reward: 97.00
+[2025-03-12 12:07:15,418][__main__][INFO] - Iteration: 151	Episode Reward: 0.00
+[2025-03-12 12:07:15,624][__main__][INFO] - Iteration: 152	Episode Reward: 0.00
+[2025-03-12 12:07:15,830][__main__][INFO] - Iteration: 153	Episode Reward: 97.00
+[2025-03-12 12:07:16,035][__main__][INFO] - Iteration: 154	Episode Reward: 0.00
+[2025-03-12 12:07:16,124][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:16,329][__main__][INFO] - Iteration: 155	Episode Reward: 0.00
+[2025-03-12 12:07:16,534][__main__][INFO] - Iteration: 156	Episode Reward: 0.00
+[2025-03-12 12:07:16,740][__main__][INFO] - Iteration: 157	Episode Reward: 0.00
+[2025-03-12 12:07:16,945][__main__][INFO] - Iteration: 158	Episode Reward: 97.00
+[2025-03-12 12:07:17,150][__main__][INFO] - Iteration: 159	Episode Reward: 97.00
+[2025-03-12 12:07:17,239][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0150
+[2025-03-12 12:07:17,444][__main__][INFO] - Iteration: 160	Episode Reward: 0.00
+[2025-03-12 12:07:17,649][__main__][INFO] - Iteration: 161	Episode Reward: 0.00
+[2025-03-12 12:07:17,854][__main__][INFO] - Iteration: 162	Episode Reward: 101.00
+[2025-03-12 12:07:18,060][__main__][INFO] - Iteration: 163	Episode Reward: 0.00
+[2025-03-12 12:07:18,265][__main__][INFO] - Iteration: 164	Episode Reward: 97.00
+[2025-03-12 12:07:18,351][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:07:18,556][__main__][INFO] - Iteration: 165	Episode Reward: 0.00
+[2025-03-12 12:07:18,761][__main__][INFO] - Iteration: 166	Episode Reward: 97.00
+[2025-03-12 12:07:18,966][__main__][INFO] - Iteration: 167	Episode Reward: 0.00
+[2025-03-12 12:07:19,172][__main__][INFO] - Iteration: 168	Episode Reward: 97.00
+[2025-03-12 12:07:19,377][__main__][INFO] - Iteration: 169	Episode Reward: 0.00
+[2025-03-12 12:07:19,462][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:19,667][__main__][INFO] - Iteration: 170	Episode Reward: 0.00
+[2025-03-12 12:07:19,873][__main__][INFO] - Iteration: 171	Episode Reward: 101.00
+[2025-03-12 12:07:20,159][__main__][INFO] - Iteration: 172	Episode Reward: 97.00
+[2025-03-12 12:07:20,364][__main__][INFO] - Iteration: 173	Episode Reward: 0.00
+[2025-03-12 12:07:20,570][__main__][INFO] - Iteration: 174	Episode Reward: 0.00
+[2025-03-12 12:07:20,653][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:07:20,858][__main__][INFO] - Iteration: 175	Episode Reward: 97.00
+[2025-03-12 12:07:21,064][__main__][INFO] - Iteration: 176	Episode Reward: 0.00
+[2025-03-12 12:07:21,269][__main__][INFO] - Iteration: 177	Episode Reward: 97.00
+[2025-03-12 12:07:21,474][__main__][INFO] - Iteration: 178	Episode Reward: 0.00
+[2025-03-12 12:07:21,679][__main__][INFO] - Iteration: 179	Episode Reward: 0.00
+[2025-03-12 12:07:21,763][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:21,968][__main__][INFO] - Iteration: 180	Episode Reward: 0.00
+[2025-03-12 12:07:22,174][__main__][INFO] - Iteration: 181	Episode Reward: 97.00
+[2025-03-12 12:07:22,379][__main__][INFO] - Iteration: 182	Episode Reward: 0.00
+[2025-03-12 12:07:22,584][__main__][INFO] - Iteration: 183	Episode Reward: 0.00
+[2025-03-12 12:07:22,790][__main__][INFO] - Iteration: 184	Episode Reward: 97.00
+[2025-03-12 12:07:22,874][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:23,079][__main__][INFO] - Iteration: 185	Episode Reward: 0.00
+[2025-03-12 12:07:23,285][__main__][INFO] - Iteration: 186	Episode Reward: 97.00
+[2025-03-12 12:07:23,491][__main__][INFO] - Iteration: 187	Episode Reward: 0.00
+[2025-03-12 12:07:23,696][__main__][INFO] - Iteration: 188	Episode Reward: 0.00
+[2025-03-12 12:07:23,902][__main__][INFO] - Iteration: 189	Episode Reward: 97.00
+[2025-03-12 12:07:23,987][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:24,192][__main__][INFO] - Iteration: 190	Episode Reward: 97.00
+[2025-03-12 12:07:24,398][__main__][INFO] - Iteration: 191	Episode Reward: 0.00
+[2025-03-12 12:07:24,603][__main__][INFO] - Iteration: 192	Episode Reward: 0.00
+[2025-03-12 12:07:24,808][__main__][INFO] - Iteration: 193	Episode Reward: 101.00
+[2025-03-12 12:07:25,014][__main__][INFO] - Iteration: 194	Episode Reward: 0.00
+[2025-03-12 12:07:25,101][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:07:25,306][__main__][INFO] - Iteration: 195	Episode Reward: 97.00
+[2025-03-12 12:07:25,511][__main__][INFO] - Iteration: 196	Episode Reward: 0.00
+[2025-03-12 12:07:25,717][__main__][INFO] - Iteration: 197	Episode Reward: 0.00
+[2025-03-12 12:07:25,922][__main__][INFO] - Iteration: 198	Episode Reward: 97.00
+[2025-03-12 12:07:26,128][__main__][INFO] - Iteration: 199	Episode Reward: 0.00
+[2025-03-12 12:07:26,214][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:26,419][__main__][INFO] - Iteration: 200	Episode Reward: 0.00
+[2025-03-12 12:07:26,625][__main__][INFO] - Iteration: 201	Episode Reward: 0.00
+[2025-03-12 12:07:26,830][__main__][INFO] - Iteration: 202	Episode Reward: 101.00
+[2025-03-12 12:07:27,035][__main__][INFO] - Iteration: 203	Episode Reward: 0.00
+[2025-03-12 12:07:27,240][__main__][INFO] - Iteration: 204	Episode Reward: 97.00
+[2025-03-12 12:07:27,325][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:07:27,530][__main__][INFO] - Iteration: 205	Episode Reward: 0.00
+[2025-03-12 12:07:27,736][__main__][INFO] - Iteration: 206	Episode Reward: 0.00
+[2025-03-12 12:07:27,941][__main__][INFO] - Iteration: 207	Episode Reward: 97.00
+[2025-03-12 12:07:28,147][__main__][INFO] - Iteration: 208	Episode Reward: 97.00
+[2025-03-12 12:07:28,352][__main__][INFO] - Iteration: 209	Episode Reward: 0.00
+[2025-03-12 12:07:28,437][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0128
+[2025-03-12 12:07:28,642][__main__][INFO] - Iteration: 210	Episode Reward: 0.00
+[2025-03-12 12:07:28,848][__main__][INFO] - Iteration: 211	Episode Reward: 97.00
+[2025-03-12 12:07:29,053][__main__][INFO] - Iteration: 212	Episode Reward: 0.00
+[2025-03-12 12:07:29,259][__main__][INFO] - Iteration: 213	Episode Reward: 97.00
+[2025-03-12 12:07:29,465][__main__][INFO] - Iteration: 214	Episode Reward: 0.00
+[2025-03-12 12:07:29,566][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:29,772][__main__][INFO] - Iteration: 215	Episode Reward: 97.00
+[2025-03-12 12:07:29,978][__main__][INFO] - Iteration: 216	Episode Reward: 0.00
+[2025-03-12 12:07:30,183][__main__][INFO] - Iteration: 217	Episode Reward: 97.00
+[2025-03-12 12:07:30,389][__main__][INFO] - Iteration: 218	Episode Reward: 0.00
+[2025-03-12 12:07:30,595][__main__][INFO] - Iteration: 219	Episode Reward: 0.00
+[2025-03-12 12:07:30,699][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:30,906][__main__][INFO] - Iteration: 220	Episode Reward: 97.00
+[2025-03-12 12:07:31,111][__main__][INFO] - Iteration: 221	Episode Reward: 0.00
+[2025-03-12 12:07:31,317][__main__][INFO] - Iteration: 222	Episode Reward: 97.00
+[2025-03-12 12:07:31,643][__main__][INFO] - Iteration: 223	Episode Reward: 0.00
+[2025-03-12 12:07:31,849][__main__][INFO] - Iteration: 224	Episode Reward: 101.00
+[2025-03-12 12:07:31,942][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0072
+[2025-03-12 12:07:32,149][__main__][INFO] - Iteration: 225	Episode Reward: 97.00
+[2025-03-12 12:07:32,354][__main__][INFO] - Iteration: 226	Episode Reward: 0.00
+[2025-03-12 12:07:32,560][__main__][INFO] - Iteration: 227	Episode Reward: 0.00
+[2025-03-12 12:07:32,765][__main__][INFO] - Iteration: 228	Episode Reward: 97.00
+[2025-03-12 12:07:32,970][__main__][INFO] - Iteration: 229	Episode Reward: 0.00
+[2025-03-12 12:07:33,058][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:33,263][__main__][INFO] - Iteration: 230	Episode Reward: 97.00
+[2025-03-12 12:07:33,468][__main__][INFO] - Iteration: 231	Episode Reward: 0.00
+[2025-03-12 12:07:33,674][__main__][INFO] - Iteration: 232	Episode Reward: 0.00
+[2025-03-12 12:07:33,879][__main__][INFO] - Iteration: 233	Episode Reward: 101.00
+[2025-03-12 12:07:34,085][__main__][INFO] - Iteration: 234	Episode Reward: 0.00
+[2025-03-12 12:07:34,187][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:07:34,395][__main__][INFO] - Iteration: 235	Episode Reward: 0.00
+[2025-03-12 12:07:34,600][__main__][INFO] - Iteration: 236	Episode Reward: 0.00
+[2025-03-12 12:07:34,805][__main__][INFO] - Iteration: 237	Episode Reward: 97.00
+[2025-03-12 12:07:35,011][__main__][INFO] - Iteration: 238	Episode Reward: 0.00
+[2025-03-12 12:07:35,216][__main__][INFO] - Iteration: 239	Episode Reward: 97.00
+[2025-03-12 12:07:35,310][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:35,518][__main__][INFO] - Iteration: 240	Episode Reward: 0.00
+[2025-03-12 12:07:35,724][__main__][INFO] - Iteration: 241	Episode Reward: 0.00
+[2025-03-12 12:07:35,929][__main__][INFO] - Iteration: 242	Episode Reward: 97.00
+[2025-03-12 12:07:36,134][__main__][INFO] - Iteration: 243	Episode Reward: 0.00
+[2025-03-12 12:07:36,340][__main__][INFO] - Iteration: 244	Episode Reward: 97.00
+[2025-03-12 12:07:36,443][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0142
+[2025-03-12 12:07:36,650][__main__][INFO] - Iteration: 245	Episode Reward: 0.00
+[2025-03-12 12:07:36,856][__main__][INFO] - Iteration: 246	Episode Reward: 97.00
+[2025-03-12 12:07:37,061][__main__][INFO] - Iteration: 247	Episode Reward: 0.00
+[2025-03-12 12:07:37,267][__main__][INFO] - Iteration: 248	Episode Reward: 97.00
+[2025-03-12 12:07:37,472][__main__][INFO] - Iteration: 249	Episode Reward: 0.00
+[2025-03-12 12:07:37,569][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:37,775][__main__][INFO] - Iteration: 250	Episode Reward: 97.00
+[2025-03-12 12:07:37,981][__main__][INFO] - Iteration: 251	Episode Reward: 0.00
+[2025-03-12 12:07:38,187][__main__][INFO] - Iteration: 252	Episode Reward: 97.00
+[2025-03-12 12:07:38,392][__main__][INFO] - Iteration: 253	Episode Reward: 0.00
+[2025-03-12 12:07:38,598][__main__][INFO] - Iteration: 254	Episode Reward: 0.00
+[2025-03-12 12:07:38,686][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:38,892][__main__][INFO] - Iteration: 255	Episode Reward: 97.00
+[2025-03-12 12:07:39,097][__main__][INFO] - Iteration: 256	Episode Reward: 0.00
+[2025-03-12 12:07:39,303][__main__][INFO] - Iteration: 257	Episode Reward: 97.00
+[2025-03-12 12:07:39,508][__main__][INFO] - Iteration: 258	Episode Reward: 0.00
+[2025-03-12 12:07:39,714][__main__][INFO] - Iteration: 259	Episode Reward: 0.00
+[2025-03-12 12:07:39,793][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:39,999][__main__][INFO] - Iteration: 260	Episode Reward: 0.00
+[2025-03-12 12:07:40,204][__main__][INFO] - Iteration: 261	Episode Reward: 97.00
+[2025-03-12 12:07:40,410][__main__][INFO] - Iteration: 262	Episode Reward: 0.00
+[2025-03-12 12:07:40,616][__main__][INFO] - Iteration: 263	Episode Reward: 0.00
+[2025-03-12 12:07:40,822][__main__][INFO] - Iteration: 264	Episode Reward: 97.00
+[2025-03-12 12:07:40,909][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:41,115][__main__][INFO] - Iteration: 265	Episode Reward: 0.00
+[2025-03-12 12:07:41,321][__main__][INFO] - Iteration: 266	Episode Reward: 97.00
+[2025-03-12 12:07:41,526][__main__][INFO] - Iteration: 267	Episode Reward: 0.00
+[2025-03-12 12:07:41,732][__main__][INFO] - Iteration: 268	Episode Reward: 0.00
+[2025-03-12 12:07:41,938][__main__][INFO] - Iteration: 269	Episode Reward: 101.00
+[2025-03-12 12:07:42,023][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:07:42,228][__main__][INFO] - Iteration: 270	Episode Reward: 97.00
+[2025-03-12 12:07:42,552][__main__][INFO] - Iteration: 271	Episode Reward: 0.00
+[2025-03-12 12:07:42,757][__main__][INFO] - Iteration: 272	Episode Reward: 0.00
+[2025-03-12 12:07:42,963][__main__][INFO] - Iteration: 273	Episode Reward: 97.00
+[2025-03-12 12:07:43,168][__main__][INFO] - Iteration: 274	Episode Reward: 97.00
+[2025-03-12 12:07:43,260][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0078
+[2025-03-12 12:07:43,467][__main__][INFO] - Iteration: 275	Episode Reward: 0.00
+[2025-03-12 12:07:43,673][__main__][INFO] - Iteration: 276	Episode Reward: 0.00
+[2025-03-12 12:07:43,879][__main__][INFO] - Iteration: 277	Episode Reward: 97.00
+[2025-03-12 12:07:44,084][__main__][INFO] - Iteration: 278	Episode Reward: 0.00
+[2025-03-12 12:07:44,290][__main__][INFO] - Iteration: 279	Episode Reward: 97.00
+[2025-03-12 12:07:44,383][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:44,589][__main__][INFO] - Iteration: 280	Episode Reward: 0.00
+[2025-03-12 12:07:44,794][__main__][INFO] - Iteration: 281	Episode Reward: 97.00
+[2025-03-12 12:07:45,000][__main__][INFO] - Iteration: 282	Episode Reward: 0.00
+[2025-03-12 12:07:45,205][__main__][INFO] - Iteration: 283	Episode Reward: 97.00
+[2025-03-12 12:07:45,411][__main__][INFO] - Iteration: 284	Episode Reward: 0.00
+[2025-03-12 12:07:45,499][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:45,704][__main__][INFO] - Iteration: 285	Episode Reward: 0.00
+[2025-03-12 12:07:45,910][__main__][INFO] - Iteration: 286	Episode Reward: 97.00
+[2025-03-12 12:07:46,115][__main__][INFO] - Iteration: 287	Episode Reward: 0.00
+[2025-03-12 12:07:46,321][__main__][INFO] - Iteration: 288	Episode Reward: 97.00
+[2025-03-12 12:07:46,526][__main__][INFO] - Iteration: 289	Episode Reward: 0.00
+[2025-03-12 12:07:46,610][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:46,815][__main__][INFO] - Iteration: 290	Episode Reward: 101.00
+[2025-03-12 12:07:47,021][__main__][INFO] - Iteration: 291	Episode Reward: 0.00
+[2025-03-12 12:07:47,227][__main__][INFO] - Iteration: 292	Episode Reward: 97.00
+[2025-03-12 12:07:47,432][__main__][INFO] - Iteration: 293	Episode Reward: 0.00
+[2025-03-12 12:07:47,638][__main__][INFO] - Iteration: 294	Episode Reward: 0.00
+[2025-03-12 12:07:47,728][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:07:47,934][__main__][INFO] - Iteration: 295	Episode Reward: 97.00
+[2025-03-12 12:07:48,139][__main__][INFO] - Iteration: 296	Episode Reward: 0.00
+[2025-03-12 12:07:48,345][__main__][INFO] - Iteration: 297	Episode Reward: 97.00
+[2025-03-12 12:07:48,550][__main__][INFO] - Iteration: 298	Episode Reward: 0.00
+[2025-03-12 12:07:48,755][__main__][INFO] - Iteration: 299	Episode Reward: 0.00
+[2025-03-12 12:07:48,849][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0132
+[2025-03-12 12:07:49,056][__main__][INFO] - Iteration: 300	Episode Reward: 0.00
+[2025-03-12 12:07:49,262][__main__][INFO] - Iteration: 301	Episode Reward: 97.00
+[2025-03-12 12:07:49,468][__main__][INFO] - Iteration: 302	Episode Reward: 0.00
+[2025-03-12 12:07:49,673][__main__][INFO] - Iteration: 303	Episode Reward: 0.00
+[2025-03-12 12:07:49,879][__main__][INFO] - Iteration: 304	Episode Reward: 97.00
+[2025-03-12 12:07:49,974][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:50,180][__main__][INFO] - Iteration: 305	Episode Reward: 97.00
+[2025-03-12 12:07:50,386][__main__][INFO] - Iteration: 306	Episode Reward: 0.00
+[2025-03-12 12:07:50,591][__main__][INFO] - Iteration: 307	Episode Reward: 0.00
+[2025-03-12 12:07:50,797][__main__][INFO] - Iteration: 308	Episode Reward: 97.00
+[2025-03-12 12:07:51,002][__main__][INFO] - Iteration: 309	Episode Reward: 0.00
+[2025-03-12 12:07:51,087][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:51,292][__main__][INFO] - Iteration: 310	Episode Reward: 97.00
+[2025-03-12 12:07:51,498][__main__][INFO] - Iteration: 311	Episode Reward: 0.00
+[2025-03-12 12:07:51,703][__main__][INFO] - Iteration: 312	Episode Reward: 0.00
+[2025-03-12 12:07:51,909][__main__][INFO] - Iteration: 313	Episode Reward: 101.00
+[2025-03-12 12:07:52,187][__main__][INFO] - Iteration: 314	Episode Reward: 97.00
+[2025-03-12 12:07:52,278][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0071
+[2025-03-12 12:07:52,486][__main__][INFO] - Iteration: 315	Episode Reward: 0.00
+[2025-03-12 12:07:52,691][__main__][INFO] - Iteration: 316	Episode Reward: 0.00
+[2025-03-12 12:07:52,897][__main__][INFO] - Iteration: 317	Episode Reward: 97.00
+[2025-03-12 12:07:53,102][__main__][INFO] - Iteration: 318	Episode Reward: 0.00
+[2025-03-12 12:07:53,308][__main__][INFO] - Iteration: 319	Episode Reward: 97.00
+[2025-03-12 12:07:53,404][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:53,609][__main__][INFO] - Iteration: 320	Episode Reward: 0.00
+[2025-03-12 12:07:53,815][__main__][INFO] - Iteration: 321	Episode Reward: 97.00
+[2025-03-12 12:07:54,020][__main__][INFO] - Iteration: 322	Episode Reward: 0.00
+[2025-03-12 12:07:54,226][__main__][INFO] - Iteration: 323	Episode Reward: 97.00
+[2025-03-12 12:07:54,432][__main__][INFO] - Iteration: 324	Episode Reward: 0.00
+[2025-03-12 12:07:54,531][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:54,738][__main__][INFO] - Iteration: 325	Episode Reward: 0.00
+[2025-03-12 12:07:54,944][__main__][INFO] - Iteration: 326	Episode Reward: 97.00
+[2025-03-12 12:07:55,149][__main__][INFO] - Iteration: 327	Episode Reward: 0.00
+[2025-03-12 12:07:55,354][__main__][INFO] - Iteration: 328	Episode Reward: 97.00
+[2025-03-12 12:07:55,560][__main__][INFO] - Iteration: 329	Episode Reward: 0.00
+[2025-03-12 12:07:55,648][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0133
+[2025-03-12 12:07:55,854][__main__][INFO] - Iteration: 330	Episode Reward: 101.00
+[2025-03-12 12:07:56,060][__main__][INFO] - Iteration: 331	Episode Reward: 0.00
+[2025-03-12 12:07:56,265][__main__][INFO] - Iteration: 332	Episode Reward: 97.00
+[2025-03-12 12:07:56,471][__main__][INFO] - Iteration: 333	Episode Reward: 0.00
+[2025-03-12 12:07:56,676][__main__][INFO] - Iteration: 334	Episode Reward: 0.00
+[2025-03-12 12:07:56,758][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:07:56,963][__main__][INFO] - Iteration: 335	Episode Reward: 97.00
+[2025-03-12 12:07:57,169][__main__][INFO] - Iteration: 336	Episode Reward: 97.00
+[2025-03-12 12:07:57,375][__main__][INFO] - Iteration: 337	Episode Reward: 0.00
+[2025-03-12 12:07:57,580][__main__][INFO] - Iteration: 338	Episode Reward: 0.00
+[2025-03-12 12:07:57,786][__main__][INFO] - Iteration: 339	Episode Reward: 97.00
+[2025-03-12 12:07:57,882][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0075
+[2025-03-12 12:07:58,089][__main__][INFO] - Iteration: 340	Episode Reward: 0.00
+[2025-03-12 12:07:58,294][__main__][INFO] - Iteration: 341	Episode Reward: 97.00
+[2025-03-12 12:07:58,499][__main__][INFO] - Iteration: 342	Episode Reward: 0.00
+[2025-03-12 12:07:58,705][__main__][INFO] - Iteration: 343	Episode Reward: 0.00
+[2025-03-12 12:07:58,910][__main__][INFO] - Iteration: 344	Episode Reward: 97.00
+[2025-03-12 12:07:59,011][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:07:59,218][__main__][INFO] - Iteration: 345	Episode Reward: 97.00
+[2025-03-12 12:07:59,423][__main__][INFO] - Iteration: 346	Episode Reward: 0.00
+[2025-03-12 12:07:59,629][__main__][INFO] - Iteration: 347	Episode Reward: 0.00
+[2025-03-12 12:07:59,835][__main__][INFO] - Iteration: 348	Episode Reward: 97.00
+[2025-03-12 12:08:00,040][__main__][INFO] - Iteration: 349	Episode Reward: 0.00
+[2025-03-12 12:08:00,129][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:00,335][__main__][INFO] - Iteration: 350	Episode Reward: 97.00
+[2025-03-12 12:08:00,540][__main__][INFO] - Iteration: 351	Episode Reward: 0.00
+[2025-03-12 12:08:00,745][__main__][INFO] - Iteration: 352	Episode Reward: 0.00
+[2025-03-12 12:08:00,951][__main__][INFO] - Iteration: 353	Episode Reward: 97.00
+[2025-03-12 12:08:01,156][__main__][INFO] - Iteration: 354	Episode Reward: 0.00
+[2025-03-12 12:08:01,256][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:01,464][__main__][INFO] - Iteration: 355	Episode Reward: 0.00
+[2025-03-12 12:08:01,669][__main__][INFO] - Iteration: 356	Episode Reward: 0.00
+[2025-03-12 12:08:01,875][__main__][INFO] - Iteration: 357	Episode Reward: 97.00
+[2025-03-12 12:08:02,081][__main__][INFO] - Iteration: 358	Episode Reward: 0.00
+[2025-03-12 12:08:02,286][__main__][INFO] - Iteration: 359	Episode Reward: 97.00
+[2025-03-12 12:08:02,369][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:02,574][__main__][INFO] - Iteration: 360	Episode Reward: 0.00
+[2025-03-12 12:08:02,780][__main__][INFO] - Iteration: 361	Episode Reward: 0.00
+[2025-03-12 12:08:02,986][__main__][INFO] - Iteration: 362	Episode Reward: 97.00
+[2025-03-12 12:08:03,191][__main__][INFO] - Iteration: 363	Episode Reward: 97.00
+[2025-03-12 12:08:03,397][__main__][INFO] - Iteration: 364	Episode Reward: 0.00
+[2025-03-12 12:08:03,500][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0132
+[2025-03-12 12:08:03,706][__main__][INFO] - Iteration: 365	Episode Reward: 0.00
+[2025-03-12 12:08:03,912][__main__][INFO] - Iteration: 366	Episode Reward: 97.00
+[2025-03-12 12:08:04,117][__main__][INFO] - Iteration: 367	Episode Reward: 0.00
+[2025-03-12 12:08:04,398][__main__][INFO] - Iteration: 368	Episode Reward: 97.00
+[2025-03-12 12:08:04,603][__main__][INFO] - Iteration: 369	Episode Reward: 0.00
+[2025-03-12 12:08:04,688][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:04,894][__main__][INFO] - Iteration: 370	Episode Reward: 97.00
+[2025-03-12 12:08:05,100][__main__][INFO] - Iteration: 371	Episode Reward: 0.00
+[2025-03-12 12:08:05,305][__main__][INFO] - Iteration: 372	Episode Reward: 97.00
+[2025-03-12 12:08:05,511][__main__][INFO] - Iteration: 373	Episode Reward: 0.00
+[2025-03-12 12:08:05,717][__main__][INFO] - Iteration: 374	Episode Reward: 0.00
+[2025-03-12 12:08:05,802][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:06,008][__main__][INFO] - Iteration: 375	Episode Reward: 0.00
+[2025-03-12 12:08:06,213][__main__][INFO] - Iteration: 376	Episode Reward: 97.00
+[2025-03-12 12:08:06,419][__main__][INFO] - Iteration: 377	Episode Reward: 0.00
+[2025-03-12 12:08:06,625][__main__][INFO] - Iteration: 378	Episode Reward: 0.00
+[2025-03-12 12:08:06,830][__main__][INFO] - Iteration: 379	Episode Reward: 97.00
+[2025-03-12 12:08:06,917][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:07,123][__main__][INFO] - Iteration: 380	Episode Reward: 0.00
+[2025-03-12 12:08:07,329][__main__][INFO] - Iteration: 381	Episode Reward: 97.00
+[2025-03-12 12:08:07,534][__main__][INFO] - Iteration: 382	Episode Reward: 0.00
+[2025-03-12 12:08:07,740][__main__][INFO] - Iteration: 383	Episode Reward: 0.00
+[2025-03-12 12:08:07,945][__main__][INFO] - Iteration: 384	Episode Reward: 101.00
+[2025-03-12 12:08:08,030][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:08:08,236][__main__][INFO] - Iteration: 385	Episode Reward: 97.00
+[2025-03-12 12:08:08,442][__main__][INFO] - Iteration: 386	Episode Reward: 0.00
+[2025-03-12 12:08:08,647][__main__][INFO] - Iteration: 387	Episode Reward: 0.00
+[2025-03-12 12:08:08,853][__main__][INFO] - Iteration: 388	Episode Reward: 97.00
+[2025-03-12 12:08:09,059][__main__][INFO] - Iteration: 389	Episode Reward: 0.00
+[2025-03-12 12:08:09,162][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:09,369][__main__][INFO] - Iteration: 390	Episode Reward: 97.00
+[2025-03-12 12:08:09,574][__main__][INFO] - Iteration: 391	Episode Reward: 0.00
+[2025-03-12 12:08:09,779][__main__][INFO] - Iteration: 392	Episode Reward: 0.00
+[2025-03-12 12:08:09,985][__main__][INFO] - Iteration: 393	Episode Reward: 97.00
+[2025-03-12 12:08:10,190][__main__][INFO] - Iteration: 394	Episode Reward: 97.00
+[2025-03-12 12:08:10,277][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0082
+[2025-03-12 12:08:10,482][__main__][INFO] - Iteration: 395	Episode Reward: 0.00
+[2025-03-12 12:08:10,688][__main__][INFO] - Iteration: 396	Episode Reward: 0.00
+[2025-03-12 12:08:10,893][__main__][INFO] - Iteration: 397	Episode Reward: 97.00
+[2025-03-12 12:08:11,099][__main__][INFO] - Iteration: 398	Episode Reward: 0.00
+[2025-03-12 12:08:11,305][__main__][INFO] - Iteration: 399	Episode Reward: 97.00
+[2025-03-12 12:08:11,388][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:11,593][__main__][INFO] - Iteration: 400	Episode Reward: 0.00
+[2025-03-12 12:08:11,799][__main__][INFO] - Iteration: 401	Episode Reward: 0.00
+[2025-03-12 12:08:12,004][__main__][INFO] - Iteration: 402	Episode Reward: 97.00
+[2025-03-12 12:08:12,210][__main__][INFO] - Iteration: 403	Episode Reward: 97.00
+[2025-03-12 12:08:12,415][__main__][INFO] - Iteration: 404	Episode Reward: 0.00
+[2025-03-12 12:08:12,502][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0150
+[2025-03-12 12:08:12,706][__main__][INFO] - Iteration: 405	Episode Reward: 0.00
+[2025-03-12 12:08:12,912][__main__][INFO] - Iteration: 406	Episode Reward: 97.00
+[2025-03-12 12:08:13,117][__main__][INFO] - Iteration: 407	Episode Reward: 0.00
+[2025-03-12 12:08:13,323][__main__][INFO] - Iteration: 408	Episode Reward: 97.00
+[2025-03-12 12:08:13,528][__main__][INFO] - Iteration: 409	Episode Reward: 0.00
+[2025-03-12 12:08:13,629][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:13,836][__main__][INFO] - Iteration: 410	Episode Reward: 97.00
+[2025-03-12 12:08:14,041][__main__][INFO] - Iteration: 411	Episode Reward: 0.00
+[2025-03-12 12:08:14,246][__main__][INFO] - Iteration: 412	Episode Reward: 97.00
+[2025-03-12 12:08:14,451][__main__][INFO] - Iteration: 413	Episode Reward: 0.00
+[2025-03-12 12:08:14,657][__main__][INFO] - Iteration: 414	Episode Reward: 0.00
+[2025-03-12 12:08:14,744][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:14,949][__main__][INFO] - Iteration: 415	Episode Reward: 97.00
+[2025-03-12 12:08:15,154][__main__][INFO] - Iteration: 416	Episode Reward: 0.00
+[2025-03-12 12:08:15,360][__main__][INFO] - Iteration: 417	Episode Reward: 97.00
+[2025-03-12 12:08:15,565][__main__][INFO] - Iteration: 418	Episode Reward: 0.00
+[2025-03-12 12:08:15,893][__main__][INFO] - Iteration: 419	Episode Reward: 0.00
+[2025-03-12 12:08:15,989][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:16,195][__main__][INFO] - Iteration: 420	Episode Reward: 97.00
+[2025-03-12 12:08:16,401][__main__][INFO] - Iteration: 421	Episode Reward: 0.00
+[2025-03-12 12:08:16,607][__main__][INFO] - Iteration: 422	Episode Reward: 0.00
+[2025-03-12 12:08:16,812][__main__][INFO] - Iteration: 423	Episode Reward: 97.00
+[2025-03-12 12:08:17,018][__main__][INFO] - Iteration: 424	Episode Reward: 0.00
+[2025-03-12 12:08:17,103][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:17,308][__main__][INFO] - Iteration: 425	Episode Reward: 97.00
+[2025-03-12 12:08:17,513][__main__][INFO] - Iteration: 426	Episode Reward: 0.00
+[2025-03-12 12:08:17,719][__main__][INFO] - Iteration: 427	Episode Reward: 0.00
+[2025-03-12 12:08:17,924][__main__][INFO] - Iteration: 428	Episode Reward: 97.00
+[2025-03-12 12:08:18,130][__main__][INFO] - Iteration: 429	Episode Reward: 0.00
+[2025-03-12 12:08:18,223][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:18,431][__main__][INFO] - Iteration: 430	Episode Reward: 0.00
+[2025-03-12 12:08:18,636][__main__][INFO] - Iteration: 431	Episode Reward: 0.00
+[2025-03-12 12:08:18,841][__main__][INFO] - Iteration: 432	Episode Reward: 97.00
+[2025-03-12 12:08:19,047][__main__][INFO] - Iteration: 433	Episode Reward: 0.00
+[2025-03-12 12:08:19,252][__main__][INFO] - Iteration: 434	Episode Reward: 97.00
+[2025-03-12 12:08:19,347][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:19,553][__main__][INFO] - Iteration: 435	Episode Reward: 0.00
+[2025-03-12 12:08:19,758][__main__][INFO] - Iteration: 436	Episode Reward: 0.00
+[2025-03-12 12:08:19,964][__main__][INFO] - Iteration: 437	Episode Reward: 101.00
+[2025-03-12 12:08:20,169][__main__][INFO] - Iteration: 438	Episode Reward: 0.00
+[2025-03-12 12:08:20,375][__main__][INFO] - Iteration: 439	Episode Reward: 97.00
+[2025-03-12 12:08:20,469][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0125
+[2025-03-12 12:08:20,677][__main__][INFO] - Iteration: 440	Episode Reward: 0.00
+[2025-03-12 12:08:20,883][__main__][INFO] - Iteration: 441	Episode Reward: 97.00
+[2025-03-12 12:08:21,088][__main__][INFO] - Iteration: 442	Episode Reward: 0.00
+[2025-03-12 12:08:21,294][__main__][INFO] - Iteration: 443	Episode Reward: 97.00
+[2025-03-12 12:08:21,500][__main__][INFO] - Iteration: 444	Episode Reward: 0.00
+[2025-03-12 12:08:21,589][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:21,794][__main__][INFO] - Iteration: 445	Episode Reward: 0.00
+[2025-03-12 12:08:21,999][__main__][INFO] - Iteration: 446	Episode Reward: 97.00
+[2025-03-12 12:08:22,205][__main__][INFO] - Iteration: 447	Episode Reward: 97.00
+[2025-03-12 12:08:22,411][__main__][INFO] - Iteration: 448	Episode Reward: 0.00
+[2025-03-12 12:08:22,616][__main__][INFO] - Iteration: 449	Episode Reward: 0.00
+[2025-03-12 12:08:22,712][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0128
+[2025-03-12 12:08:22,920][__main__][INFO] - Iteration: 450	Episode Reward: 97.00
+[2025-03-12 12:08:23,125][__main__][INFO] - Iteration: 451	Episode Reward: 0.00
+[2025-03-12 12:08:23,331][__main__][INFO] - Iteration: 452	Episode Reward: 97.00
+[2025-03-12 12:08:23,536][__main__][INFO] - Iteration: 453	Episode Reward: 0.00
+[2025-03-12 12:08:23,742][__main__][INFO] - Iteration: 454	Episode Reward: 0.00
+[2025-03-12 12:08:23,827][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:24,033][__main__][INFO] - Iteration: 455	Episode Reward: 0.00
+[2025-03-12 12:08:24,238][__main__][INFO] - Iteration: 456	Episode Reward: 97.00
+[2025-03-12 12:08:24,444][__main__][INFO] - Iteration: 457	Episode Reward: 0.00
+[2025-03-12 12:08:24,649][__main__][INFO] - Iteration: 458	Episode Reward: 0.00
+[2025-03-12 12:08:24,855][__main__][INFO] - Iteration: 459	Episode Reward: 97.00
+[2025-03-12 12:08:24,939][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:25,145][__main__][INFO] - Iteration: 460	Episode Reward: 0.00
+[2025-03-12 12:08:25,350][__main__][INFO] - Iteration: 461	Episode Reward: 97.00
+[2025-03-12 12:08:25,556][__main__][INFO] - Iteration: 462	Episode Reward: 0.00
+[2025-03-12 12:08:25,761][__main__][INFO] - Iteration: 463	Episode Reward: 0.00
+[2025-03-12 12:08:25,967][__main__][INFO] - Iteration: 464	Episode Reward: 97.00
+[2025-03-12 12:08:26,060][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:26,265][__main__][INFO] - Iteration: 465	Episode Reward: 97.00
+[2025-03-12 12:08:26,471][__main__][INFO] - Iteration: 466	Episode Reward: 0.00
+[2025-03-12 12:08:26,753][__main__][INFO] - Iteration: 467	Episode Reward: 0.00
+[2025-03-12 12:08:26,958][__main__][INFO] - Iteration: 468	Episode Reward: 97.00
+[2025-03-12 12:08:27,163][__main__][INFO] - Iteration: 469	Episode Reward: 0.00
+[2025-03-12 12:08:27,260][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:27,468][__main__][INFO] - Iteration: 470	Episode Reward: 0.00
+[2025-03-12 12:08:27,673][__main__][INFO] - Iteration: 471	Episode Reward: 0.00
+[2025-03-12 12:08:27,879][__main__][INFO] - Iteration: 472	Episode Reward: 97.00
+[2025-03-12 12:08:28,085][__main__][INFO] - Iteration: 473	Episode Reward: 0.00
+[2025-03-12 12:08:28,290][__main__][INFO] - Iteration: 474	Episode Reward: 97.00
+[2025-03-12 12:08:28,386][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:28,593][__main__][INFO] - Iteration: 475	Episode Reward: 0.00
+[2025-03-12 12:08:28,798][__main__][INFO] - Iteration: 476	Episode Reward: 0.00
+[2025-03-12 12:08:29,003][__main__][INFO] - Iteration: 477	Episode Reward: 97.00
+[2025-03-12 12:08:29,209][__main__][INFO] - Iteration: 478	Episode Reward: 97.00
+[2025-03-12 12:08:29,414][__main__][INFO] - Iteration: 479	Episode Reward: 0.00
+[2025-03-12 12:08:29,498][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:29,703][__main__][INFO] - Iteration: 480	Episode Reward: 0.00
+[2025-03-12 12:08:29,909][__main__][INFO] - Iteration: 481	Episode Reward: 97.00
+[2025-03-12 12:08:30,114][__main__][INFO] - Iteration: 482	Episode Reward: 0.00
+[2025-03-12 12:08:30,320][__main__][INFO] - Iteration: 483	Episode Reward: 97.00
+[2025-03-12 12:08:30,525][__main__][INFO] - Iteration: 484	Episode Reward: 0.00
+[2025-03-12 12:08:30,612][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:30,818][__main__][INFO] - Iteration: 485	Episode Reward: 0.00
+[2025-03-12 12:08:31,023][__main__][INFO] - Iteration: 486	Episode Reward: 97.00
+[2025-03-12 12:08:31,229][__main__][INFO] - Iteration: 487	Episode Reward: 97.00
+[2025-03-12 12:08:31,434][__main__][INFO] - Iteration: 488	Episode Reward: 0.00
+[2025-03-12 12:08:31,639][__main__][INFO] - Iteration: 489	Episode Reward: 0.00
+[2025-03-12 12:08:31,728][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0146
+[2025-03-12 12:08:31,933][__main__][INFO] - Iteration: 490	Episode Reward: 101.00
+[2025-03-12 12:08:32,138][__main__][INFO] - Iteration: 491	Episode Reward: 0.00
+[2025-03-12 12:08:32,344][__main__][INFO] - Iteration: 492	Episode Reward: 97.00
+[2025-03-12 12:08:32,549][__main__][INFO] - Iteration: 493	Episode Reward: 0.00
+[2025-03-12 12:08:32,754][__main__][INFO] - Iteration: 494	Episode Reward: 0.00
+[2025-03-12 12:08:32,848][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:08:33,055][__main__][INFO] - Iteration: 495	Episode Reward: 0.00
+[2025-03-12 12:08:33,261][__main__][INFO] - Iteration: 496	Episode Reward: 97.00
+[2025-03-12 12:08:33,466][__main__][INFO] - Iteration: 497	Episode Reward: 0.00
+[2025-03-12 12:08:33,672][__main__][INFO] - Iteration: 498	Episode Reward: 0.00
+[2025-03-12 12:08:33,877][__main__][INFO] - Iteration: 499	Episode Reward: 101.00
+[2025-03-12 12:08:33,960][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:08:34,166][__main__][INFO] - Iteration: 500	Episode Reward: 0.00
+[2025-03-12 12:08:34,371][__main__][INFO] - Iteration: 501	Episode Reward: 97.00
+[2025-03-12 12:08:34,577][__main__][INFO] - Iteration: 502	Episode Reward: 0.00
+[2025-03-12 12:08:34,782][__main__][INFO] - Iteration: 503	Episode Reward: 0.00
+[2025-03-12 12:08:34,988][__main__][INFO] - Iteration: 504	Episode Reward: 101.00
+[2025-03-12 12:08:35,084][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:08:35,291][__main__][INFO] - Iteration: 505	Episode Reward: 97.00
+[2025-03-12 12:08:35,496][__main__][INFO] - Iteration: 506	Episode Reward: 0.00
+[2025-03-12 12:08:35,702][__main__][INFO] - Iteration: 507	Episode Reward: 0.00
+[2025-03-12 12:08:35,907][__main__][INFO] - Iteration: 508	Episode Reward: 97.00
+[2025-03-12 12:08:36,112][__main__][INFO] - Iteration: 509	Episode Reward: 0.00
+[2025-03-12 12:08:36,200][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:36,407][__main__][INFO] - Iteration: 510	Episode Reward: 97.00
+[2025-03-12 12:08:36,613][__main__][INFO] - Iteration: 511	Episode Reward: 0.00
+[2025-03-12 12:08:36,818][__main__][INFO] - Iteration: 512	Episode Reward: 0.00
+[2025-03-12 12:08:37,136][__main__][INFO] - Iteration: 513	Episode Reward: 97.00
+[2025-03-12 12:08:37,342][__main__][INFO] - Iteration: 514	Episode Reward: 97.00
+[2025-03-12 12:08:37,437][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0114
+[2025-03-12 12:08:37,644][__main__][INFO] - Iteration: 515	Episode Reward: 0.00
+[2025-03-12 12:08:37,850][__main__][INFO] - Iteration: 516	Episode Reward: 97.00
+[2025-03-12 12:08:38,056][__main__][INFO] - Iteration: 517	Episode Reward: 0.00
+[2025-03-12 12:08:38,261][__main__][INFO] - Iteration: 518	Episode Reward: 97.00
+[2025-03-12 12:08:38,467][__main__][INFO] - Iteration: 519	Episode Reward: 0.00
+[2025-03-12 12:08:38,551][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:38,756][__main__][INFO] - Iteration: 520	Episode Reward: 0.00
+[2025-03-12 12:08:38,961][__main__][INFO] - Iteration: 521	Episode Reward: 97.00
+[2025-03-12 12:08:39,166][__main__][INFO] - Iteration: 522	Episode Reward: 0.00
+[2025-03-12 12:08:39,372][__main__][INFO] - Iteration: 523	Episode Reward: 97.00
+[2025-03-12 12:08:39,578][__main__][INFO] - Iteration: 524	Episode Reward: 0.00
+[2025-03-12 12:08:39,663][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:39,868][__main__][INFO] - Iteration: 525	Episode Reward: 97.00
+[2025-03-12 12:08:40,074][__main__][INFO] - Iteration: 526	Episode Reward: 0.00
+[2025-03-12 12:08:40,279][__main__][INFO] - Iteration: 527	Episode Reward: 97.00
+[2025-03-12 12:08:40,485][__main__][INFO] - Iteration: 528	Episode Reward: 0.00
+[2025-03-12 12:08:40,690][__main__][INFO] - Iteration: 529	Episode Reward: 0.00
+[2025-03-12 12:08:40,777][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:40,982][__main__][INFO] - Iteration: 530	Episode Reward: 97.00
+[2025-03-12 12:08:41,187][__main__][INFO] - Iteration: 531	Episode Reward: 0.00
+[2025-03-12 12:08:41,392][__main__][INFO] - Iteration: 532	Episode Reward: 97.00
+[2025-03-12 12:08:41,598][__main__][INFO] - Iteration: 533	Episode Reward: 0.00
+[2025-03-12 12:08:41,804][__main__][INFO] - Iteration: 534	Episode Reward: 0.00
+[2025-03-12 12:08:41,891][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0128
+[2025-03-12 12:08:42,096][__main__][INFO] - Iteration: 535	Episode Reward: 0.00
+[2025-03-12 12:08:42,302][__main__][INFO] - Iteration: 536	Episode Reward: 97.00
+[2025-03-12 12:08:42,508][__main__][INFO] - Iteration: 537	Episode Reward: 0.00
+[2025-03-12 12:08:42,714][__main__][INFO] - Iteration: 538	Episode Reward: 0.00
+[2025-03-12 12:08:42,920][__main__][INFO] - Iteration: 539	Episode Reward: 97.00
+[2025-03-12 12:08:43,010][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:43,216][__main__][INFO] - Iteration: 540	Episode Reward: 97.00
+[2025-03-12 12:08:43,422][__main__][INFO] - Iteration: 541	Episode Reward: 0.00
+[2025-03-12 12:08:43,627][__main__][INFO] - Iteration: 542	Episode Reward: 0.00
+[2025-03-12 12:08:43,833][__main__][INFO] - Iteration: 543	Episode Reward: 0.00
+[2025-03-12 12:08:44,039][__main__][INFO] - Iteration: 544	Episode Reward: 101.00
+[2025-03-12 12:08:44,125][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0143
+[2025-03-12 12:08:44,331][__main__][INFO] - Iteration: 545	Episode Reward: 97.00
+[2025-03-12 12:08:44,536][__main__][INFO] - Iteration: 546	Episode Reward: 0.00
+[2025-03-12 12:08:44,742][__main__][INFO] - Iteration: 547	Episode Reward: 0.00
+[2025-03-12 12:08:44,948][__main__][INFO] - Iteration: 548	Episode Reward: 97.00
+[2025-03-12 12:08:45,154][__main__][INFO] - Iteration: 549	Episode Reward: 0.00
+[2025-03-12 12:08:45,236][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:45,442][__main__][INFO] - Iteration: 550	Episode Reward: 0.00
+[2025-03-12 12:08:45,647][__main__][INFO] - Iteration: 551	Episode Reward: 0.00
+[2025-03-12 12:08:45,852][__main__][INFO] - Iteration: 552	Episode Reward: 97.00
+[2025-03-12 12:08:46,058][__main__][INFO] - Iteration: 553	Episode Reward: 0.00
+[2025-03-12 12:08:46,263][__main__][INFO] - Iteration: 554	Episode Reward: 97.00
+[2025-03-12 12:08:46,344][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:46,549][__main__][INFO] - Iteration: 555	Episode Reward: 0.00
+[2025-03-12 12:08:46,755][__main__][INFO] - Iteration: 556	Episode Reward: 0.00
+[2025-03-12 12:08:46,961][__main__][INFO] - Iteration: 557	Episode Reward: 101.00
+[2025-03-12 12:08:47,166][__main__][INFO] - Iteration: 558	Episode Reward: 0.00
+[2025-03-12 12:08:47,372][__main__][INFO] - Iteration: 559	Episode Reward: 97.00
+[2025-03-12 12:08:47,467][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:08:47,673][__main__][INFO] - Iteration: 560	Episode Reward: 0.00
+[2025-03-12 12:08:47,879][__main__][INFO] - Iteration: 561	Episode Reward: 97.00
+[2025-03-12 12:08:48,084][__main__][INFO] - Iteration: 562	Episode Reward: 0.00
+[2025-03-12 12:08:48,290][__main__][INFO] - Iteration: 563	Episode Reward: 97.00
+[2025-03-12 12:08:48,495][__main__][INFO] - Iteration: 564	Episode Reward: 0.00
+[2025-03-12 12:08:48,579][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:48,784][__main__][INFO] - Iteration: 565	Episode Reward: 0.00
+[2025-03-12 12:08:48,989][__main__][INFO] - Iteration: 566	Episode Reward: 101.00
+[2025-03-12 12:08:49,312][__main__][INFO] - Iteration: 567	Episode Reward: 97.00
+[2025-03-12 12:08:49,518][__main__][INFO] - Iteration: 568	Episode Reward: 0.00
+[2025-03-12 12:08:49,724][__main__][INFO] - Iteration: 569	Episode Reward: 0.00
+[2025-03-12 12:08:49,820][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:08:50,027][__main__][INFO] - Iteration: 570	Episode Reward: 97.00
+[2025-03-12 12:08:50,233][__main__][INFO] - Iteration: 571	Episode Reward: 97.00
+[2025-03-12 12:08:50,439][__main__][INFO] - Iteration: 572	Episode Reward: 0.00
+[2025-03-12 12:08:50,645][__main__][INFO] - Iteration: 573	Episode Reward: 0.00
+[2025-03-12 12:08:50,851][__main__][INFO] - Iteration: 574	Episode Reward: 101.00
+[2025-03-12 12:08:50,935][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0072
+[2025-03-12 12:08:51,140][__main__][INFO] - Iteration: 575	Episode Reward: 0.00
+[2025-03-12 12:08:51,346][__main__][INFO] - Iteration: 576	Episode Reward: 97.00
+[2025-03-12 12:08:51,552][__main__][INFO] - Iteration: 577	Episode Reward: 0.00
+[2025-03-12 12:08:51,758][__main__][INFO] - Iteration: 578	Episode Reward: 0.00
+[2025-03-12 12:08:51,964][__main__][INFO] - Iteration: 579	Episode Reward: 97.00
+[2025-03-12 12:08:52,069][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:52,275][__main__][INFO] - Iteration: 580	Episode Reward: 97.00
+[2025-03-12 12:08:52,481][__main__][INFO] - Iteration: 581	Episode Reward: 0.00
+[2025-03-12 12:08:52,687][__main__][INFO] - Iteration: 582	Episode Reward: 0.00
+[2025-03-12 12:08:52,893][__main__][INFO] - Iteration: 583	Episode Reward: 101.00
+[2025-03-12 12:08:53,099][__main__][INFO] - Iteration: 584	Episode Reward: 0.00
+[2025-03-12 12:08:53,196][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:08:53,404][__main__][INFO] - Iteration: 585	Episode Reward: 97.00
+[2025-03-12 12:08:53,610][__main__][INFO] - Iteration: 586	Episode Reward: 0.00
+[2025-03-12 12:08:53,815][__main__][INFO] - Iteration: 587	Episode Reward: 0.00
+[2025-03-12 12:08:54,021][__main__][INFO] - Iteration: 588	Episode Reward: 97.00
+[2025-03-12 12:08:54,226][__main__][INFO] - Iteration: 589	Episode Reward: 97.00
+[2025-03-12 12:08:54,321][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0076
+[2025-03-12 12:08:54,529][__main__][INFO] - Iteration: 590	Episode Reward: 0.00
+[2025-03-12 12:08:54,734][__main__][INFO] - Iteration: 591	Episode Reward: 0.00
+[2025-03-12 12:08:54,940][__main__][INFO] - Iteration: 592	Episode Reward: 97.00
+[2025-03-12 12:08:55,145][__main__][INFO] - Iteration: 593	Episode Reward: 0.00
+[2025-03-12 12:08:55,351][__main__][INFO] - Iteration: 594	Episode Reward: 97.00
+[2025-03-12 12:08:55,453][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:55,660][__main__][INFO] - Iteration: 595	Episode Reward: 0.00
+[2025-03-12 12:08:55,866][__main__][INFO] - Iteration: 596	Episode Reward: 97.00
+[2025-03-12 12:08:56,071][__main__][INFO] - Iteration: 597	Episode Reward: 0.00
+[2025-03-12 12:08:56,277][__main__][INFO] - Iteration: 598	Episode Reward: 97.00
+[2025-03-12 12:08:56,482][__main__][INFO] - Iteration: 599	Episode Reward: 0.00
+[2025-03-12 12:08:56,581][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:56,788][__main__][INFO] - Iteration: 600	Episode Reward: 0.00
+[2025-03-12 12:08:56,993][__main__][INFO] - Iteration: 601	Episode Reward: 97.00
+[2025-03-12 12:08:57,198][__main__][INFO] - Iteration: 602	Episode Reward: 0.00
+[2025-03-12 12:08:57,404][__main__][INFO] - Iteration: 603	Episode Reward: 97.00
+[2025-03-12 12:08:57,610][__main__][INFO] - Iteration: 604	Episode Reward: 0.00
+[2025-03-12 12:08:57,698][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:57,902][__main__][INFO] - Iteration: 605	Episode Reward: 97.00
+[2025-03-12 12:08:58,108][__main__][INFO] - Iteration: 606	Episode Reward: 0.00
+[2025-03-12 12:08:58,313][__main__][INFO] - Iteration: 607	Episode Reward: 97.00
+[2025-03-12 12:08:58,519][__main__][INFO] - Iteration: 608	Episode Reward: 0.00
+[2025-03-12 12:08:58,724][__main__][INFO] - Iteration: 609	Episode Reward: 0.00
+[2025-03-12 12:08:58,823][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:08:59,030][__main__][INFO] - Iteration: 610	Episode Reward: 97.00
+[2025-03-12 12:08:59,236][__main__][INFO] - Iteration: 611	Episode Reward: 97.00
+[2025-03-12 12:08:59,442][__main__][INFO] - Iteration: 612	Episode Reward: 0.00
+[2025-03-12 12:08:59,648][__main__][INFO] - Iteration: 613	Episode Reward: 0.00
+[2025-03-12 12:08:59,854][__main__][INFO] - Iteration: 614	Episode Reward: 101.00
+[2025-03-12 12:08:59,957][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0071
+[2025-03-12 12:09:00,164][__main__][INFO] - Iteration: 615	Episode Reward: 0.00
+[2025-03-12 12:09:00,369][__main__][INFO] - Iteration: 616	Episode Reward: 97.00
+[2025-03-12 12:09:00,575][__main__][INFO] - Iteration: 617	Episode Reward: 0.00
+[2025-03-12 12:09:00,901][__main__][INFO] - Iteration: 618	Episode Reward: 97.00
+[2025-03-12 12:09:01,106][__main__][INFO] - Iteration: 619	Episode Reward: 0.00
+[2025-03-12 12:09:01,198][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:01,405][__main__][INFO] - Iteration: 620	Episode Reward: 97.00
+[2025-03-12 12:09:01,611][__main__][INFO] - Iteration: 621	Episode Reward: 0.00
+[2025-03-12 12:09:01,816][__main__][INFO] - Iteration: 622	Episode Reward: 0.00
+[2025-03-12 12:09:02,022][__main__][INFO] - Iteration: 623	Episode Reward: 97.00
+[2025-03-12 12:09:02,228][__main__][INFO] - Iteration: 624	Episode Reward: 0.00
+[2025-03-12 12:09:02,316][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:02,522][__main__][INFO] - Iteration: 625	Episode Reward: 0.00
+[2025-03-12 12:09:02,727][__main__][INFO] - Iteration: 626	Episode Reward: 0.00
+[2025-03-12 12:09:02,933][__main__][INFO] - Iteration: 627	Episode Reward: 97.00
+[2025-03-12 12:09:03,139][__main__][INFO] - Iteration: 628	Episode Reward: 0.00
+[2025-03-12 12:09:03,344][__main__][INFO] - Iteration: 629	Episode Reward: 97.00
+[2025-03-12 12:09:03,431][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:03,636][__main__][INFO] - Iteration: 630	Episode Reward: 0.00
+[2025-03-12 12:09:03,842][__main__][INFO] - Iteration: 631	Episode Reward: 0.00
+[2025-03-12 12:09:04,048][__main__][INFO] - Iteration: 632	Episode Reward: 97.00
+[2025-03-12 12:09:04,254][__main__][INFO] - Iteration: 633	Episode Reward: 97.00
+[2025-03-12 12:09:04,460][__main__][INFO] - Iteration: 634	Episode Reward: 0.00
+[2025-03-12 12:09:04,557][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0129
+[2025-03-12 12:09:04,764][__main__][INFO] - Iteration: 635	Episode Reward: 0.00
+[2025-03-12 12:09:04,970][__main__][INFO] - Iteration: 636	Episode Reward: 97.00
+[2025-03-12 12:09:05,175][__main__][INFO] - Iteration: 637	Episode Reward: 0.00
+[2025-03-12 12:09:05,381][__main__][INFO] - Iteration: 638	Episode Reward: 97.00
+[2025-03-12 12:09:05,586][__main__][INFO] - Iteration: 639	Episode Reward: 0.00
+[2025-03-12 12:09:05,688][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:05,895][__main__][INFO] - Iteration: 640	Episode Reward: 97.00
+[2025-03-12 12:09:06,100][__main__][INFO] - Iteration: 641	Episode Reward: 0.00
+[2025-03-12 12:09:06,306][__main__][INFO] - Iteration: 642	Episode Reward: 97.00
+[2025-03-12 12:09:06,511][__main__][INFO] - Iteration: 643	Episode Reward: 0.00
+[2025-03-12 12:09:06,717][__main__][INFO] - Iteration: 644	Episode Reward: 0.00
+[2025-03-12 12:09:06,802][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:07,007][__main__][INFO] - Iteration: 645	Episode Reward: 101.00
+[2025-03-12 12:09:07,213][__main__][INFO] - Iteration: 646	Episode Reward: 0.00
+[2025-03-12 12:09:07,418][__main__][INFO] - Iteration: 647	Episode Reward: 97.00
+[2025-03-12 12:09:07,624][__main__][INFO] - Iteration: 648	Episode Reward: 0.00
+[2025-03-12 12:09:07,830][__main__][INFO] - Iteration: 649	Episode Reward: 0.00
+[2025-03-12 12:09:07,914][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0124
+[2025-03-12 12:09:08,120][__main__][INFO] - Iteration: 650	Episode Reward: 0.00
+[2025-03-12 12:09:08,326][__main__][INFO] - Iteration: 651	Episode Reward: 97.00
+[2025-03-12 12:09:08,532][__main__][INFO] - Iteration: 652	Episode Reward: 0.00
+[2025-03-12 12:09:08,738][__main__][INFO] - Iteration: 653	Episode Reward: 0.00
+[2025-03-12 12:09:08,944][__main__][INFO] - Iteration: 654	Episode Reward: 101.00
+[2025-03-12 12:09:09,041][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:09:09,247][__main__][INFO] - Iteration: 655	Episode Reward: 97.00
+[2025-03-12 12:09:09,453][__main__][INFO] - Iteration: 656	Episode Reward: 0.00
+[2025-03-12 12:09:09,658][__main__][INFO] - Iteration: 657	Episode Reward: 0.00
+[2025-03-12 12:09:09,864][__main__][INFO] - Iteration: 658	Episode Reward: 97.00
+[2025-03-12 12:09:10,070][__main__][INFO] - Iteration: 659	Episode Reward: 0.00
+[2025-03-12 12:09:10,176][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0126
+[2025-03-12 12:09:10,385][__main__][INFO] - Iteration: 660	Episode Reward: 97.00
+[2025-03-12 12:09:10,590][__main__][INFO] - Iteration: 661	Episode Reward: 0.00
+[2025-03-12 12:09:10,796][__main__][INFO] - Iteration: 662	Episode Reward: 0.00
+[2025-03-12 12:09:11,002][__main__][INFO] - Iteration: 663	Episode Reward: 101.00
+[2025-03-12 12:09:11,208][__main__][INFO] - Iteration: 664	Episode Reward: 0.00
+[2025-03-12 12:09:11,301][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:09:11,507][__main__][INFO] - Iteration: 665	Episode Reward: 0.00
+[2025-03-12 12:09:11,826][__main__][INFO] - Iteration: 666	Episode Reward: 0.00
+[2025-03-12 12:09:12,032][__main__][INFO] - Iteration: 667	Episode Reward: 97.00
+[2025-03-12 12:09:12,237][__main__][INFO] - Iteration: 668	Episode Reward: 0.00
+[2025-03-12 12:09:12,443][__main__][INFO] - Iteration: 669	Episode Reward: 97.00
+[2025-03-12 12:09:12,540][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0155
+[2025-03-12 12:09:12,748][__main__][INFO] - Iteration: 670	Episode Reward: 0.00
+[2025-03-12 12:09:12,954][__main__][INFO] - Iteration: 671	Episode Reward: 101.00
+[2025-03-12 12:09:13,160][__main__][INFO] - Iteration: 672	Episode Reward: 0.00
+[2025-03-12 12:09:13,366][__main__][INFO] - Iteration: 673	Episode Reward: 97.00
+[2025-03-12 12:09:13,571][__main__][INFO] - Iteration: 674	Episode Reward: 0.00
+[2025-03-12 12:09:13,668][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:09:13,874][__main__][INFO] - Iteration: 675	Episode Reward: 97.00
+[2025-03-12 12:09:14,080][__main__][INFO] - Iteration: 676	Episode Reward: 0.00
+[2025-03-12 12:09:14,286][__main__][INFO] - Iteration: 677	Episode Reward: 97.00
+[2025-03-12 12:09:14,491][__main__][INFO] - Iteration: 678	Episode Reward: 0.00
+[2025-03-12 12:09:14,696][__main__][INFO] - Iteration: 679	Episode Reward: 0.00
+[2025-03-12 12:09:14,784][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:14,989][__main__][INFO] - Iteration: 680	Episode Reward: 97.00
+[2025-03-12 12:09:15,195][__main__][INFO] - Iteration: 681	Episode Reward: 0.00
+[2025-03-12 12:09:15,401][__main__][INFO] - Iteration: 682	Episode Reward: 97.00
+[2025-03-12 12:09:15,607][__main__][INFO] - Iteration: 683	Episode Reward: 0.00
+[2025-03-12 12:09:15,813][__main__][INFO] - Iteration: 684	Episode Reward: 0.00
+[2025-03-12 12:09:15,896][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:16,101][__main__][INFO] - Iteration: 685	Episode Reward: 0.00
+[2025-03-12 12:09:16,306][__main__][INFO] - Iteration: 686	Episode Reward: 97.00
+[2025-03-12 12:09:16,512][__main__][INFO] - Iteration: 687	Episode Reward: 0.00
+[2025-03-12 12:09:16,718][__main__][INFO] - Iteration: 688	Episode Reward: 0.00
+[2025-03-12 12:09:16,923][__main__][INFO] - Iteration: 689	Episode Reward: 97.00
+[2025-03-12 12:09:17,008][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:17,213][__main__][INFO] - Iteration: 690	Episode Reward: 0.00
+[2025-03-12 12:09:17,419][__main__][INFO] - Iteration: 691	Episode Reward: 97.00
+[2025-03-12 12:09:17,625][__main__][INFO] - Iteration: 692	Episode Reward: 0.00
+[2025-03-12 12:09:17,831][__main__][INFO] - Iteration: 693	Episode Reward: 0.00
+[2025-03-12 12:09:18,037][__main__][INFO] - Iteration: 694	Episode Reward: 97.00
+[2025-03-12 12:09:18,139][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:18,345][__main__][INFO] - Iteration: 695	Episode Reward: 97.00
+[2025-03-12 12:09:18,551][__main__][INFO] - Iteration: 696	Episode Reward: 0.00
+[2025-03-12 12:09:18,757][__main__][INFO] - Iteration: 697	Episode Reward: 0.00
+[2025-03-12 12:09:18,963][__main__][INFO] - Iteration: 698	Episode Reward: 101.00
+[2025-03-12 12:09:19,169][__main__][INFO] - Iteration: 699	Episode Reward: 0.00
+[2025-03-12 12:09:19,255][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:09:19,462][__main__][INFO] - Iteration: 700	Episode Reward: 0.00
+[2025-03-12 12:09:19,668][__main__][INFO] - Iteration: 701	Episode Reward: 0.00
+[2025-03-12 12:09:19,874][__main__][INFO] - Iteration: 702	Episode Reward: 0.00
+[2025-03-12 12:09:20,080][__main__][INFO] - Iteration: 703	Episode Reward: 97.00
+[2025-03-12 12:09:20,286][__main__][INFO] - Iteration: 704	Episode Reward: 97.00
+[2025-03-12 12:09:20,372][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0161
+[2025-03-12 12:09:20,577][__main__][INFO] - Iteration: 705	Episode Reward: 0.00
+[2025-03-12 12:09:20,783][__main__][INFO] - Iteration: 706	Episode Reward: 0.00
+[2025-03-12 12:09:20,989][__main__][INFO] - Iteration: 707	Episode Reward: 97.00
+[2025-03-12 12:09:21,195][__main__][INFO] - Iteration: 708	Episode Reward: 0.00
+[2025-03-12 12:09:21,523][__main__][INFO] - Iteration: 709	Episode Reward: 0.00
+[2025-03-12 12:09:21,609][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0179
+[2025-03-12 12:09:21,815][__main__][INFO] - Iteration: 710	Episode Reward: 0.00
+[2025-03-12 12:09:22,021][__main__][INFO] - Iteration: 711	Episode Reward: 97.00
+[2025-03-12 12:09:22,226][__main__][INFO] - Iteration: 712	Episode Reward: 0.00
+[2025-03-12 12:09:22,432][__main__][INFO] - Iteration: 713	Episode Reward: 97.00
+[2025-03-12 12:09:22,637][__main__][INFO] - Iteration: 714	Episode Reward: 0.00
+[2025-03-12 12:09:22,724][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0128
+[2025-03-12 12:09:22,930][__main__][INFO] - Iteration: 715	Episode Reward: 97.00
+[2025-03-12 12:09:23,136][__main__][INFO] - Iteration: 716	Episode Reward: 0.00
+[2025-03-12 12:09:23,341][__main__][INFO] - Iteration: 717	Episode Reward: 97.00
+[2025-03-12 12:09:23,547][__main__][INFO] - Iteration: 718	Episode Reward: 0.00
+[2025-03-12 12:09:23,753][__main__][INFO] - Iteration: 719	Episode Reward: 0.00
+[2025-03-12 12:09:23,839][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:24,045][__main__][INFO] - Iteration: 720	Episode Reward: 97.00
+[2025-03-12 12:09:24,250][__main__][INFO] - Iteration: 721	Episode Reward: 0.00
+[2025-03-12 12:09:24,456][__main__][INFO] - Iteration: 722	Episode Reward: 97.00
+[2025-03-12 12:09:24,661][__main__][INFO] - Iteration: 723	Episode Reward: 0.00
+[2025-03-12 12:09:24,867][__main__][INFO] - Iteration: 724	Episode Reward: 0.00
+[2025-03-12 12:09:24,952][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0161
+[2025-03-12 12:09:25,158][__main__][INFO] - Iteration: 725	Episode Reward: 0.00
+[2025-03-12 12:09:25,364][__main__][INFO] - Iteration: 726	Episode Reward: 97.00
+[2025-03-12 12:09:25,570][__main__][INFO] - Iteration: 727	Episode Reward: 0.00
+[2025-03-12 12:09:25,776][__main__][INFO] - Iteration: 728	Episode Reward: 0.00
+[2025-03-12 12:09:25,981][__main__][INFO] - Iteration: 729	Episode Reward: 97.00
+[2025-03-12 12:09:26,079][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:26,286][__main__][INFO] - Iteration: 730	Episode Reward: 97.00
+[2025-03-12 12:09:26,491][__main__][INFO] - Iteration: 731	Episode Reward: 0.00
+[2025-03-12 12:09:26,697][__main__][INFO] - Iteration: 732	Episode Reward: 0.00
+[2025-03-12 12:09:26,903][__main__][INFO] - Iteration: 733	Episode Reward: 97.00
+[2025-03-12 12:09:27,109][__main__][INFO] - Iteration: 734	Episode Reward: 0.00
+[2025-03-12 12:09:27,194][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:27,399][__main__][INFO] - Iteration: 735	Episode Reward: 97.00
+[2025-03-12 12:09:27,605][__main__][INFO] - Iteration: 736	Episode Reward: 0.00
+[2025-03-12 12:09:27,811][__main__][INFO] - Iteration: 737	Episode Reward: 0.00
+[2025-03-12 12:09:28,017][__main__][INFO] - Iteration: 738	Episode Reward: 97.00
+[2025-03-12 12:09:28,223][__main__][INFO] - Iteration: 739	Episode Reward: 0.00
+[2025-03-12 12:09:28,312][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:28,517][__main__][INFO] - Iteration: 740	Episode Reward: 0.00
+[2025-03-12 12:09:28,722][__main__][INFO] - Iteration: 741	Episode Reward: 0.00
+[2025-03-12 12:09:28,928][__main__][INFO] - Iteration: 742	Episode Reward: 97.00
+[2025-03-12 12:09:29,133][__main__][INFO] - Iteration: 743	Episode Reward: 0.00
+[2025-03-12 12:09:29,339][__main__][INFO] - Iteration: 744	Episode Reward: 97.00
+[2025-03-12 12:09:29,431][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:29,637][__main__][INFO] - Iteration: 745	Episode Reward: 0.00
+[2025-03-12 12:09:29,843][__main__][INFO] - Iteration: 746	Episode Reward: 0.00
+[2025-03-12 12:09:30,048][__main__][INFO] - Iteration: 747	Episode Reward: 97.00
+[2025-03-12 12:09:30,254][__main__][INFO] - Iteration: 748	Episode Reward: 0.00
+[2025-03-12 12:09:30,459][__main__][INFO] - Iteration: 749	Episode Reward: 97.00
+[2025-03-12 12:09:30,547][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0146
+[2025-03-12 12:09:30,753][__main__][INFO] - Iteration: 750	Episode Reward: 0.00
+[2025-03-12 12:09:30,959][__main__][INFO] - Iteration: 751	Episode Reward: 97.00
+[2025-03-12 12:09:31,164][__main__][INFO] - Iteration: 752	Episode Reward: 0.00
+[2025-03-12 12:09:31,370][__main__][INFO] - Iteration: 753	Episode Reward: 97.00
+[2025-03-12 12:09:31,576][__main__][INFO] - Iteration: 754	Episode Reward: 0.00
+[2025-03-12 12:09:31,660][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:31,866][__main__][INFO] - Iteration: 755	Episode Reward: 0.00
+[2025-03-12 12:09:32,072][__main__][INFO] - Iteration: 756	Episode Reward: 97.00
+[2025-03-12 12:09:32,278][__main__][INFO] - Iteration: 757	Episode Reward: 97.00
+[2025-03-12 12:09:32,483][__main__][INFO] - Iteration: 758	Episode Reward: 0.00
+[2025-03-12 12:09:32,689][__main__][INFO] - Iteration: 759	Episode Reward: 0.00
+[2025-03-12 12:09:32,772][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:32,978][__main__][INFO] - Iteration: 760	Episode Reward: 97.00
+[2025-03-12 12:09:33,184][__main__][INFO] - Iteration: 761	Episode Reward: 0.00
+[2025-03-12 12:09:33,390][__main__][INFO] - Iteration: 762	Episode Reward: 97.00
+[2025-03-12 12:09:33,724][__main__][INFO] - Iteration: 763	Episode Reward: 0.00
+[2025-03-12 12:09:33,931][__main__][INFO] - Iteration: 764	Episode Reward: 97.00
+[2025-03-12 12:09:34,021][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0075
+[2025-03-12 12:09:34,227][__main__][INFO] - Iteration: 765	Episode Reward: 0.00
+[2025-03-12 12:09:34,433][__main__][INFO] - Iteration: 766	Episode Reward: 97.00
+[2025-03-12 12:09:34,639][__main__][INFO] - Iteration: 767	Episode Reward: 0.00
+[2025-03-12 12:09:34,844][__main__][INFO] - Iteration: 768	Episode Reward: 0.00
+[2025-03-12 12:09:35,050][__main__][INFO] - Iteration: 769	Episode Reward: 97.00
+[2025-03-12 12:09:35,150][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:35,358][__main__][INFO] - Iteration: 770	Episode Reward: 97.00
+[2025-03-12 12:09:35,564][__main__][INFO] - Iteration: 771	Episode Reward: 0.00
+[2025-03-12 12:09:35,770][__main__][INFO] - Iteration: 772	Episode Reward: 0.00
+[2025-03-12 12:09:35,976][__main__][INFO] - Iteration: 773	Episode Reward: 97.00
+[2025-03-12 12:09:36,182][__main__][INFO] - Iteration: 774	Episode Reward: 0.00
+[2025-03-12 12:09:36,274][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:36,481][__main__][INFO] - Iteration: 775	Episode Reward: 0.00
+[2025-03-12 12:09:36,687][__main__][INFO] - Iteration: 776	Episode Reward: 0.00
+[2025-03-12 12:09:36,893][__main__][INFO] - Iteration: 777	Episode Reward: 101.00
+[2025-03-12 12:09:37,099][__main__][INFO] - Iteration: 778	Episode Reward: 0.00
+[2025-03-12 12:09:37,305][__main__][INFO] - Iteration: 779	Episode Reward: 97.00
+[2025-03-12 12:09:37,392][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0122
+[2025-03-12 12:09:37,597][__main__][INFO] - Iteration: 780	Episode Reward: 0.00
+[2025-03-12 12:09:37,803][__main__][INFO] - Iteration: 781	Episode Reward: 0.00
+[2025-03-12 12:09:38,008][__main__][INFO] - Iteration: 782	Episode Reward: 97.00
+[2025-03-12 12:09:38,214][__main__][INFO] - Iteration: 783	Episode Reward: 0.00
+[2025-03-12 12:09:38,419][__main__][INFO] - Iteration: 784	Episode Reward: 97.00
+[2025-03-12 12:09:38,504][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:38,709][__main__][INFO] - Iteration: 785	Episode Reward: 0.00
+[2025-03-12 12:09:38,915][__main__][INFO] - Iteration: 786	Episode Reward: 97.00
+[2025-03-12 12:09:39,121][__main__][INFO] - Iteration: 787	Episode Reward: 0.00
+[2025-03-12 12:09:39,326][__main__][INFO] - Iteration: 788	Episode Reward: 97.00
+[2025-03-12 12:09:39,532][__main__][INFO] - Iteration: 789	Episode Reward: 0.00
+[2025-03-12 12:09:39,630][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:39,837][__main__][INFO] - Iteration: 790	Episode Reward: 0.00
+[2025-03-12 12:09:40,042][__main__][INFO] - Iteration: 791	Episode Reward: 97.00
+[2025-03-12 12:09:40,248][__main__][INFO] - Iteration: 792	Episode Reward: 0.00
+[2025-03-12 12:09:40,453][__main__][INFO] - Iteration: 793	Episode Reward: 97.00
+[2025-03-12 12:09:40,659][__main__][INFO] - Iteration: 794	Episode Reward: 0.00
+[2025-03-12 12:09:40,745][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0128
+[2025-03-12 12:09:40,949][__main__][INFO] - Iteration: 795	Episode Reward: 97.00
+[2025-03-12 12:09:41,155][__main__][INFO] - Iteration: 796	Episode Reward: 0.00
+[2025-03-12 12:09:41,360][__main__][INFO] - Iteration: 797	Episode Reward: 97.00
+[2025-03-12 12:09:41,566][__main__][INFO] - Iteration: 798	Episode Reward: 0.00
+[2025-03-12 12:09:41,772][__main__][INFO] - Iteration: 799	Episode Reward: 0.00
+[2025-03-12 12:09:41,857][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:42,063][__main__][INFO] - Iteration: 800	Episode Reward: 101.00
+[2025-03-12 12:09:42,268][__main__][INFO] - Iteration: 801	Episode Reward: 0.00
+[2025-03-12 12:09:42,474][__main__][INFO] - Iteration: 802	Episode Reward: 97.00
+[2025-03-12 12:09:42,680][__main__][INFO] - Iteration: 803	Episode Reward: 0.00
+[2025-03-12 12:09:42,885][__main__][INFO] - Iteration: 804	Episode Reward: 0.00
+[2025-03-12 12:09:42,982][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0151
+[2025-03-12 12:09:43,188][__main__][INFO] - Iteration: 805	Episode Reward: 0.00
+[2025-03-12 12:09:43,393][__main__][INFO] - Iteration: 806	Episode Reward: 97.00
+[2025-03-12 12:09:43,599][__main__][INFO] - Iteration: 807	Episode Reward: 0.00
+[2025-03-12 12:09:43,805][__main__][INFO] - Iteration: 808	Episode Reward: 0.00
+[2025-03-12 12:09:44,011][__main__][INFO] - Iteration: 809	Episode Reward: 97.00
+[2025-03-12 12:09:44,112][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:44,318][__main__][INFO] - Iteration: 810	Episode Reward: 97.00
+[2025-03-12 12:09:44,524][__main__][INFO] - Iteration: 811	Episode Reward: 0.00
+[2025-03-12 12:09:44,730][__main__][INFO] - Iteration: 812	Episode Reward: 0.00
+[2025-03-12 12:09:44,935][__main__][INFO] - Iteration: 813	Episode Reward: 97.00
+[2025-03-12 12:09:45,219][__main__][INFO] - Iteration: 814	Episode Reward: 0.00
+[2025-03-12 12:09:45,307][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:45,512][__main__][INFO] - Iteration: 815	Episode Reward: 0.00
+[2025-03-12 12:09:45,718][__main__][INFO] - Iteration: 816	Episode Reward: 0.00
+[2025-03-12 12:09:45,924][__main__][INFO] - Iteration: 817	Episode Reward: 101.00
+[2025-03-12 12:09:46,129][__main__][INFO] - Iteration: 818	Episode Reward: 0.00
+[2025-03-12 12:09:46,335][__main__][INFO] - Iteration: 819	Episode Reward: 97.00
+[2025-03-12 12:09:46,427][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:09:46,634][__main__][INFO] - Iteration: 820	Episode Reward: 0.00
+[2025-03-12 12:09:46,840][__main__][INFO] - Iteration: 821	Episode Reward: 0.00
+[2025-03-12 12:09:47,045][__main__][INFO] - Iteration: 822	Episode Reward: 97.00
+[2025-03-12 12:09:47,251][__main__][INFO] - Iteration: 823	Episode Reward: 0.00
+[2025-03-12 12:09:47,457][__main__][INFO] - Iteration: 824	Episode Reward: 97.00
+[2025-03-12 12:09:47,549][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:47,755][__main__][INFO] - Iteration: 825	Episode Reward: 0.00
+[2025-03-12 12:09:47,961][__main__][INFO] - Iteration: 826	Episode Reward: 97.00
+[2025-03-12 12:09:48,167][__main__][INFO] - Iteration: 827	Episode Reward: 0.00
+[2025-03-12 12:09:48,373][__main__][INFO] - Iteration: 828	Episode Reward: 97.00
+[2025-03-12 12:09:48,579][__main__][INFO] - Iteration: 829	Episode Reward: 0.00
+[2025-03-12 12:09:48,678][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:48,886][__main__][INFO] - Iteration: 830	Episode Reward: 0.00
+[2025-03-12 12:09:49,092][__main__][INFO] - Iteration: 831	Episode Reward: 97.00
+[2025-03-12 12:09:49,298][__main__][INFO] - Iteration: 832	Episode Reward: 97.00
+[2025-03-12 12:09:49,504][__main__][INFO] - Iteration: 833	Episode Reward: 0.00
+[2025-03-12 12:09:49,710][__main__][INFO] - Iteration: 834	Episode Reward: 0.00
+[2025-03-12 12:09:49,806][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0128
+[2025-03-12 12:09:50,012][__main__][INFO] - Iteration: 835	Episode Reward: 97.00
+[2025-03-12 12:09:50,218][__main__][INFO] - Iteration: 836	Episode Reward: 0.00
+[2025-03-12 12:09:50,424][__main__][INFO] - Iteration: 837	Episode Reward: 97.00
+[2025-03-12 12:09:50,629][__main__][INFO] - Iteration: 838	Episode Reward: 0.00
+[2025-03-12 12:09:50,835][__main__][INFO] - Iteration: 839	Episode Reward: 0.00
+[2025-03-12 12:09:50,938][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:51,145][__main__][INFO] - Iteration: 840	Episode Reward: 0.00
+[2025-03-12 12:09:51,350][__main__][INFO] - Iteration: 841	Episode Reward: 97.00
+[2025-03-12 12:09:51,556][__main__][INFO] - Iteration: 842	Episode Reward: 0.00
+[2025-03-12 12:09:51,762][__main__][INFO] - Iteration: 843	Episode Reward: 0.00
+[2025-03-12 12:09:51,968][__main__][INFO] - Iteration: 844	Episode Reward: 97.00
+[2025-03-12 12:09:52,055][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:52,260][__main__][INFO] - Iteration: 845	Episode Reward: 0.00
+[2025-03-12 12:09:52,465][__main__][INFO] - Iteration: 846	Episode Reward: 97.00
+[2025-03-12 12:09:52,671][__main__][INFO] - Iteration: 847	Episode Reward: 0.00
+[2025-03-12 12:09:52,877][__main__][INFO] - Iteration: 848	Episode Reward: 0.00
+[2025-03-12 12:09:53,083][__main__][INFO] - Iteration: 849	Episode Reward: 101.00
+[2025-03-12 12:09:53,166][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0124
+[2025-03-12 12:09:53,370][__main__][INFO] - Iteration: 850	Episode Reward: 97.00
+[2025-03-12 12:09:53,576][__main__][INFO] - Iteration: 851	Episode Reward: 0.00
+[2025-03-12 12:09:53,781][__main__][INFO] - Iteration: 852	Episode Reward: 0.00
+[2025-03-12 12:09:53,987][__main__][INFO] - Iteration: 853	Episode Reward: 97.00
+[2025-03-12 12:09:54,193][__main__][INFO] - Iteration: 854	Episode Reward: 0.00
+[2025-03-12 12:09:54,279][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:54,485][__main__][INFO] - Iteration: 855	Episode Reward: 97.00
+[2025-03-12 12:09:54,690][__main__][INFO] - Iteration: 856	Episode Reward: 0.00
+[2025-03-12 12:09:54,896][__main__][INFO] - Iteration: 857	Episode Reward: 0.00
+[2025-03-12 12:09:55,102][__main__][INFO] - Iteration: 858	Episode Reward: 97.00
+[2025-03-12 12:09:55,307][__main__][INFO] - Iteration: 859	Episode Reward: 97.00
+[2025-03-12 12:09:55,407][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0100
+[2025-03-12 12:09:55,614][__main__][INFO] - Iteration: 860	Episode Reward: 0.00
+[2025-03-12 12:09:55,820][__main__][INFO] - Iteration: 861	Episode Reward: 0.00
+[2025-03-12 12:09:56,148][__main__][INFO] - Iteration: 862	Episode Reward: 97.00
+[2025-03-12 12:09:56,354][__main__][INFO] - Iteration: 863	Episode Reward: 97.00
+[2025-03-12 12:09:56,560][__main__][INFO] - Iteration: 864	Episode Reward: 0.00
+[2025-03-12 12:09:56,653][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:56,861][__main__][INFO] - Iteration: 865	Episode Reward: 0.00
+[2025-03-12 12:09:57,066][__main__][INFO] - Iteration: 866	Episode Reward: 101.00
+[2025-03-12 12:09:57,272][__main__][INFO] - Iteration: 867	Episode Reward: 0.00
+[2025-03-12 12:09:57,477][__main__][INFO] - Iteration: 868	Episode Reward: 97.00
+[2025-03-12 12:09:57,683][__main__][INFO] - Iteration: 869	Episode Reward: 0.00
+[2025-03-12 12:09:57,768][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0126
+[2025-03-12 12:09:57,973][__main__][INFO] - Iteration: 870	Episode Reward: 97.00
+[2025-03-12 12:09:58,179][__main__][INFO] - Iteration: 871	Episode Reward: 0.00
+[2025-03-12 12:09:58,384][__main__][INFO] - Iteration: 872	Episode Reward: 97.00
+[2025-03-12 12:09:58,590][__main__][INFO] - Iteration: 873	Episode Reward: 0.00
+[2025-03-12 12:09:58,795][__main__][INFO] - Iteration: 874	Episode Reward: 0.00
+[2025-03-12 12:09:58,883][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:09:59,088][__main__][INFO] - Iteration: 875	Episode Reward: 97.00
+[2025-03-12 12:09:59,294][__main__][INFO] - Iteration: 876	Episode Reward: 97.00
+[2025-03-12 12:09:59,500][__main__][INFO] - Iteration: 877	Episode Reward: 0.00
+[2025-03-12 12:09:59,706][__main__][INFO] - Iteration: 878	Episode Reward: 0.00
+[2025-03-12 12:09:59,911][__main__][INFO] - Iteration: 879	Episode Reward: 0.00
+[2025-03-12 12:09:59,998][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:00,204][__main__][INFO] - Iteration: 880	Episode Reward: 0.00
+[2025-03-12 12:10:00,409][__main__][INFO] - Iteration: 881	Episode Reward: 97.00
+[2025-03-12 12:10:00,615][__main__][INFO] - Iteration: 882	Episode Reward: 0.00
+[2025-03-12 12:10:00,820][__main__][INFO] - Iteration: 883	Episode Reward: 0.00
+[2025-03-12 12:10:01,026][__main__][INFO] - Iteration: 884	Episode Reward: 97.00
+[2025-03-12 12:10:01,105][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:01,309][__main__][INFO] - Iteration: 885	Episode Reward: 97.00
+[2025-03-12 12:10:01,515][__main__][INFO] - Iteration: 886	Episode Reward: 0.00
+[2025-03-12 12:10:01,720][__main__][INFO] - Iteration: 887	Episode Reward: 0.00
+[2025-03-12 12:10:01,926][__main__][INFO] - Iteration: 888	Episode Reward: 97.00
+[2025-03-12 12:10:02,131][__main__][INFO] - Iteration: 889	Episode Reward: 0.00
+[2025-03-12 12:10:02,236][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:02,443][__main__][INFO] - Iteration: 890	Episode Reward: 97.00
+[2025-03-12 12:10:02,648][__main__][INFO] - Iteration: 891	Episode Reward: 0.00
+[2025-03-12 12:10:02,853][__main__][INFO] - Iteration: 892	Episode Reward: 0.00
+[2025-03-12 12:10:03,059][__main__][INFO] - Iteration: 893	Episode Reward: 97.00
+[2025-03-12 12:10:03,265][__main__][INFO] - Iteration: 894	Episode Reward: 0.00
+[2025-03-12 12:10:03,356][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:03,562][__main__][INFO] - Iteration: 895	Episode Reward: 0.00
+[2025-03-12 12:10:03,767][__main__][INFO] - Iteration: 896	Episode Reward: 0.00
+[2025-03-12 12:10:03,973][__main__][INFO] - Iteration: 897	Episode Reward: 97.00
+[2025-03-12 12:10:04,179][__main__][INFO] - Iteration: 898	Episode Reward: 0.00
+[2025-03-12 12:10:04,385][__main__][INFO] - Iteration: 899	Episode Reward: 97.00
+[2025-03-12 12:10:04,468][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:04,674][__main__][INFO] - Iteration: 900	Episode Reward: 0.00
+[2025-03-12 12:10:04,879][__main__][INFO] - Iteration: 901	Episode Reward: 0.00
+[2025-03-12 12:10:05,085][__main__][INFO] - Iteration: 902	Episode Reward: 97.00
+[2025-03-12 12:10:05,290][__main__][INFO] - Iteration: 903	Episode Reward: 0.00
+[2025-03-12 12:10:05,496][__main__][INFO] - Iteration: 904	Episode Reward: 97.00
+[2025-03-12 12:10:05,586][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0150
+[2025-03-12 12:10:05,792][__main__][INFO] - Iteration: 905	Episode Reward: 0.00
+[2025-03-12 12:10:05,997][__main__][INFO] - Iteration: 906	Episode Reward: 101.00
+[2025-03-12 12:10:06,203][__main__][INFO] - Iteration: 907	Episode Reward: 0.00
+[2025-03-12 12:10:06,487][__main__][INFO] - Iteration: 908	Episode Reward: 0.00
+[2025-03-12 12:10:06,693][__main__][INFO] - Iteration: 909	Episode Reward: 0.00
+[2025-03-12 12:10:06,777][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0174
+[2025-03-12 12:10:06,982][__main__][INFO] - Iteration: 910	Episode Reward: 97.00
+[2025-03-12 12:10:07,188][__main__][INFO] - Iteration: 911	Episode Reward: 0.00
+[2025-03-12 12:10:07,394][__main__][INFO] - Iteration: 912	Episode Reward: 97.00
+[2025-03-12 12:10:07,600][__main__][INFO] - Iteration: 913	Episode Reward: 0.00
+[2025-03-12 12:10:07,806][__main__][INFO] - Iteration: 914	Episode Reward: 0.00
+[2025-03-12 12:10:07,891][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:08,097][__main__][INFO] - Iteration: 915	Episode Reward: 97.00
+[2025-03-12 12:10:08,303][__main__][INFO] - Iteration: 916	Episode Reward: 97.00
+[2025-03-12 12:10:08,508][__main__][INFO] - Iteration: 917	Episode Reward: 0.00
+[2025-03-12 12:10:08,714][__main__][INFO] - Iteration: 918	Episode Reward: 0.00
+[2025-03-12 12:10:08,920][__main__][INFO] - Iteration: 919	Episode Reward: 0.00
+[2025-03-12 12:10:09,007][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:09,213][__main__][INFO] - Iteration: 920	Episode Reward: 0.00
+[2025-03-12 12:10:09,419][__main__][INFO] - Iteration: 921	Episode Reward: 97.00
+[2025-03-12 12:10:09,624][__main__][INFO] - Iteration: 922	Episode Reward: 0.00
+[2025-03-12 12:10:09,830][__main__][INFO] - Iteration: 923	Episode Reward: 0.00
+[2025-03-12 12:10:10,036][__main__][INFO] - Iteration: 924	Episode Reward: 97.00
+[2025-03-12 12:10:10,135][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:10,343][__main__][INFO] - Iteration: 925	Episode Reward: 97.00
+[2025-03-12 12:10:10,549][__main__][INFO] - Iteration: 926	Episode Reward: 0.00
+[2025-03-12 12:10:10,755][__main__][INFO] - Iteration: 927	Episode Reward: 0.00
+[2025-03-12 12:10:10,961][__main__][INFO] - Iteration: 928	Episode Reward: 101.00
+[2025-03-12 12:10:11,167][__main__][INFO] - Iteration: 929	Episode Reward: 0.00
+[2025-03-12 12:10:11,258][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:10:11,464][__main__][INFO] - Iteration: 930	Episode Reward: 97.00
+[2025-03-12 12:10:11,670][__main__][INFO] - Iteration: 931	Episode Reward: 0.00
+[2025-03-12 12:10:11,876][__main__][INFO] - Iteration: 932	Episode Reward: 0.00
+[2025-03-12 12:10:12,081][__main__][INFO] - Iteration: 933	Episode Reward: 97.00
+[2025-03-12 12:10:12,287][__main__][INFO] - Iteration: 934	Episode Reward: 0.00
+[2025-03-12 12:10:12,377][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:12,583][__main__][INFO] - Iteration: 935	Episode Reward: 0.00
+[2025-03-12 12:10:12,788][__main__][INFO] - Iteration: 936	Episode Reward: 0.00
+[2025-03-12 12:10:12,994][__main__][INFO] - Iteration: 937	Episode Reward: 101.00
+[2025-03-12 12:10:13,200][__main__][INFO] - Iteration: 938	Episode Reward: 0.00
+[2025-03-12 12:10:13,406][__main__][INFO] - Iteration: 939	Episode Reward: 97.00
+[2025-03-12 12:10:13,494][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0123
+[2025-03-12 12:10:13,700][__main__][INFO] - Iteration: 940	Episode Reward: 0.00
+[2025-03-12 12:10:13,905][__main__][INFO] - Iteration: 941	Episode Reward: 0.00
+[2025-03-12 12:10:14,111][__main__][INFO] - Iteration: 942	Episode Reward: 97.00
+[2025-03-12 12:10:14,316][__main__][INFO] - Iteration: 943	Episode Reward: 97.00
+[2025-03-12 12:10:14,522][__main__][INFO] - Iteration: 944	Episode Reward: 0.00
+[2025-03-12 12:10:14,607][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:14,812][__main__][INFO] - Iteration: 945	Episode Reward: 0.00
+[2025-03-12 12:10:15,018][__main__][INFO] - Iteration: 946	Episode Reward: 97.00
+[2025-03-12 12:10:15,223][__main__][INFO] - Iteration: 947	Episode Reward: 0.00
+[2025-03-12 12:10:15,429][__main__][INFO] - Iteration: 948	Episode Reward: 97.00
+[2025-03-12 12:10:15,635][__main__][INFO] - Iteration: 949	Episode Reward: 0.00
+[2025-03-12 12:10:15,723][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:15,929][__main__][INFO] - Iteration: 950	Episode Reward: 0.00
+[2025-03-12 12:10:16,135][__main__][INFO] - Iteration: 951	Episode Reward: 97.00
+[2025-03-12 12:10:16,340][__main__][INFO] - Iteration: 952	Episode Reward: 97.00
+[2025-03-12 12:10:16,546][__main__][INFO] - Iteration: 953	Episode Reward: 0.00
+[2025-03-12 12:10:16,752][__main__][INFO] - Iteration: 954	Episode Reward: 0.00
+[2025-03-12 12:10:16,843][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0142
+[2025-03-12 12:10:17,049][__main__][INFO] - Iteration: 955	Episode Reward: 97.00
+[2025-03-12 12:10:17,255][__main__][INFO] - Iteration: 956	Episode Reward: 0.00
+[2025-03-12 12:10:17,461][__main__][INFO] - Iteration: 957	Episode Reward: 97.00
+[2025-03-12 12:10:17,666][__main__][INFO] - Iteration: 958	Episode Reward: 0.00
+[2025-03-12 12:10:17,872][__main__][INFO] - Iteration: 959	Episode Reward: 0.00
+[2025-03-12 12:10:17,976][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:18,183][__main__][INFO] - Iteration: 960	Episode Reward: 0.00
+[2025-03-12 12:10:18,389][__main__][INFO] - Iteration: 961	Episode Reward: 97.00
+[2025-03-12 12:10:18,673][__main__][INFO] - Iteration: 962	Episode Reward: 0.00
+[2025-03-12 12:10:18,879][__main__][INFO] - Iteration: 963	Episode Reward: 0.00
+[2025-03-12 12:10:19,084][__main__][INFO] - Iteration: 964	Episode Reward: 97.00
+[2025-03-12 12:10:19,168][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:19,373][__main__][INFO] - Iteration: 965	Episode Reward: 97.00
+[2025-03-12 12:10:19,579][__main__][INFO] - Iteration: 966	Episode Reward: 0.00
+[2025-03-12 12:10:19,785][__main__][INFO] - Iteration: 967	Episode Reward: 0.00
+[2025-03-12 12:10:19,991][__main__][INFO] - Iteration: 968	Episode Reward: 97.00
+[2025-03-12 12:10:20,196][__main__][INFO] - Iteration: 969	Episode Reward: 0.00
+[2025-03-12 12:10:20,297][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:20,504][__main__][INFO] - Iteration: 970	Episode Reward: 97.00
+[2025-03-12 12:10:20,710][__main__][INFO] - Iteration: 971	Episode Reward: 0.00
+[2025-03-12 12:10:20,916][__main__][INFO] - Iteration: 972	Episode Reward: 0.00
+[2025-03-12 12:10:21,122][__main__][INFO] - Iteration: 973	Episode Reward: 97.00
+[2025-03-12 12:10:21,329][__main__][INFO] - Iteration: 974	Episode Reward: 97.00
+[2025-03-12 12:10:21,419][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0082
+[2025-03-12 12:10:21,625][__main__][INFO] - Iteration: 975	Episode Reward: 0.00
+[2025-03-12 12:10:21,831][__main__][INFO] - Iteration: 976	Episode Reward: 0.00
+[2025-03-12 12:10:22,037][__main__][INFO] - Iteration: 977	Episode Reward: 97.00
+[2025-03-12 12:10:22,242][__main__][INFO] - Iteration: 978	Episode Reward: 0.00
+[2025-03-12 12:10:22,448][__main__][INFO] - Iteration: 979	Episode Reward: 97.00
+[2025-03-12 12:10:22,535][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:22,740][__main__][INFO] - Iteration: 980	Episode Reward: 0.00
+[2025-03-12 12:10:22,946][__main__][INFO] - Iteration: 981	Episode Reward: 97.00
+[2025-03-12 12:10:23,151][__main__][INFO] - Iteration: 982	Episode Reward: 0.00
+[2025-03-12 12:10:23,357][__main__][INFO] - Iteration: 983	Episode Reward: 97.00
+[2025-03-12 12:10:23,562][__main__][INFO] - Iteration: 984	Episode Reward: 0.00
+[2025-03-12 12:10:23,658][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:23,866][__main__][INFO] - Iteration: 985	Episode Reward: 0.00
+[2025-03-12 12:10:24,072][__main__][INFO] - Iteration: 986	Episode Reward: 97.00
+[2025-03-12 12:10:24,277][__main__][INFO] - Iteration: 987	Episode Reward: 0.00
+[2025-03-12 12:10:24,483][__main__][INFO] - Iteration: 988	Episode Reward: 97.00
+[2025-03-12 12:10:24,688][__main__][INFO] - Iteration: 989	Episode Reward: 0.00
+[2025-03-12 12:10:24,769][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:24,974][__main__][INFO] - Iteration: 990	Episode Reward: 97.00
+[2025-03-12 12:10:25,180][__main__][INFO] - Iteration: 991	Episode Reward: 0.00
+[2025-03-12 12:10:25,385][__main__][INFO] - Iteration: 992	Episode Reward: 97.00
+[2025-03-12 12:10:25,591][__main__][INFO] - Iteration: 993	Episode Reward: 0.00
+[2025-03-12 12:10:25,797][__main__][INFO] - Iteration: 994	Episode Reward: 0.00
+[2025-03-12 12:10:25,884][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0127
+[2025-03-12 12:10:26,089][__main__][INFO] - Iteration: 995	Episode Reward: 101.00
+[2025-03-12 12:10:26,295][__main__][INFO] - Iteration: 996	Episode Reward: 0.00
+[2025-03-12 12:10:26,501][__main__][INFO] - Iteration: 997	Episode Reward: 97.00
+[2025-03-12 12:10:26,707][__main__][INFO] - Iteration: 998	Episode Reward: 0.00
+[2025-03-12 12:10:26,912][__main__][INFO] - Iteration: 999	Episode Reward: 0.00
+[2025-03-12 12:10:27,001][__main__][INFO] - Batch update (after 5 episodes): Loss = -0.0124
+[2025-03-12 12:10:27,003][__main__][INFO] - Actor-Critic model saved to outputs/2025-03-12/12-06-40/checkpoints/actor_critic_model.pth

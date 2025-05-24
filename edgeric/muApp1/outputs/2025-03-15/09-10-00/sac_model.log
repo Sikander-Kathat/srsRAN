@@ -1,0 +1,2 @@
+[2025-03-15 09:10:00,217][__main__][INFO] - Evaluating Actor-Critic agent
+[2025-03-15 09:10:00,217][__main__][INFO] - Loading Actor-Critic model from: /home/EdgeRIC-A-real-time-RIC/edgeric/muApp1/actor critic/edge_ric_sac_model.pth

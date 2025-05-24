@@ -1,0 +1,13 @@
+[2025-02-25 04:50:05,896][__main__][INFO] - Evaluating Q-learning agent
+[2025-02-25 04:50:05,896][__main__][INFO] - Loading Q-learning model from: /home/EdgeRIC-A-real-time-RIC/edgeric/muApp1/rl_model/fully_trained_model/q_learning_model.pth
+[2025-02-25 04:50:06,213][__main__][INFO] - Episode 0
+[2025-02-25 04:50:11,378][__main__][INFO] - Episode 0: Episode bitrate (bytes): 6641828.0 | Throughput: 53.13 megabits
+[2025-02-25 04:50:11,378][__main__][INFO] - Episode 1
+[2025-02-25 04:50:16,544][__main__][INFO] - Episode 1: Episode bitrate (bytes): 6643631.0 | Throughput: 53.15 megabits
+[2025-02-25 04:50:16,545][__main__][INFO] - Episode 2
+[2025-02-25 04:50:21,710][__main__][INFO] - Episode 2: Episode bitrate (bytes): 6631727.0 | Throughput: 53.05 megabits
+[2025-02-25 04:50:21,710][__main__][INFO] - Episode 3
+[2025-02-25 04:50:26,880][__main__][INFO] - Episode 3: Episode bitrate (bytes): 6630842.0 | Throughput: 53.05 megabits
+[2025-02-25 04:50:26,880][__main__][INFO] - Episode 4
+[2025-02-25 04:50:32,046][__main__][INFO] - Episode 4: Episode bitrate (bytes): 6638378.0 | Throughput: 53.11 megabits
+[2025-02-25 04:50:32,046][__main__][INFO] - Episode 5

@@ -1,0 +1,3 @@
+[2025-02-25 05:43:37,261][__main__][INFO] - Evaluating Q-learning agent
+[2025-02-25 05:43:37,261][__main__][INFO] - Loading Q-learning model from: /home/EdgeRIC-A-real-time-RIC/edgeric/muApp1/rl_model/fully_trained_model/q_learning_model.pth
+[2025-02-25 05:43:37,655][__main__][INFO] - Episode 0

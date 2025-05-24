@@ -1,0 +1,5 @@
+[2025-03-13 05:40:56,964][__main__][INFO] - Iteration: 0	Episode Reward: 246320.00	Moving Avg Reward: 246320.00
+[2025-03-13 05:40:57,171][__main__][INFO] - Iteration: 1	Episode Reward: 250062.00	Moving Avg Reward: 248191.00
+[2025-03-13 05:40:57,378][__main__][INFO] - Iteration: 2	Episode Reward: 247923.00	Moving Avg Reward: 248101.67
+[2025-03-13 05:40:57,585][__main__][INFO] - Iteration: 3	Episode Reward: 243146.00	Moving Avg Reward: 246862.75
+[2025-03-13 05:40:57,792][__main__][INFO] - Iteration: 4	Episode Reward: 248592.00	Moving Avg Reward: 247208.60

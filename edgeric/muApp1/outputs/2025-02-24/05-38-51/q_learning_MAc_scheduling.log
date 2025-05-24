@@ -1,0 +1,1247 @@
+[2025-02-24 05:38:51,837][__main__][INFO] - Evaluating Q-learning agent
+[2025-02-24 05:38:51,837][__main__][INFO] - Loading Q-learning model from: /home/EdgeRIC-A-real-time-RIC/edgeric/muApp1/rl_model/fully_trained_model/q_learning_model.pth
+[2025-02-24 05:38:52,208][__main__][INFO] - Episode 0
+[2025-02-24 05:38:57,384][__main__][INFO] - Episode 0: Throughput: 7131.07
+[2025-02-24 05:38:57,385][__main__][INFO] - Episode 1
+[2025-02-24 05:39:02,547][__main__][INFO] - Episode 1: Throughput: 7139.41
+[2025-02-24 05:39:02,547][__main__][INFO] - Episode 2
+[2025-02-24 05:39:07,717][__main__][INFO] - Episode 2: Throughput: 7134.21
+[2025-02-24 05:39:07,717][__main__][INFO] - Episode 3
+[2025-02-24 05:39:12,886][__main__][INFO] - Episode 3: Throughput: 7138.28
+[2025-02-24 05:39:12,886][__main__][INFO] - Episode 4
+[2025-02-24 05:39:18,071][__main__][INFO] - Episode 4: Throughput: 7145.60
+[2025-02-24 05:39:18,071][__main__][INFO] - Episode 5
+[2025-02-24 05:39:23,234][__main__][INFO] - Episode 5: Throughput: 7139.01
+[2025-02-24 05:39:23,234][__main__][INFO] - Episode 6
+[2025-02-24 05:39:28,401][__main__][INFO] - Episode 6: Throughput: 7134.54
+[2025-02-24 05:39:28,401][__main__][INFO] - Episode 7
+[2025-02-24 05:39:33,565][__main__][INFO] - Episode 7: Throughput: 7124.31
+[2025-02-24 05:39:33,565][__main__][INFO] - Episode 8
+[2025-02-24 05:39:38,726][__main__][INFO] - Episode 8: Throughput: 7128.61
+[2025-02-24 05:39:38,726][__main__][INFO] - Episode 9
+[2025-02-24 05:39:43,890][__main__][INFO] - Episode 9: Throughput: 7131.59
+[2025-02-24 05:39:43,890][__main__][INFO] - Episode 10
+[2025-02-24 05:39:49,050][__main__][INFO] - Episode 10: Throughput: 7148.50
+[2025-02-24 05:39:49,050][__main__][INFO] - Episode 11
+[2025-02-24 05:39:54,207][__main__][INFO] - Episode 11: Throughput: 7138.64
+[2025-02-24 05:39:54,207][__main__][INFO] - Episode 12
+[2025-02-24 05:39:59,366][__main__][INFO] - Episode 12: Throughput: 7126.70
+[2025-02-24 05:39:59,366][__main__][INFO] - Episode 13
+[2025-02-24 05:40:04,524][__main__][INFO] - Episode 13: Throughput: 7136.95
+[2025-02-24 05:40:04,524][__main__][INFO] - Episode 14
+[2025-02-24 05:40:09,696][__main__][INFO] - Episode 14: Throughput: 7140.53
+[2025-02-24 05:40:09,696][__main__][INFO] - Episode 15
+[2025-02-24 05:40:14,856][__main__][INFO] - Episode 15: Throughput: 7132.19
+[2025-02-24 05:40:14,856][__main__][INFO] - Episode 16
+[2025-02-24 05:40:20,009][__main__][INFO] - Episode 16: Throughput: 7125.24
+[2025-02-24 05:40:20,009][__main__][INFO] - Episode 17
+[2025-02-24 05:40:25,164][__main__][INFO] - Episode 17: Throughput: 7120.34
+[2025-02-24 05:40:25,164][__main__][INFO] - Episode 18
+[2025-02-24 05:40:30,316][__main__][INFO] - Episode 18: Throughput: 7138.01
+[2025-02-24 05:40:30,317][__main__][INFO] - Episode 19
+[2025-02-24 05:40:35,473][__main__][INFO] - Episode 19: Throughput: 7144.00
+[2025-02-24 05:40:35,474][__main__][INFO] - Episode 20
+[2025-02-24 05:40:40,633][__main__][INFO] - Episode 20: Throughput: 7143.95
+[2025-02-24 05:40:40,633][__main__][INFO] - Episode 21
+[2025-02-24 05:40:45,783][__main__][INFO] - Episode 21: Throughput: 7106.26
+[2025-02-24 05:40:45,783][__main__][INFO] - Episode 22
+[2025-02-24 05:40:50,936][__main__][INFO] - Episode 22: Throughput: 7131.15
+[2025-02-24 05:40:50,936][__main__][INFO] - Episode 23
+[2025-02-24 05:40:56,093][__main__][INFO] - Episode 23: Throughput: 7138.07
+[2025-02-24 05:40:56,093][__main__][INFO] - Episode 24
+[2025-02-24 05:41:01,246][__main__][INFO] - Episode 24: Throughput: 7103.51
+[2025-02-24 05:41:01,246][__main__][INFO] - Episode 25
+[2025-02-24 05:41:06,403][__main__][INFO] - Episode 25: Throughput: 7132.28
+[2025-02-24 05:41:06,403][__main__][INFO] - Episode 26
+[2025-02-24 05:41:11,565][__main__][INFO] - Episode 26: Throughput: 7125.28
+[2025-02-24 05:41:11,565][__main__][INFO] - Episode 27
+[2025-02-24 05:41:16,722][__main__][INFO] - Episode 27: Throughput: 7126.53
+[2025-02-24 05:41:16,722][__main__][INFO] - Episode 28
+[2025-02-24 05:41:21,879][__main__][INFO] - Episode 28: Throughput: 7114.74
+[2025-02-24 05:41:21,879][__main__][INFO] - Episode 29
+[2025-02-24 05:41:27,034][__main__][INFO] - Episode 29: Throughput: 7132.52
+[2025-02-24 05:41:27,034][__main__][INFO] - Episode 30
+[2025-02-24 05:41:32,191][__main__][INFO] - Episode 30: Throughput: 7132.19
+[2025-02-24 05:41:32,191][__main__][INFO] - Episode 31
+[2025-02-24 05:41:37,362][__main__][INFO] - Episode 31: Throughput: 7131.48
+[2025-02-24 05:41:37,363][__main__][INFO] - Episode 32
+[2025-02-24 05:41:42,516][__main__][INFO] - Episode 32: Throughput: 7130.29
+[2025-02-24 05:41:42,516][__main__][INFO] - Episode 33
+[2025-02-24 05:41:47,678][__main__][INFO] - Episode 33: Throughput: 7131.32
+[2025-02-24 05:41:47,678][__main__][INFO] - Episode 34
+[2025-02-24 05:41:52,842][__main__][INFO] - Episode 34: Throughput: 7127.32
+[2025-02-24 05:41:52,842][__main__][INFO] - Episode 35
+[2025-02-24 05:41:58,004][__main__][INFO] - Episode 35: Throughput: 7140.25
+[2025-02-24 05:41:58,004][__main__][INFO] - Episode 36
+[2025-02-24 05:42:03,171][__main__][INFO] - Episode 36: Throughput: 7125.36
+[2025-02-24 05:42:03,171][__main__][INFO] - Episode 37
+[2025-02-24 05:42:08,333][__main__][INFO] - Episode 37: Throughput: 7142.58
+[2025-02-24 05:42:08,333][__main__][INFO] - Episode 38
+[2025-02-24 05:42:13,496][__main__][INFO] - Episode 38: Throughput: 7146.34
+[2025-02-24 05:42:13,496][__main__][INFO] - Episode 39
+[2025-02-24 05:42:18,659][__main__][INFO] - Episode 39: Throughput: 7130.63
+[2025-02-24 05:42:18,659][__main__][INFO] - Episode 40
+[2025-02-24 05:42:23,810][__main__][INFO] - Episode 40: Throughput: 7143.81
+[2025-02-24 05:42:23,810][__main__][INFO] - Episode 41
+[2025-02-24 05:42:28,965][__main__][INFO] - Episode 41: Throughput: 7131.58
+[2025-02-24 05:42:28,966][__main__][INFO] - Episode 42
+[2025-02-24 05:42:34,119][__main__][INFO] - Episode 42: Throughput: 7139.86
+[2025-02-24 05:42:34,119][__main__][INFO] - Episode 43
+[2025-02-24 05:42:39,271][__main__][INFO] - Episode 43: Throughput: 7125.52
+[2025-02-24 05:42:39,271][__main__][INFO] - Episode 44
+[2025-02-24 05:42:44,425][__main__][INFO] - Episode 44: Throughput: 7134.03
+[2025-02-24 05:42:44,426][__main__][INFO] - Episode 45
+[2025-02-24 05:42:49,589][__main__][INFO] - Episode 45: Throughput: 7131.76
+[2025-02-24 05:42:49,590][__main__][INFO] - Episode 46
+[2025-02-24 05:42:54,757][__main__][INFO] - Episode 46: Throughput: 7129.81
+[2025-02-24 05:42:54,757][__main__][INFO] - Episode 47
+[2025-02-24 05:42:59,924][__main__][INFO] - Episode 47: Throughput: 7129.22
+[2025-02-24 05:42:59,925][__main__][INFO] - Episode 48
+[2025-02-24 05:43:05,095][__main__][INFO] - Episode 48: Throughput: 7135.80
+[2025-02-24 05:43:05,096][__main__][INFO] - Episode 49
+[2025-02-24 05:43:10,258][__main__][INFO] - Episode 49: Throughput: 7139.14
+[2025-02-24 05:43:10,258][__main__][INFO] - Episode 50
+[2025-02-24 05:43:15,418][__main__][INFO] - Episode 50: Throughput: 7121.53
+[2025-02-24 05:43:15,418][__main__][INFO] - Episode 51
+[2025-02-24 05:43:20,579][__main__][INFO] - Episode 51: Throughput: 7142.20
+[2025-02-24 05:43:20,580][__main__][INFO] - Episode 52
+[2025-02-24 05:43:25,742][__main__][INFO] - Episode 52: Throughput: 7137.64
+[2025-02-24 05:43:25,743][__main__][INFO] - Episode 53
+[2025-02-24 05:43:30,899][__main__][INFO] - Episode 53: Throughput: 7135.33
+[2025-02-24 05:43:30,899][__main__][INFO] - Episode 54
+[2025-02-24 05:43:36,057][__main__][INFO] - Episode 54: Throughput: 7126.47
+[2025-02-24 05:43:36,057][__main__][INFO] - Episode 55
+[2025-02-24 05:43:41,214][__main__][INFO] - Episode 55: Throughput: 7124.33
+[2025-02-24 05:43:41,214][__main__][INFO] - Episode 56
+[2025-02-24 05:43:46,371][__main__][INFO] - Episode 56: Throughput: 7128.40
+[2025-02-24 05:43:46,371][__main__][INFO] - Episode 57
+[2025-02-24 05:43:51,542][__main__][INFO] - Episode 57: Throughput: 7139.81
+[2025-02-24 05:43:51,542][__main__][INFO] - Episode 58
+[2025-02-24 05:43:56,711][__main__][INFO] - Episode 58: Throughput: 7139.52
+[2025-02-24 05:43:56,711][__main__][INFO] - Episode 59
+[2025-02-24 05:44:01,878][__main__][INFO] - Episode 59: Throughput: 7134.03
+[2025-02-24 05:44:01,878][__main__][INFO] - Episode 60
+[2025-02-24 05:44:07,034][__main__][INFO] - Episode 60: Throughput: 7133.79
+[2025-02-24 05:44:07,034][__main__][INFO] - Episode 61
+[2025-02-24 05:44:12,210][__main__][INFO] - Episode 61: Throughput: 7146.97
+[2025-02-24 05:44:12,210][__main__][INFO] - Episode 62
+[2025-02-24 05:44:17,379][__main__][INFO] - Episode 62: Throughput: 7131.82
+[2025-02-24 05:44:17,379][__main__][INFO] - Episode 63
+[2025-02-24 05:44:22,544][__main__][INFO] - Episode 63: Throughput: 7127.56
+[2025-02-24 05:44:22,544][__main__][INFO] - Episode 64
+[2025-02-24 05:44:27,702][__main__][INFO] - Episode 64: Throughput: 7143.41
+[2025-02-24 05:44:27,702][__main__][INFO] - Episode 65
+[2025-02-24 05:44:32,863][__main__][INFO] - Episode 65: Throughput: 7137.38
+[2025-02-24 05:44:32,863][__main__][INFO] - Episode 66
+[2025-02-24 05:44:38,014][__main__][INFO] - Episode 66: Throughput: 7141.03
+[2025-02-24 05:44:38,014][__main__][INFO] - Episode 67
+[2025-02-24 05:44:43,170][__main__][INFO] - Episode 67: Throughput: 7120.78
+[2025-02-24 05:44:43,170][__main__][INFO] - Episode 68
+[2025-02-24 05:44:48,323][__main__][INFO] - Episode 68: Throughput: 7143.34
+[2025-02-24 05:44:48,324][__main__][INFO] - Episode 69
+[2025-02-24 05:44:53,474][__main__][INFO] - Episode 69: Throughput: 7129.48
+[2025-02-24 05:44:53,475][__main__][INFO] - Episode 70
+[2025-02-24 05:44:58,630][__main__][INFO] - Episode 70: Throughput: 7135.98
+[2025-02-24 05:44:58,630][__main__][INFO] - Episode 71
+[2025-02-24 05:45:03,786][__main__][INFO] - Episode 71: Throughput: 7103.14
+[2025-02-24 05:45:03,786][__main__][INFO] - Episode 72
+[2025-02-24 05:45:08,941][__main__][INFO] - Episode 72: Throughput: 7143.32
+[2025-02-24 05:45:08,941][__main__][INFO] - Episode 73
+[2025-02-24 05:45:14,113][__main__][INFO] - Episode 73: Throughput: 7133.04
+[2025-02-24 05:45:14,113][__main__][INFO] - Episode 74
+[2025-02-24 05:45:19,266][__main__][INFO] - Episode 74: Throughput: 7117.84
+[2025-02-24 05:45:19,266][__main__][INFO] - Episode 75
+[2025-02-24 05:45:24,419][__main__][INFO] - Episode 75: Throughput: 7113.27
+[2025-02-24 05:45:24,419][__main__][INFO] - Episode 76
+[2025-02-24 05:45:29,576][__main__][INFO] - Episode 76: Throughput: 7134.02
+[2025-02-24 05:45:29,576][__main__][INFO] - Episode 77
+[2025-02-24 05:45:34,750][__main__][INFO] - Episode 77: Throughput: 7128.98
+[2025-02-24 05:45:34,750][__main__][INFO] - Episode 78
+[2025-02-24 05:45:39,918][__main__][INFO] - Episode 78: Throughput: 7139.93
+[2025-02-24 05:45:39,918][__main__][INFO] - Episode 79
+[2025-02-24 05:45:45,089][__main__][INFO] - Episode 79: Throughput: 7129.00
+[2025-02-24 05:45:45,089][__main__][INFO] - Episode 80
+[2025-02-24 05:45:50,254][__main__][INFO] - Episode 80: Throughput: 7133.37
+[2025-02-24 05:45:50,254][__main__][INFO] - Episode 81
+[2025-02-24 05:45:55,422][__main__][INFO] - Episode 81: Throughput: 7136.88
+[2025-02-24 05:45:55,422][__main__][INFO] - Episode 82
+[2025-02-24 05:46:00,592][__main__][INFO] - Episode 82: Throughput: 7137.01
+[2025-02-24 05:46:00,592][__main__][INFO] - Episode 83
+[2025-02-24 05:46:05,761][__main__][INFO] - Episode 83: Throughput: 7139.66
+[2025-02-24 05:46:05,762][__main__][INFO] - Episode 84
+[2025-02-24 05:46:10,919][__main__][INFO] - Episode 84: Throughput: 7126.56
+[2025-02-24 05:46:10,919][__main__][INFO] - Episode 85
+[2025-02-24 05:46:16,090][__main__][INFO] - Episode 85: Throughput: 7134.61
+[2025-02-24 05:46:16,090][__main__][INFO] - Episode 86
+[2025-02-24 05:46:21,259][__main__][INFO] - Episode 86: Throughput: 7127.67
+[2025-02-24 05:46:21,259][__main__][INFO] - Episode 87
+[2025-02-24 05:46:26,427][__main__][INFO] - Episode 87: Throughput: 7142.19
+[2025-02-24 05:46:26,427][__main__][INFO] - Episode 88
+[2025-02-24 05:46:31,590][__main__][INFO] - Episode 88: Throughput: 7138.97
+[2025-02-24 05:46:31,590][__main__][INFO] - Episode 89
+[2025-02-24 05:46:36,750][__main__][INFO] - Episode 89: Throughput: 7136.43
+[2025-02-24 05:46:36,750][__main__][INFO] - Episode 90
+[2025-02-24 05:46:41,913][__main__][INFO] - Episode 90: Throughput: 7129.56
+[2025-02-24 05:46:41,913][__main__][INFO] - Episode 91
+[2025-02-24 05:46:47,078][__main__][INFO] - Episode 91: Throughput: 7146.43
+[2025-02-24 05:46:47,078][__main__][INFO] - Episode 92
+[2025-02-24 05:46:52,243][__main__][INFO] - Episode 92: Throughput: 7129.78
+[2025-02-24 05:46:52,243][__main__][INFO] - Episode 93
+[2025-02-24 05:46:57,406][__main__][INFO] - Episode 93: Throughput: 7124.24
+[2025-02-24 05:46:57,406][__main__][INFO] - Episode 94
+[2025-02-24 05:47:02,574][__main__][INFO] - Episode 94: Throughput: 7131.82
+[2025-02-24 05:47:02,574][__main__][INFO] - Episode 95
+[2025-02-24 05:47:07,747][__main__][INFO] - Episode 95: Throughput: 7145.97
+[2025-02-24 05:47:07,747][__main__][INFO] - Episode 96
+[2025-02-24 05:47:12,919][__main__][INFO] - Episode 96: Throughput: 7137.93
+[2025-02-24 05:47:12,919][__main__][INFO] - Episode 97
+[2025-02-24 05:47:18,096][__main__][INFO] - Episode 97: Throughput: 7137.72
+[2025-02-24 05:47:18,096][__main__][INFO] - Episode 98
+[2025-02-24 05:47:23,276][__main__][INFO] - Episode 98: Throughput: 7145.13
+[2025-02-24 05:47:23,276][__main__][INFO] - Episode 99
+[2025-02-24 05:47:28,454][__main__][INFO] - Episode 99: Throughput: 7152.63
+[2025-02-24 05:47:28,454][__main__][INFO] - Episode 100
+[2025-02-24 05:47:33,633][__main__][INFO] - Episode 100: Throughput: 7144.44
+[2025-02-24 05:47:33,633][__main__][INFO] - Episode 101
+[2025-02-24 05:47:38,798][__main__][INFO] - Episode 101: Throughput: 7136.83
+[2025-02-24 05:47:38,798][__main__][INFO] - Episode 102
+[2025-02-24 05:47:43,962][__main__][INFO] - Episode 102: Throughput: 7140.13
+[2025-02-24 05:47:43,962][__main__][INFO] - Episode 103
+[2025-02-24 05:47:49,134][__main__][INFO] - Episode 103: Throughput: 7142.90
+[2025-02-24 05:47:49,134][__main__][INFO] - Episode 104
+[2025-02-24 05:47:54,304][__main__][INFO] - Episode 104: Throughput: 7139.56
+[2025-02-24 05:47:54,304][__main__][INFO] - Episode 105
+[2025-02-24 05:47:59,473][__main__][INFO] - Episode 105: Throughput: 7141.08
+[2025-02-24 05:47:59,473][__main__][INFO] - Episode 106
+[2025-02-24 05:48:04,649][__main__][INFO] - Episode 106: Throughput: 7142.17
+[2025-02-24 05:48:04,649][__main__][INFO] - Episode 107
+[2025-02-24 05:48:09,829][__main__][INFO] - Episode 107: Throughput: 7135.51
+[2025-02-24 05:48:09,829][__main__][INFO] - Episode 108
+[2025-02-24 05:48:14,998][__main__][INFO] - Episode 108: Throughput: 7139.36
+[2025-02-24 05:48:14,998][__main__][INFO] - Episode 109
+[2025-02-24 05:48:20,176][__main__][INFO] - Episode 109: Throughput: 7149.24
+[2025-02-24 05:48:20,176][__main__][INFO] - Episode 110
+[2025-02-24 05:48:25,341][__main__][INFO] - Episode 110: Throughput: 7138.58
+[2025-02-24 05:48:25,341][__main__][INFO] - Episode 111
+[2025-02-24 05:48:30,497][__main__][INFO] - Episode 111: Throughput: 7124.94
+[2025-02-24 05:48:30,497][__main__][INFO] - Episode 112
+[2025-02-24 05:48:35,661][__main__][INFO] - Episode 112: Throughput: 7138.29
+[2025-02-24 05:48:35,661][__main__][INFO] - Episode 113
+[2025-02-24 05:48:40,820][__main__][INFO] - Episode 113: Throughput: 7130.48
+[2025-02-24 05:48:40,820][__main__][INFO] - Episode 114
+[2025-02-24 05:48:45,983][__main__][INFO] - Episode 114: Throughput: 7138.55
+[2025-02-24 05:48:45,983][__main__][INFO] - Episode 115
+[2025-02-24 05:48:51,142][__main__][INFO] - Episode 115: Throughput: 7132.24
+[2025-02-24 05:48:51,143][__main__][INFO] - Episode 116
+[2025-02-24 05:48:56,304][__main__][INFO] - Episode 116: Throughput: 7131.15
+[2025-02-24 05:48:56,304][__main__][INFO] - Episode 117
+[2025-02-24 05:49:01,477][__main__][INFO] - Episode 117: Throughput: 7145.55
+[2025-02-24 05:49:01,477][__main__][INFO] - Episode 118
+[2025-02-24 05:49:06,635][__main__][INFO] - Episode 118: Throughput: 7141.25
+[2025-02-24 05:49:06,636][__main__][INFO] - Episode 119
+[2025-02-24 05:49:11,793][__main__][INFO] - Episode 119: Throughput: 7135.32
+[2025-02-24 05:49:11,793][__main__][INFO] - Episode 120
+[2025-02-24 05:49:16,951][__main__][INFO] - Episode 120: Throughput: 7132.86
+[2025-02-24 05:49:16,951][__main__][INFO] - Episode 121
+[2025-02-24 05:49:22,106][__main__][INFO] - Episode 121: Throughput: 7136.06
+[2025-02-24 05:49:22,106][__main__][INFO] - Episode 122
+[2025-02-24 05:49:27,268][__main__][INFO] - Episode 122: Throughput: 7129.63
+[2025-02-24 05:49:27,268][__main__][INFO] - Episode 123
+[2025-02-24 05:49:32,446][__main__][INFO] - Episode 123: Throughput: 7142.22
+[2025-02-24 05:49:32,446][__main__][INFO] - Episode 124
+[2025-02-24 05:49:37,610][__main__][INFO] - Episode 124: Throughput: 7130.35
+[2025-02-24 05:49:37,610][__main__][INFO] - Episode 125
+[2025-02-24 05:49:42,777][__main__][INFO] - Episode 125: Throughput: 7138.38
+[2025-02-24 05:49:42,777][__main__][INFO] - Episode 126
+[2025-02-24 05:49:47,938][__main__][INFO] - Episode 126: Throughput: 7117.54
+[2025-02-24 05:49:47,938][__main__][INFO] - Episode 127
+[2025-02-24 05:49:53,101][__main__][INFO] - Episode 127: Throughput: 7134.41
+[2025-02-24 05:49:53,101][__main__][INFO] - Episode 128
+[2025-02-24 05:49:58,260][__main__][INFO] - Episode 128: Throughput: 7136.27
+[2025-02-24 05:49:58,260][__main__][INFO] - Episode 129
+[2025-02-24 05:50:03,425][__main__][INFO] - Episode 129: Throughput: 7138.61
+[2025-02-24 05:50:03,425][__main__][INFO] - Episode 130
+[2025-02-24 05:50:08,590][__main__][INFO] - Episode 130: Throughput: 7127.26
+[2025-02-24 05:50:08,590][__main__][INFO] - Episode 131
+[2025-02-24 05:50:13,773][__main__][INFO] - Episode 131: Throughput: 7145.07
+[2025-02-24 05:50:13,773][__main__][INFO] - Episode 132
+[2025-02-24 05:50:18,947][__main__][INFO] - Episode 132: Throughput: 7140.68
+[2025-02-24 05:50:18,947][__main__][INFO] - Episode 133
+[2025-02-24 05:50:24,116][__main__][INFO] - Episode 133: Throughput: 7144.33
+[2025-02-24 05:50:24,116][__main__][INFO] - Episode 134
+[2025-02-24 05:50:29,287][__main__][INFO] - Episode 134: Throughput: 7141.44
+[2025-02-24 05:50:29,287][__main__][INFO] - Episode 135
+[2025-02-24 05:50:34,468][__main__][INFO] - Episode 135: Throughput: 7144.51
+[2025-02-24 05:50:34,468][__main__][INFO] - Episode 136
+[2025-02-24 05:50:39,639][__main__][INFO] - Episode 136: Throughput: 7140.25
+[2025-02-24 05:50:39,639][__main__][INFO] - Episode 137
+[2025-02-24 05:50:44,803][__main__][INFO] - Episode 137: Throughput: 7139.49
+[2025-02-24 05:50:44,804][__main__][INFO] - Episode 138
+[2025-02-24 05:50:49,962][__main__][INFO] - Episode 138: Throughput: 7137.80
+[2025-02-24 05:50:49,962][__main__][INFO] - Episode 139
+[2025-02-24 05:50:55,126][__main__][INFO] - Episode 139: Throughput: 7133.97
+[2025-02-24 05:50:55,126][__main__][INFO] - Episode 140
+[2025-02-24 05:51:00,294][__main__][INFO] - Episode 140: Throughput: 7138.15
+[2025-02-24 05:51:00,294][__main__][INFO] - Episode 141
+[2025-02-24 05:51:05,458][__main__][INFO] - Episode 141: Throughput: 7147.31
+[2025-02-24 05:51:05,459][__main__][INFO] - Episode 142
+[2025-02-24 05:51:10,614][__main__][INFO] - Episode 142: Throughput: 7125.38
+[2025-02-24 05:51:10,614][__main__][INFO] - Episode 143
+[2025-02-24 05:51:15,785][__main__][INFO] - Episode 143: Throughput: 7135.97
+[2025-02-24 05:51:15,785][__main__][INFO] - Episode 144
+[2025-02-24 05:51:20,958][__main__][INFO] - Episode 144: Throughput: 7141.02
+[2025-02-24 05:51:20,958][__main__][INFO] - Episode 145
+[2025-02-24 05:51:26,120][__main__][INFO] - Episode 145: Throughput: 7140.08
+[2025-02-24 05:51:26,120][__main__][INFO] - Episode 146
+[2025-02-24 05:51:31,283][__main__][INFO] - Episode 146: Throughput: 7129.66
+[2025-02-24 05:51:31,283][__main__][INFO] - Episode 147
+[2025-02-24 05:51:36,446][__main__][INFO] - Episode 147: Throughput: 7141.69
+[2025-02-24 05:51:36,447][__main__][INFO] - Episode 148
+[2025-02-24 05:51:41,621][__main__][INFO] - Episode 148: Throughput: 7127.92
+[2025-02-24 05:51:41,621][__main__][INFO] - Episode 149
+[2025-02-24 05:51:46,801][__main__][INFO] - Episode 149: Throughput: 7141.34
+[2025-02-24 05:51:46,801][__main__][INFO] - Episode 150
+[2025-02-24 05:51:51,970][__main__][INFO] - Episode 150: Throughput: 7134.72
+[2025-02-24 05:51:51,970][__main__][INFO] - Episode 151
+[2025-02-24 05:51:57,146][__main__][INFO] - Episode 151: Throughput: 7138.43
+[2025-02-24 05:51:57,146][__main__][INFO] - Episode 152
+[2025-02-24 05:52:02,319][__main__][INFO] - Episode 152: Throughput: 7145.60
+[2025-02-24 05:52:02,319][__main__][INFO] - Episode 153
+[2025-02-24 05:52:07,494][__main__][INFO] - Episode 153: Throughput: 7145.31
+[2025-02-24 05:52:07,495][__main__][INFO] - Episode 154
+[2025-02-24 05:52:12,661][__main__][INFO] - Episode 154: Throughput: 7128.35
+[2025-02-24 05:52:12,661][__main__][INFO] - Episode 155
+[2025-02-24 05:52:17,844][__main__][INFO] - Episode 155: Throughput: 7145.63
+[2025-02-24 05:52:17,844][__main__][INFO] - Episode 156
+[2025-02-24 05:52:23,020][__main__][INFO] - Episode 156: Throughput: 7138.13
+[2025-02-24 05:52:23,020][__main__][INFO] - Episode 157
+[2025-02-24 05:52:28,186][__main__][INFO] - Episode 157: Throughput: 7132.27
+[2025-02-24 05:52:28,186][__main__][INFO] - Episode 158
+[2025-02-24 05:52:33,349][__main__][INFO] - Episode 158: Throughput: 7128.80
+[2025-02-24 05:52:33,349][__main__][INFO] - Episode 159
+[2025-02-24 05:52:38,509][__main__][INFO] - Episode 159: Throughput: 7136.50
+[2025-02-24 05:52:38,509][__main__][INFO] - Episode 160
+[2025-02-24 05:52:43,680][__main__][INFO] - Episode 160: Throughput: 7130.49
+[2025-02-24 05:52:43,681][__main__][INFO] - Episode 161
+[2025-02-24 05:52:48,837][__main__][INFO] - Episode 161: Throughput: 7122.04
+[2025-02-24 05:52:48,837][__main__][INFO] - Episode 162
+[2025-02-24 05:52:53,999][__main__][INFO] - Episode 162: Throughput: 7144.26
+[2025-02-24 05:52:53,999][__main__][INFO] - Episode 163
+[2025-02-24 05:52:59,159][__main__][INFO] - Episode 163: Throughput: 7129.65
+[2025-02-24 05:52:59,159][__main__][INFO] - Episode 164
+[2025-02-24 05:53:04,328][__main__][INFO] - Episode 164: Throughput: 7137.64
+[2025-02-24 05:53:04,328][__main__][INFO] - Episode 165
+[2025-02-24 05:53:09,497][__main__][INFO] - Episode 165: Throughput: 7146.53
+[2025-02-24 05:53:09,497][__main__][INFO] - Episode 166
+[2025-02-24 05:53:14,665][__main__][INFO] - Episode 166: Throughput: 7127.41
+[2025-02-24 05:53:14,665][__main__][INFO] - Episode 167
+[2025-02-24 05:53:19,830][__main__][INFO] - Episode 167: Throughput: 7134.24
+[2025-02-24 05:53:19,830][__main__][INFO] - Episode 168
+[2025-02-24 05:53:24,998][__main__][INFO] - Episode 168: Throughput: 7145.52
+[2025-02-24 05:53:24,998][__main__][INFO] - Episode 169
+[2025-02-24 05:53:30,161][__main__][INFO] - Episode 169: Throughput: 7133.54
+[2025-02-24 05:53:30,161][__main__][INFO] - Episode 170
+[2025-02-24 05:53:35,328][__main__][INFO] - Episode 170: Throughput: 7133.44
+[2025-02-24 05:53:35,329][__main__][INFO] - Episode 171
+[2025-02-24 05:53:40,499][__main__][INFO] - Episode 171: Throughput: 7137.82
+[2025-02-24 05:53:40,499][__main__][INFO] - Episode 172
+[2025-02-24 05:53:45,674][__main__][INFO] - Episode 172: Throughput: 7141.56
+[2025-02-24 05:53:45,674][__main__][INFO] - Episode 173
+[2025-02-24 05:53:50,844][__main__][INFO] - Episode 173: Throughput: 7141.26
+[2025-02-24 05:53:50,844][__main__][INFO] - Episode 174
+[2025-02-24 05:53:56,016][__main__][INFO] - Episode 174: Throughput: 7138.98
+[2025-02-24 05:53:56,016][__main__][INFO] - Episode 175
+[2025-02-24 05:54:01,191][__main__][INFO] - Episode 175: Throughput: 7139.30
+[2025-02-24 05:54:01,191][__main__][INFO] - Episode 176
+[2025-02-24 05:54:06,367][__main__][INFO] - Episode 176: Throughput: 7135.10
+[2025-02-24 05:54:06,367][__main__][INFO] - Episode 177
+[2025-02-24 05:54:11,540][__main__][INFO] - Episode 177: Throughput: 7150.98
+[2025-02-24 05:54:11,540][__main__][INFO] - Episode 178
+[2025-02-24 05:54:16,705][__main__][INFO] - Episode 178: Throughput: 7136.70
+[2025-02-24 05:54:16,705][__main__][INFO] - Episode 179
+[2025-02-24 05:54:21,873][__main__][INFO] - Episode 179: Throughput: 7135.66
+[2025-02-24 05:54:21,873][__main__][INFO] - Episode 180
+[2025-02-24 05:54:27,030][__main__][INFO] - Episode 180: Throughput: 7152.41
+[2025-02-24 05:54:27,030][__main__][INFO] - Episode 181
+[2025-02-24 05:54:32,183][__main__][INFO] - Episode 181: Throughput: 7138.94
+[2025-02-24 05:54:32,183][__main__][INFO] - Episode 182
+[2025-02-24 05:54:37,338][__main__][INFO] - Episode 182: Throughput: 7133.36
+[2025-02-24 05:54:37,338][__main__][INFO] - Episode 183
+[2025-02-24 05:54:42,491][__main__][INFO] - Episode 183: Throughput: 7124.72
+[2025-02-24 05:54:42,491][__main__][INFO] - Episode 184
+[2025-02-24 05:54:47,645][__main__][INFO] - Episode 184: Throughput: 7121.48
+[2025-02-24 05:54:47,645][__main__][INFO] - Episode 185
+[2025-02-24 05:54:52,800][__main__][INFO] - Episode 185: Throughput: 7122.35
+[2025-02-24 05:54:52,800][__main__][INFO] - Episode 186
+[2025-02-24 05:54:57,953][__main__][INFO] - Episode 186: Throughput: 7131.65
+[2025-02-24 05:54:57,953][__main__][INFO] - Episode 187
+[2025-02-24 05:55:03,118][__main__][INFO] - Episode 187: Throughput: 7138.76
+[2025-02-24 05:55:03,118][__main__][INFO] - Episode 188
+[2025-02-24 05:55:08,282][__main__][INFO] - Episode 188: Throughput: 7135.08
+[2025-02-24 05:55:08,282][__main__][INFO] - Episode 189
+[2025-02-24 05:55:13,441][__main__][INFO] - Episode 189: Throughput: 7134.90
+[2025-02-24 05:55:13,441][__main__][INFO] - Episode 190
+[2025-02-24 05:55:18,597][__main__][INFO] - Episode 190: Throughput: 7133.54
+[2025-02-24 05:55:18,597][__main__][INFO] - Episode 191
+[2025-02-24 05:55:23,751][__main__][INFO] - Episode 191: Throughput: 7136.15
+[2025-02-24 05:55:23,751][__main__][INFO] - Episode 192
+[2025-02-24 05:55:28,912][__main__][INFO] - Episode 192: Throughput: 7137.77
+[2025-02-24 05:55:28,912][__main__][INFO] - Episode 193
+[2025-02-24 05:55:34,061][__main__][INFO] - Episode 193: Throughput: 7126.27
+[2025-02-24 05:55:34,061][__main__][INFO] - Episode 194
+[2025-02-24 05:55:39,213][__main__][INFO] - Episode 194: Throughput: 7131.70
+[2025-02-24 05:55:39,213][__main__][INFO] - Episode 195
+[2025-02-24 05:55:44,369][__main__][INFO] - Episode 195: Throughput: 7134.28
+[2025-02-24 05:55:44,369][__main__][INFO] - Episode 196
+[2025-02-24 05:55:49,522][__main__][INFO] - Episode 196: Throughput: 7131.29
+[2025-02-24 05:55:49,522][__main__][INFO] - Episode 197
+[2025-02-24 05:55:54,678][__main__][INFO] - Episode 197: Throughput: 7129.38
+[2025-02-24 05:55:54,678][__main__][INFO] - Episode 198
+[2025-02-24 05:55:59,828][__main__][INFO] - Episode 198: Throughput: 7150.68
+[2025-02-24 05:55:59,829][__main__][INFO] - Episode 199
+[2025-02-24 05:56:04,984][__main__][INFO] - Episode 199: Throughput: 7123.30
+[2025-02-24 05:56:04,984][__main__][INFO] - Episode 200
+[2025-02-24 05:56:10,136][__main__][INFO] - Episode 200: Throughput: 7121.77
+[2025-02-24 05:56:10,136][__main__][INFO] - Episode 201
+[2025-02-24 05:56:15,296][__main__][INFO] - Episode 201: Throughput: 7128.72
+[2025-02-24 05:56:15,296][__main__][INFO] - Episode 202
+[2025-02-24 05:56:20,450][__main__][INFO] - Episode 202: Throughput: 7119.69
+[2025-02-24 05:56:20,450][__main__][INFO] - Episode 203
+[2025-02-24 05:56:25,611][__main__][INFO] - Episode 203: Throughput: 7138.93
+[2025-02-24 05:56:25,611][__main__][INFO] - Episode 204
+[2025-02-24 05:56:30,773][__main__][INFO] - Episode 204: Throughput: 7136.40
+[2025-02-24 05:56:30,773][__main__][INFO] - Episode 205
+[2025-02-24 05:56:35,930][__main__][INFO] - Episode 205: Throughput: 7131.51
+[2025-02-24 05:56:35,931][__main__][INFO] - Episode 206
+[2025-02-24 05:56:41,084][__main__][INFO] - Episode 206: Throughput: 7130.79
+[2025-02-24 05:56:41,084][__main__][INFO] - Episode 207
+[2025-02-24 05:56:46,238][__main__][INFO] - Episode 207: Throughput: 7124.35
+[2025-02-24 05:56:46,238][__main__][INFO] - Episode 208
+[2025-02-24 05:56:51,398][__main__][INFO] - Episode 208: Throughput: 7122.26
+[2025-02-24 05:56:51,399][__main__][INFO] - Episode 209
+[2025-02-24 05:56:56,559][__main__][INFO] - Episode 209: Throughput: 7124.69
+[2025-02-24 05:56:56,559][__main__][INFO] - Episode 210
+[2025-02-24 05:57:01,719][__main__][INFO] - Episode 210: Throughput: 7138.69
+[2025-02-24 05:57:01,719][__main__][INFO] - Episode 211
+[2025-02-24 05:57:06,886][__main__][INFO] - Episode 211: Throughput: 7127.04
+[2025-02-24 05:57:06,887][__main__][INFO] - Episode 212
+[2025-02-24 05:57:12,044][__main__][INFO] - Episode 212: Throughput: 7130.81
+[2025-02-24 05:57:12,044][__main__][INFO] - Episode 213
+[2025-02-24 05:57:17,198][__main__][INFO] - Episode 213: Throughput: 7115.77
+[2025-02-24 05:57:17,198][__main__][INFO] - Episode 214
+[2025-02-24 05:57:22,370][__main__][INFO] - Episode 214: Throughput: 7143.78
+[2025-02-24 05:57:22,370][__main__][INFO] - Episode 215
+[2025-02-24 05:57:27,537][__main__][INFO] - Episode 215: Throughput: 7135.45
+[2025-02-24 05:57:27,537][__main__][INFO] - Episode 216
+[2025-02-24 05:57:32,706][__main__][INFO] - Episode 216: Throughput: 7141.62
+[2025-02-24 05:57:32,706][__main__][INFO] - Episode 217
+[2025-02-24 05:57:37,855][__main__][INFO] - Episode 217: Throughput: 7115.90
+[2025-02-24 05:57:37,855][__main__][INFO] - Episode 218
+[2025-02-24 05:57:43,006][__main__][INFO] - Episode 218: Throughput: 7124.52
+[2025-02-24 05:57:43,006][__main__][INFO] - Episode 219
+[2025-02-24 05:57:48,160][__main__][INFO] - Episode 219: Throughput: 7139.50
+[2025-02-24 05:57:48,160][__main__][INFO] - Episode 220
+[2025-02-24 05:57:53,315][__main__][INFO] - Episode 220: Throughput: 7143.59
+[2025-02-24 05:57:53,315][__main__][INFO] - Episode 221
+[2025-02-24 05:57:58,472][__main__][INFO] - Episode 221: Throughput: 7142.34
+[2025-02-24 05:57:58,472][__main__][INFO] - Episode 222
+[2025-02-24 05:58:03,633][__main__][INFO] - Episode 222: Throughput: 7125.16
+[2025-02-24 05:58:03,633][__main__][INFO] - Episode 223
+[2025-02-24 05:58:08,795][__main__][INFO] - Episode 223: Throughput: 7134.01
+[2025-02-24 05:58:08,795][__main__][INFO] - Episode 224
+[2025-02-24 05:58:13,967][__main__][INFO] - Episode 224: Throughput: 7143.76
+[2025-02-24 05:58:13,967][__main__][INFO] - Episode 225
+[2025-02-24 05:58:19,137][__main__][INFO] - Episode 225: Throughput: 7127.47
+[2025-02-24 05:58:19,138][__main__][INFO] - Episode 226
+[2025-02-24 05:58:24,298][__main__][INFO] - Episode 226: Throughput: 7141.13
+[2025-02-24 05:58:24,298][__main__][INFO] - Episode 227
+[2025-02-24 05:58:29,457][__main__][INFO] - Episode 227: Throughput: 7118.15
+[2025-02-24 05:58:29,457][__main__][INFO] - Episode 228
+[2025-02-24 05:58:34,635][__main__][INFO] - Episode 228: Throughput: 7139.08
+[2025-02-24 05:58:34,635][__main__][INFO] - Episode 229
+[2025-02-24 05:58:39,803][__main__][INFO] - Episode 229: Throughput: 7133.40
+[2025-02-24 05:58:39,803][__main__][INFO] - Episode 230
+[2025-02-24 05:58:44,973][__main__][INFO] - Episode 230: Throughput: 7134.72
+[2025-02-24 05:58:44,973][__main__][INFO] - Episode 231
+[2025-02-24 05:58:50,126][__main__][INFO] - Episode 231: Throughput: 7120.89
+[2025-02-24 05:58:50,126][__main__][INFO] - Episode 232
+[2025-02-24 05:58:55,287][__main__][INFO] - Episode 232: Throughput: 7132.76
+[2025-02-24 05:58:55,288][__main__][INFO] - Episode 233
+[2025-02-24 05:59:00,448][__main__][INFO] - Episode 233: Throughput: 7140.15
+[2025-02-24 05:59:00,448][__main__][INFO] - Episode 234
+[2025-02-24 05:59:05,611][__main__][INFO] - Episode 234: Throughput: 7139.39
+[2025-02-24 05:59:05,611][__main__][INFO] - Episode 235
+[2025-02-24 05:59:10,784][__main__][INFO] - Episode 235: Throughput: 7139.47
+[2025-02-24 05:59:10,784][__main__][INFO] - Episode 236
+[2025-02-24 05:59:15,936][__main__][INFO] - Episode 236: Throughput: 7137.74
+[2025-02-24 05:59:15,936][__main__][INFO] - Episode 237
+[2025-02-24 05:59:21,097][__main__][INFO] - Episode 237: Throughput: 7129.07
+[2025-02-24 05:59:21,097][__main__][INFO] - Episode 238
+[2025-02-24 05:59:26,265][__main__][INFO] - Episode 238: Throughput: 7128.95
+[2025-02-24 05:59:26,265][__main__][INFO] - Episode 239
+[2025-02-24 05:59:31,421][__main__][INFO] - Episode 239: Throughput: 7130.55
+[2025-02-24 05:59:31,421][__main__][INFO] - Episode 240
+[2025-02-24 05:59:36,576][__main__][INFO] - Episode 240: Throughput: 7128.53
+[2025-02-24 05:59:36,576][__main__][INFO] - Episode 241
+[2025-02-24 05:59:41,726][__main__][INFO] - Episode 241: Throughput: 7123.01
+[2025-02-24 05:59:41,726][__main__][INFO] - Episode 242
+[2025-02-24 05:59:46,877][__main__][INFO] - Episode 242: Throughput: 7111.82
+[2025-02-24 05:59:46,877][__main__][INFO] - Episode 243
+[2025-02-24 05:59:52,031][__main__][INFO] - Episode 243: Throughput: 7140.99
+[2025-02-24 05:59:52,031][__main__][INFO] - Episode 244
+[2025-02-24 05:59:57,189][__main__][INFO] - Episode 244: Throughput: 7125.32
+[2025-02-24 05:59:57,190][__main__][INFO] - Episode 245
+[2025-02-24 06:00:02,349][__main__][INFO] - Episode 245: Throughput: 7128.74
+[2025-02-24 06:00:02,350][__main__][INFO] - Episode 246
+[2025-02-24 06:00:07,520][__main__][INFO] - Episode 246: Throughput: 7139.88
+[2025-02-24 06:00:07,520][__main__][INFO] - Episode 247
+[2025-02-24 06:00:12,700][__main__][INFO] - Episode 247: Throughput: 7136.06
+[2025-02-24 06:00:12,700][__main__][INFO] - Episode 248
+[2025-02-24 06:00:17,872][__main__][INFO] - Episode 248: Throughput: 7138.68
+[2025-02-24 06:00:17,872][__main__][INFO] - Episode 249
+[2025-02-24 06:00:23,025][__main__][INFO] - Episode 249: Throughput: 7127.44
+[2025-02-24 06:00:23,025][__main__][INFO] - Episode 250
+[2025-02-24 06:00:28,179][__main__][INFO] - Episode 250: Throughput: 7126.63
+[2025-02-24 06:00:28,179][__main__][INFO] - Episode 251
+[2025-02-24 06:00:33,337][__main__][INFO] - Episode 251: Throughput: 7145.69
+[2025-02-24 06:00:33,337][__main__][INFO] - Episode 252
+[2025-02-24 06:00:38,497][__main__][INFO] - Episode 252: Throughput: 7126.89
+[2025-02-24 06:00:38,497][__main__][INFO] - Episode 253
+[2025-02-24 06:00:43,658][__main__][INFO] - Episode 253: Throughput: 7124.53
+[2025-02-24 06:00:43,658][__main__][INFO] - Episode 254
+[2025-02-24 06:00:48,817][__main__][INFO] - Episode 254: Throughput: 7130.47
+[2025-02-24 06:00:48,817][__main__][INFO] - Episode 255
+[2025-02-24 06:00:53,982][__main__][INFO] - Episode 255: Throughput: 7135.61
+[2025-02-24 06:00:53,982][__main__][INFO] - Episode 256
+[2025-02-24 06:00:59,145][__main__][INFO] - Episode 256: Throughput: 7135.93
+[2025-02-24 06:00:59,146][__main__][INFO] - Episode 257
+[2025-02-24 06:01:04,313][__main__][INFO] - Episode 257: Throughput: 7131.65
+[2025-02-24 06:01:04,313][__main__][INFO] - Episode 258
+[2025-02-24 06:01:09,488][__main__][INFO] - Episode 258: Throughput: 7144.44
+[2025-02-24 06:01:09,488][__main__][INFO] - Episode 259
+[2025-02-24 06:01:14,662][__main__][INFO] - Episode 259: Throughput: 7129.38
+[2025-02-24 06:01:14,662][__main__][INFO] - Episode 260
+[2025-02-24 06:01:19,841][__main__][INFO] - Episode 260: Throughput: 7143.44
+[2025-02-24 06:01:19,841][__main__][INFO] - Episode 261
+[2025-02-24 06:01:25,017][__main__][INFO] - Episode 261: Throughput: 7140.95
+[2025-02-24 06:01:25,017][__main__][INFO] - Episode 262
+[2025-02-24 06:01:30,188][__main__][INFO] - Episode 262: Throughput: 7137.37
+[2025-02-24 06:01:30,188][__main__][INFO] - Episode 263
+[2025-02-24 06:01:35,349][__main__][INFO] - Episode 263: Throughput: 7133.01
+[2025-02-24 06:01:35,349][__main__][INFO] - Episode 264
+[2025-02-24 06:01:40,514][__main__][INFO] - Episode 264: Throughput: 7131.24
+[2025-02-24 06:01:40,514][__main__][INFO] - Episode 265
+[2025-02-24 06:01:45,679][__main__][INFO] - Episode 265: Throughput: 7136.62
+[2025-02-24 06:01:45,679][__main__][INFO] - Episode 266
+[2025-02-24 06:01:50,844][__main__][INFO] - Episode 266: Throughput: 7142.31
+[2025-02-24 06:01:50,844][__main__][INFO] - Episode 267
+[2025-02-24 06:01:56,014][__main__][INFO] - Episode 267: Throughput: 7123.35
+[2025-02-24 06:01:56,014][__main__][INFO] - Episode 268
+[2025-02-24 06:02:01,174][__main__][INFO] - Episode 268: Throughput: 7126.81
+[2025-02-24 06:02:01,174][__main__][INFO] - Episode 269
+[2025-02-24 06:02:06,338][__main__][INFO] - Episode 269: Throughput: 7138.55
+[2025-02-24 06:02:06,338][__main__][INFO] - Episode 270
+[2025-02-24 06:02:11,513][__main__][INFO] - Episode 270: Throughput: 7140.03
+[2025-02-24 06:02:11,513][__main__][INFO] - Episode 271
+[2025-02-24 06:02:16,678][__main__][INFO] - Episode 271: Throughput: 7141.00
+[2025-02-24 06:02:16,678][__main__][INFO] - Episode 272
+[2025-02-24 06:02:21,839][__main__][INFO] - Episode 272: Throughput: 7128.00
+[2025-02-24 06:02:21,839][__main__][INFO] - Episode 273
+[2025-02-24 06:02:27,000][__main__][INFO] - Episode 273: Throughput: 7135.54
+[2025-02-24 06:02:27,000][__main__][INFO] - Episode 274
+[2025-02-24 06:02:32,158][__main__][INFO] - Episode 274: Throughput: 7125.05
+[2025-02-24 06:02:32,158][__main__][INFO] - Episode 275
+[2025-02-24 06:02:37,322][__main__][INFO] - Episode 275: Throughput: 7131.82
+[2025-02-24 06:02:37,322][__main__][INFO] - Episode 276
+[2025-02-24 06:02:42,482][__main__][INFO] - Episode 276: Throughput: 7131.76
+[2025-02-24 06:02:42,482][__main__][INFO] - Episode 277
+[2025-02-24 06:02:47,639][__main__][INFO] - Episode 277: Throughput: 7143.59
+[2025-02-24 06:02:47,640][__main__][INFO] - Episode 278
+[2025-02-24 06:02:52,801][__main__][INFO] - Episode 278: Throughput: 7137.99
+[2025-02-24 06:02:52,802][__main__][INFO] - Episode 279
+[2025-02-24 06:02:57,963][__main__][INFO] - Episode 279: Throughput: 7133.83
+[2025-02-24 06:02:57,963][__main__][INFO] - Episode 280
+[2025-02-24 06:03:03,131][__main__][INFO] - Episode 280: Throughput: 7133.78
+[2025-02-24 06:03:03,131][__main__][INFO] - Episode 281
+[2025-02-24 06:03:08,307][__main__][INFO] - Episode 281: Throughput: 7145.61
+[2025-02-24 06:03:08,307][__main__][INFO] - Episode 282
+[2025-02-24 06:03:13,491][__main__][INFO] - Episode 282: Throughput: 7148.62
+[2025-02-24 06:03:13,491][__main__][INFO] - Episode 283
+[2025-02-24 06:03:18,677][__main__][INFO] - Episode 283: Throughput: 7149.98
+[2025-02-24 06:03:18,677][__main__][INFO] - Episode 284
+[2025-02-24 06:03:23,846][__main__][INFO] - Episode 284: Throughput: 7137.08
+[2025-02-24 06:03:23,846][__main__][INFO] - Episode 285
+[2025-02-24 06:03:29,019][__main__][INFO] - Episode 285: Throughput: 7141.30
+[2025-02-24 06:03:29,019][__main__][INFO] - Episode 286
+[2025-02-24 06:03:34,181][__main__][INFO] - Episode 286: Throughput: 7139.41
+[2025-02-24 06:03:34,181][__main__][INFO] - Episode 287
+[2025-02-24 06:03:39,350][__main__][INFO] - Episode 287: Throughput: 7137.53
+[2025-02-24 06:03:39,350][__main__][INFO] - Episode 288
+[2025-02-24 06:03:44,522][__main__][INFO] - Episode 288: Throughput: 7139.17
+[2025-02-24 06:03:44,522][__main__][INFO] - Episode 289
+[2025-02-24 06:03:49,698][__main__][INFO] - Episode 289: Throughput: 7135.85
+[2025-02-24 06:03:49,699][__main__][INFO] - Episode 290
+[2025-02-24 06:03:54,871][__main__][INFO] - Episode 290: Throughput: 7146.82
+[2025-02-24 06:03:54,871][__main__][INFO] - Episode 291
+[2025-02-24 06:04:00,031][__main__][INFO] - Episode 291: Throughput: 7127.32
+[2025-02-24 06:04:00,031][__main__][INFO] - Episode 292
+[2025-02-24 06:04:05,197][__main__][INFO] - Episode 292: Throughput: 7133.55
+[2025-02-24 06:04:05,197][__main__][INFO] - Episode 293
+[2025-02-24 06:04:10,359][__main__][INFO] - Episode 293: Throughput: 7128.50
+[2025-02-24 06:04:10,359][__main__][INFO] - Episode 294
+[2025-02-24 06:04:15,527][__main__][INFO] - Episode 294: Throughput: 7141.90
+[2025-02-24 06:04:15,527][__main__][INFO] - Episode 295
+[2025-02-24 06:04:20,705][__main__][INFO] - Episode 295: Throughput: 7148.44
+[2025-02-24 06:04:20,705][__main__][INFO] - Episode 296
+[2025-02-24 06:04:25,878][__main__][INFO] - Episode 296: Throughput: 7139.84
+[2025-02-24 06:04:25,879][__main__][INFO] - Episode 297
+[2025-02-24 06:04:31,057][__main__][INFO] - Episode 297: Throughput: 7144.77
+[2025-02-24 06:04:31,057][__main__][INFO] - Episode 298
+[2025-02-24 06:04:36,240][__main__][INFO] - Episode 298: Throughput: 7150.16
+[2025-02-24 06:04:36,240][__main__][INFO] - Episode 299
+[2025-02-24 06:04:41,419][__main__][INFO] - Episode 299: Throughput: 7154.12
+[2025-02-24 06:04:41,419][__main__][INFO] - Episode 300
+[2025-02-24 06:04:46,592][__main__][INFO] - Episode 300: Throughput: 7136.85
+[2025-02-24 06:04:46,592][__main__][INFO] - Episode 301
+[2025-02-24 06:04:51,758][__main__][INFO] - Episode 301: Throughput: 7136.24
+[2025-02-24 06:04:51,758][__main__][INFO] - Episode 302
+[2025-02-24 06:04:56,921][__main__][INFO] - Episode 302: Throughput: 7138.61
+[2025-02-24 06:04:56,921][__main__][INFO] - Episode 303
+[2025-02-24 06:05:02,090][__main__][INFO] - Episode 303: Throughput: 7137.82
+[2025-02-24 06:05:02,090][__main__][INFO] - Episode 304
+[2025-02-24 06:05:07,268][__main__][INFO] - Episode 304: Throughput: 7147.35
+[2025-02-24 06:05:07,268][__main__][INFO] - Episode 305
+[2025-02-24 06:05:12,443][__main__][INFO] - Episode 305: Throughput: 7138.79
+[2025-02-24 06:05:12,443][__main__][INFO] - Episode 306
+[2025-02-24 06:05:17,608][__main__][INFO] - Episode 306: Throughput: 7144.05
+[2025-02-24 06:05:17,608][__main__][INFO] - Episode 307
+[2025-02-24 06:05:22,781][__main__][INFO] - Episode 307: Throughput: 7146.46
+[2025-02-24 06:05:22,781][__main__][INFO] - Episode 308
+[2025-02-24 06:05:27,954][__main__][INFO] - Episode 308: Throughput: 7143.85
+[2025-02-24 06:05:27,954][__main__][INFO] - Episode 309
+[2025-02-24 06:05:33,134][__main__][INFO] - Episode 309: Throughput: 7146.34
+[2025-02-24 06:05:33,134][__main__][INFO] - Episode 310
+[2025-02-24 06:05:38,315][__main__][INFO] - Episode 310: Throughput: 7152.93
+[2025-02-24 06:05:38,315][__main__][INFO] - Episode 311
+[2025-02-24 06:05:43,488][__main__][INFO] - Episode 311: Throughput: 7151.69
+[2025-02-24 06:05:43,488][__main__][INFO] - Episode 312
+[2025-02-24 06:05:48,663][__main__][INFO] - Episode 312: Throughput: 7127.87
+[2025-02-24 06:05:48,663][__main__][INFO] - Episode 313
+[2025-02-24 06:05:53,827][__main__][INFO] - Episode 313: Throughput: 7126.04
+[2025-02-24 06:05:53,827][__main__][INFO] - Episode 314
+[2025-02-24 06:05:58,987][__main__][INFO] - Episode 314: Throughput: 7141.99
+[2025-02-24 06:05:58,987][__main__][INFO] - Episode 315
+[2025-02-24 06:06:04,148][__main__][INFO] - Episode 315: Throughput: 7149.31
+[2025-02-24 06:06:04,148][__main__][INFO] - Episode 316
+[2025-02-24 06:06:09,312][__main__][INFO] - Episode 316: Throughput: 7139.92
+[2025-02-24 06:06:09,312][__main__][INFO] - Episode 317
+[2025-02-24 06:06:14,477][__main__][INFO] - Episode 317: Throughput: 7130.90
+[2025-02-24 06:06:14,478][__main__][INFO] - Episode 318
+[2025-02-24 06:06:19,642][__main__][INFO] - Episode 318: Throughput: 7141.11
+[2025-02-24 06:06:19,642][__main__][INFO] - Episode 319
+[2025-02-24 06:06:24,802][__main__][INFO] - Episode 319: Throughput: 7129.68
+[2025-02-24 06:06:24,802][__main__][INFO] - Episode 320
+[2025-02-24 06:06:29,958][__main__][INFO] - Episode 320: Throughput: 7137.61
+[2025-02-24 06:06:29,958][__main__][INFO] - Episode 321
+[2025-02-24 06:06:35,117][__main__][INFO] - Episode 321: Throughput: 7141.64
+[2025-02-24 06:06:35,117][__main__][INFO] - Episode 322
+[2025-02-24 06:06:40,279][__main__][INFO] - Episode 322: Throughput: 7135.81
+[2025-02-24 06:06:40,280][__main__][INFO] - Episode 323
+[2025-02-24 06:06:45,441][__main__][INFO] - Episode 323: Throughput: 7134.23
+[2025-02-24 06:06:45,441][__main__][INFO] - Episode 324
+[2025-02-24 06:06:50,609][__main__][INFO] - Episode 324: Throughput: 7134.52
+[2025-02-24 06:06:50,609][__main__][INFO] - Episode 325
+[2025-02-24 06:06:55,782][__main__][INFO] - Episode 325: Throughput: 7140.75
+[2025-02-24 06:06:55,782][__main__][INFO] - Episode 326
+[2025-02-24 06:07:00,941][__main__][INFO] - Episode 326: Throughput: 7129.32
+[2025-02-24 06:07:00,941][__main__][INFO] - Episode 327
+[2025-02-24 06:07:06,096][__main__][INFO] - Episode 327: Throughput: 7126.41
+[2025-02-24 06:07:06,096][__main__][INFO] - Episode 328
+[2025-02-24 06:07:11,253][__main__][INFO] - Episode 328: Throughput: 7117.58
+[2025-02-24 06:07:11,253][__main__][INFO] - Episode 329
+[2025-02-24 06:07:16,415][__main__][INFO] - Episode 329: Throughput: 7146.64
+[2025-02-24 06:07:16,415][__main__][INFO] - Episode 330
+[2025-02-24 06:07:21,580][__main__][INFO] - Episode 330: Throughput: 7134.69
+[2025-02-24 06:07:21,580][__main__][INFO] - Episode 331
+[2025-02-24 06:07:26,745][__main__][INFO] - Episode 331: Throughput: 7135.95
+[2025-02-24 06:07:26,745][__main__][INFO] - Episode 332
+[2025-02-24 06:07:31,907][__main__][INFO] - Episode 332: Throughput: 7129.90
+[2025-02-24 06:07:31,907][__main__][INFO] - Episode 333
+[2025-02-24 06:07:37,067][__main__][INFO] - Episode 333: Throughput: 7132.94
+[2025-02-24 06:07:37,067][__main__][INFO] - Episode 334
+[2025-02-24 06:07:42,238][__main__][INFO] - Episode 334: Throughput: 7131.83
+[2025-02-24 06:07:42,238][__main__][INFO] - Episode 335
+[2025-02-24 06:07:47,411][__main__][INFO] - Episode 335: Throughput: 7140.86
+[2025-02-24 06:07:47,411][__main__][INFO] - Episode 336
+[2025-02-24 06:07:52,573][__main__][INFO] - Episode 336: Throughput: 7134.29
+[2025-02-24 06:07:52,573][__main__][INFO] - Episode 337
+[2025-02-24 06:07:57,741][__main__][INFO] - Episode 337: Throughput: 7143.84
+[2025-02-24 06:07:57,741][__main__][INFO] - Episode 338
+[2025-02-24 06:08:02,905][__main__][INFO] - Episode 338: Throughput: 7128.41
+[2025-02-24 06:08:02,905][__main__][INFO] - Episode 339
+[2025-02-24 06:08:08,061][__main__][INFO] - Episode 339: Throughput: 7132.32
+[2025-02-24 06:08:08,062][__main__][INFO] - Episode 340
+[2025-02-24 06:08:13,235][__main__][INFO] - Episode 340: Throughput: 7136.56
+[2025-02-24 06:08:13,235][__main__][INFO] - Episode 341
+[2025-02-24 06:08:18,411][__main__][INFO] - Episode 341: Throughput: 7142.79
+[2025-02-24 06:08:18,411][__main__][INFO] - Episode 342
+[2025-02-24 06:08:23,578][__main__][INFO] - Episode 342: Throughput: 7123.30
+[2025-02-24 06:08:23,578][__main__][INFO] - Episode 343
+[2025-02-24 06:08:28,742][__main__][INFO] - Episode 343: Throughput: 7140.95
+[2025-02-24 06:08:28,743][__main__][INFO] - Episode 344
+[2025-02-24 06:08:33,908][__main__][INFO] - Episode 344: Throughput: 7135.39
+[2025-02-24 06:08:33,909][__main__][INFO] - Episode 345
+[2025-02-24 06:08:39,080][__main__][INFO] - Episode 345: Throughput: 7140.23
+[2025-02-24 06:08:39,080][__main__][INFO] - Episode 346
+[2025-02-24 06:08:44,248][__main__][INFO] - Episode 346: Throughput: 7139.71
+[2025-02-24 06:08:44,248][__main__][INFO] - Episode 347
+[2025-02-24 06:08:49,419][__main__][INFO] - Episode 347: Throughput: 7140.73
+[2025-02-24 06:08:49,419][__main__][INFO] - Episode 348
+[2025-02-24 06:08:54,592][__main__][INFO] - Episode 348: Throughput: 7144.35
+[2025-02-24 06:08:54,592][__main__][INFO] - Episode 349
+[2025-02-24 06:08:59,760][__main__][INFO] - Episode 349: Throughput: 7129.93
+[2025-02-24 06:08:59,761][__main__][INFO] - Episode 350
+[2025-02-24 06:09:04,926][__main__][INFO] - Episode 350: Throughput: 7134.85
+[2025-02-24 06:09:04,926][__main__][INFO] - Episode 351
+[2025-02-24 06:09:10,089][__main__][INFO] - Episode 351: Throughput: 7123.58
+[2025-02-24 06:09:10,089][__main__][INFO] - Episode 352
+[2025-02-24 06:09:15,253][__main__][INFO] - Episode 352: Throughput: 7140.21
+[2025-02-24 06:09:15,253][__main__][INFO] - Episode 353
+[2025-02-24 06:09:20,415][__main__][INFO] - Episode 353: Throughput: 7145.18
+[2025-02-24 06:09:20,415][__main__][INFO] - Episode 354
+[2025-02-24 06:09:25,567][__main__][INFO] - Episode 354: Throughput: 7128.82
+[2025-02-24 06:09:25,567][__main__][INFO] - Episode 355
+[2025-02-24 06:09:30,723][__main__][INFO] - Episode 355: Throughput: 7125.68
+[2025-02-24 06:09:30,723][__main__][INFO] - Episode 356
+[2025-02-24 06:09:35,877][__main__][INFO] - Episode 356: Throughput: 7124.24
+[2025-02-24 06:09:35,877][__main__][INFO] - Episode 357
+[2025-02-24 06:09:41,028][__main__][INFO] - Episode 357: Throughput: 7125.95
+[2025-02-24 06:09:41,028][__main__][INFO] - Episode 358
+[2025-02-24 06:09:46,184][__main__][INFO] - Episode 358: Throughput: 7138.07
+[2025-02-24 06:09:46,184][__main__][INFO] - Episode 359
+[2025-02-24 06:09:51,331][__main__][INFO] - Episode 359: Throughput: 7162.37
+[2025-02-24 06:09:51,331][__main__][INFO] - Episode 360
+[2025-02-24 06:09:56,486][__main__][INFO] - Episode 360: Throughput: 7121.48
+[2025-02-24 06:09:56,486][__main__][INFO] - Episode 361
+[2025-02-24 06:10:01,641][__main__][INFO] - Episode 361: Throughput: 7125.61
+[2025-02-24 06:10:01,641][__main__][INFO] - Episode 362
+[2025-02-24 06:10:06,792][__main__][INFO] - Episode 362: Throughput: 7121.16
+[2025-02-24 06:10:06,792][__main__][INFO] - Episode 363
+[2025-02-24 06:10:11,939][__main__][INFO] - Episode 363: Throughput: 7102.00
+[2025-02-24 06:10:11,940][__main__][INFO] - Episode 364
+[2025-02-24 06:10:17,096][__main__][INFO] - Episode 364: Throughput: 7132.41
+[2025-02-24 06:10:17,096][__main__][INFO] - Episode 365
+[2025-02-24 06:10:22,251][__main__][INFO] - Episode 365: Throughput: 7139.48
+[2025-02-24 06:10:22,251][__main__][INFO] - Episode 366
+[2025-02-24 06:10:27,401][__main__][INFO] - Episode 366: Throughput: 7113.00
+[2025-02-24 06:10:27,401][__main__][INFO] - Episode 367
+[2025-02-24 06:10:32,552][__main__][INFO] - Episode 367: Throughput: 7141.34
+[2025-02-24 06:10:32,552][__main__][INFO] - Episode 368
+[2025-02-24 06:10:37,702][__main__][INFO] - Episode 368: Throughput: 7118.44
+[2025-02-24 06:10:37,702][__main__][INFO] - Episode 369
+[2025-02-24 06:10:42,851][__main__][INFO] - Episode 369: Throughput: 7121.99
+[2025-02-24 06:10:42,851][__main__][INFO] - Episode 370
+[2025-02-24 06:10:47,999][__main__][INFO] - Episode 370: Throughput: 7128.43
+[2025-02-24 06:10:47,999][__main__][INFO] - Episode 371
+[2025-02-24 06:10:53,149][__main__][INFO] - Episode 371: Throughput: 7134.53
+[2025-02-24 06:10:53,149][__main__][INFO] - Episode 372
+[2025-02-24 06:10:58,307][__main__][INFO] - Episode 372: Throughput: 7139.56
+[2025-02-24 06:10:58,307][__main__][INFO] - Episode 373
+[2025-02-24 06:11:03,464][__main__][INFO] - Episode 373: Throughput: 7150.95
+[2025-02-24 06:11:03,464][__main__][INFO] - Episode 374
+[2025-02-24 06:11:08,650][__main__][INFO] - Episode 374: Throughput: 7143.24
+[2025-02-24 06:11:08,650][__main__][INFO] - Episode 375
+[2025-02-24 06:11:13,820][__main__][INFO] - Episode 375: Throughput: 7136.03
+[2025-02-24 06:11:13,820][__main__][INFO] - Episode 376
+[2025-02-24 06:11:18,982][__main__][INFO] - Episode 376: Throughput: 7128.08
+[2025-02-24 06:11:18,982][__main__][INFO] - Episode 377
+[2025-02-24 06:11:24,150][__main__][INFO] - Episode 377: Throughput: 7144.07
+[2025-02-24 06:11:24,150][__main__][INFO] - Episode 378
+[2025-02-24 06:11:29,314][__main__][INFO] - Episode 378: Throughput: 7124.57
+[2025-02-24 06:11:29,314][__main__][INFO] - Episode 379
+[2025-02-24 06:11:34,474][__main__][INFO] - Episode 379: Throughput: 7140.44
+[2025-02-24 06:11:34,474][__main__][INFO] - Episode 380
+[2025-02-24 06:11:39,643][__main__][INFO] - Episode 380: Throughput: 7131.61
+[2025-02-24 06:11:39,643][__main__][INFO] - Episode 381
+[2025-02-24 06:11:44,809][__main__][INFO] - Episode 381: Throughput: 7135.57
+[2025-02-24 06:11:44,809][__main__][INFO] - Episode 382
+[2025-02-24 06:11:49,970][__main__][INFO] - Episode 382: Throughput: 7148.08
+[2025-02-24 06:11:49,970][__main__][INFO] - Episode 383
+[2025-02-24 06:11:55,137][__main__][INFO] - Episode 383: Throughput: 7136.31
+[2025-02-24 06:11:55,137][__main__][INFO] - Episode 384
+[2025-02-24 06:12:00,291][__main__][INFO] - Episode 384: Throughput: 7122.50
+[2025-02-24 06:12:00,291][__main__][INFO] - Episode 385
+[2025-02-24 06:12:05,453][__main__][INFO] - Episode 385: Throughput: 7141.38
+[2025-02-24 06:12:05,453][__main__][INFO] - Episode 386
+[2025-02-24 06:12:10,618][__main__][INFO] - Episode 386: Throughput: 7140.87
+[2025-02-24 06:12:10,618][__main__][INFO] - Episode 387
+[2025-02-24 06:12:15,780][__main__][INFO] - Episode 387: Throughput: 7136.46
+[2025-02-24 06:12:15,780][__main__][INFO] - Episode 388
+[2025-02-24 06:12:20,943][__main__][INFO] - Episode 388: Throughput: 7130.32
+[2025-02-24 06:12:20,943][__main__][INFO] - Episode 389
+[2025-02-24 06:12:26,099][__main__][INFO] - Episode 389: Throughput: 7128.56
+[2025-02-24 06:12:26,099][__main__][INFO] - Episode 390
+[2025-02-24 06:12:31,257][__main__][INFO] - Episode 390: Throughput: 7118.80
+[2025-02-24 06:12:31,257][__main__][INFO] - Episode 391
+[2025-02-24 06:12:36,420][__main__][INFO] - Episode 391: Throughput: 7136.82
+[2025-02-24 06:12:36,420][__main__][INFO] - Episode 392
+[2025-02-24 06:12:41,583][__main__][INFO] - Episode 392: Throughput: 7128.39
+[2025-02-24 06:12:41,583][__main__][INFO] - Episode 393
+[2025-02-24 06:12:46,743][__main__][INFO] - Episode 393: Throughput: 7127.07
+[2025-02-24 06:12:46,743][__main__][INFO] - Episode 394
+[2025-02-24 06:12:51,916][__main__][INFO] - Episode 394: Throughput: 7147.70
+[2025-02-24 06:12:51,916][__main__][INFO] - Episode 395
+[2025-02-24 06:12:57,077][__main__][INFO] - Episode 395: Throughput: 7138.90
+[2025-02-24 06:12:57,077][__main__][INFO] - Episode 396
+[2025-02-24 06:13:02,237][__main__][INFO] - Episode 396: Throughput: 7129.52
+[2025-02-24 06:13:02,237][__main__][INFO] - Episode 397
+[2025-02-24 06:13:07,396][__main__][INFO] - Episode 397: Throughput: 7143.90
+[2025-02-24 06:13:07,397][__main__][INFO] - Episode 398
+[2025-02-24 06:13:12,559][__main__][INFO] - Episode 398: Throughput: 7137.28
+[2025-02-24 06:13:12,559][__main__][INFO] - Episode 399
+[2025-02-24 06:13:17,719][__main__][INFO] - Episode 399: Throughput: 7133.18
+[2025-02-24 06:13:17,719][__main__][INFO] - Episode 400
+[2025-02-24 06:13:22,898][__main__][INFO] - Episode 400: Throughput: 7150.15
+[2025-02-24 06:13:22,898][__main__][INFO] - Episode 401
+[2025-02-24 06:13:28,058][__main__][INFO] - Episode 401: Throughput: 7132.54
+[2025-02-24 06:13:28,059][__main__][INFO] - Episode 402
+[2025-02-24 06:13:33,217][__main__][INFO] - Episode 402: Throughput: 7131.61
+[2025-02-24 06:13:33,217][__main__][INFO] - Episode 403
+[2025-02-24 06:13:38,383][__main__][INFO] - Episode 403: Throughput: 7146.67
+[2025-02-24 06:13:38,383][__main__][INFO] - Episode 404
+[2025-02-24 06:13:43,547][__main__][INFO] - Episode 404: Throughput: 7146.93
+[2025-02-24 06:13:43,547][__main__][INFO] - Episode 405
+[2025-02-24 06:13:48,704][__main__][INFO] - Episode 405: Throughput: 7128.17
+[2025-02-24 06:13:48,704][__main__][INFO] - Episode 406
+[2025-02-24 06:13:53,867][__main__][INFO] - Episode 406: Throughput: 7140.38
+[2025-02-24 06:13:53,867][__main__][INFO] - Episode 407
+[2025-02-24 06:13:59,026][__main__][INFO] - Episode 407: Throughput: 7138.27
+[2025-02-24 06:13:59,026][__main__][INFO] - Episode 408
+[2025-02-24 06:14:04,193][__main__][INFO] - Episode 408: Throughput: 7136.20
+[2025-02-24 06:14:04,193][__main__][INFO] - Episode 409
+[2025-02-24 06:14:09,368][__main__][INFO] - Episode 409: Throughput: 7133.86
+[2025-02-24 06:14:09,368][__main__][INFO] - Episode 410
+[2025-02-24 06:14:14,534][__main__][INFO] - Episode 410: Throughput: 7133.22
+[2025-02-24 06:14:14,534][__main__][INFO] - Episode 411
+[2025-02-24 06:14:19,703][__main__][INFO] - Episode 411: Throughput: 7134.74
+[2025-02-24 06:14:19,703][__main__][INFO] - Episode 412
+[2025-02-24 06:14:24,867][__main__][INFO] - Episode 412: Throughput: 7139.27
+[2025-02-24 06:14:24,867][__main__][INFO] - Episode 413
+[2025-02-24 06:14:30,027][__main__][INFO] - Episode 413: Throughput: 7120.33
+[2025-02-24 06:14:30,027][__main__][INFO] - Episode 414
+[2025-02-24 06:14:35,189][__main__][INFO] - Episode 414: Throughput: 7132.63
+[2025-02-24 06:14:35,189][__main__][INFO] - Episode 415
+[2025-02-24 06:14:40,367][__main__][INFO] - Episode 415: Throughput: 7146.76
+[2025-02-24 06:14:40,367][__main__][INFO] - Episode 416
+[2025-02-24 06:14:45,529][__main__][INFO] - Episode 416: Throughput: 7130.11
+[2025-02-24 06:14:45,529][__main__][INFO] - Episode 417
+[2025-02-24 06:14:50,687][__main__][INFO] - Episode 417: Throughput: 7118.60
+[2025-02-24 06:14:50,687][__main__][INFO] - Episode 418
+[2025-02-24 06:14:55,852][__main__][INFO] - Episode 418: Throughput: 7132.72
+[2025-02-24 06:14:55,852][__main__][INFO] - Episode 419
+[2025-02-24 06:15:01,016][__main__][INFO] - Episode 419: Throughput: 7129.35
+[2025-02-24 06:15:01,016][__main__][INFO] - Episode 420
+[2025-02-24 06:15:06,180][__main__][INFO] - Episode 420: Throughput: 7141.00
+[2025-02-24 06:15:06,180][__main__][INFO] - Episode 421
+[2025-02-24 06:15:11,356][__main__][INFO] - Episode 421: Throughput: 7146.12
+[2025-02-24 06:15:11,357][__main__][INFO] - Episode 422
+[2025-02-24 06:15:16,526][__main__][INFO] - Episode 422: Throughput: 7136.86
+[2025-02-24 06:15:16,526][__main__][INFO] - Episode 423
+[2025-02-24 06:15:21,694][__main__][INFO] - Episode 423: Throughput: 7124.52
+[2025-02-24 06:15:21,694][__main__][INFO] - Episode 424
+[2025-02-24 06:15:26,861][__main__][INFO] - Episode 424: Throughput: 7141.89
+[2025-02-24 06:15:26,861][__main__][INFO] - Episode 425
+[2025-02-24 06:15:32,022][__main__][INFO] - Episode 425: Throughput: 7143.51
+[2025-02-24 06:15:32,022][__main__][INFO] - Episode 426
+[2025-02-24 06:15:37,182][__main__][INFO] - Episode 426: Throughput: 7127.25
+[2025-02-24 06:15:37,182][__main__][INFO] - Episode 427
+[2025-02-24 06:15:42,355][__main__][INFO] - Episode 427: Throughput: 7141.26
+[2025-02-24 06:15:42,356][__main__][INFO] - Episode 428
+[2025-02-24 06:15:47,528][__main__][INFO] - Episode 428: Throughput: 7132.15
+[2025-02-24 06:15:47,529][__main__][INFO] - Episode 429
+[2025-02-24 06:15:52,709][__main__][INFO] - Episode 429: Throughput: 7143.59
+[2025-02-24 06:15:52,709][__main__][INFO] - Episode 430
+[2025-02-24 06:15:57,892][__main__][INFO] - Episode 430: Throughput: 7154.57
+[2025-02-24 06:15:57,892][__main__][INFO] - Episode 431
+[2025-02-24 06:16:03,063][__main__][INFO] - Episode 431: Throughput: 7137.24
+[2025-02-24 06:16:03,063][__main__][INFO] - Episode 432
+[2025-02-24 06:16:08,234][__main__][INFO] - Episode 432: Throughput: 7141.14
+[2025-02-24 06:16:08,234][__main__][INFO] - Episode 433
+[2025-02-24 06:16:13,406][__main__][INFO] - Episode 433: Throughput: 7148.74
+[2025-02-24 06:16:13,406][__main__][INFO] - Episode 434
+[2025-02-24 06:16:18,571][__main__][INFO] - Episode 434: Throughput: 7127.68
+[2025-02-24 06:16:18,571][__main__][INFO] - Episode 435
+[2025-02-24 06:16:23,736][__main__][INFO] - Episode 435: Throughput: 7138.82
+[2025-02-24 06:16:23,736][__main__][INFO] - Episode 436
+[2025-02-24 06:16:28,902][__main__][INFO] - Episode 436: Throughput: 7137.72
+[2025-02-24 06:16:28,902][__main__][INFO] - Episode 437
+[2025-02-24 06:16:34,062][__main__][INFO] - Episode 437: Throughput: 7130.22
+[2025-02-24 06:16:34,062][__main__][INFO] - Episode 438
+[2025-02-24 06:16:39,214][__main__][INFO] - Episode 438: Throughput: 7131.35
+[2025-02-24 06:16:39,214][__main__][INFO] - Episode 439
+[2025-02-24 06:16:44,367][__main__][INFO] - Episode 439: Throughput: 7143.05
+[2025-02-24 06:16:44,367][__main__][INFO] - Episode 440
+[2025-02-24 06:16:49,537][__main__][INFO] - Episode 440: Throughput: 7142.75
+[2025-02-24 06:16:49,537][__main__][INFO] - Episode 441
+[2025-02-24 06:16:54,714][__main__][INFO] - Episode 441: Throughput: 7148.57
+[2025-02-24 06:16:54,714][__main__][INFO] - Episode 442
+[2025-02-24 06:16:59,896][__main__][INFO] - Episode 442: Throughput: 7150.46
+[2025-02-24 06:16:59,896][__main__][INFO] - Episode 443
+[2025-02-24 06:17:05,073][__main__][INFO] - Episode 443: Throughput: 7143.91
+[2025-02-24 06:17:05,073][__main__][INFO] - Episode 444
+[2025-02-24 06:17:10,251][__main__][INFO] - Episode 444: Throughput: 7135.99
+[2025-02-24 06:17:10,251][__main__][INFO] - Episode 445
+[2025-02-24 06:17:15,432][__main__][INFO] - Episode 445: Throughput: 7141.25
+[2025-02-24 06:17:15,432][__main__][INFO] - Episode 446
+[2025-02-24 06:17:20,605][__main__][INFO] - Episode 446: Throughput: 7133.08
+[2025-02-24 06:17:20,606][__main__][INFO] - Episode 447
+[2025-02-24 06:17:25,788][__main__][INFO] - Episode 447: Throughput: 7140.20
+[2025-02-24 06:17:25,788][__main__][INFO] - Episode 448
+[2025-02-24 06:17:30,971][__main__][INFO] - Episode 448: Throughput: 7146.85
+[2025-02-24 06:17:30,971][__main__][INFO] - Episode 449
+[2025-02-24 06:17:36,151][__main__][INFO] - Episode 449: Throughput: 7130.41
+[2025-02-24 06:17:36,151][__main__][INFO] - Episode 450
+[2025-02-24 06:17:41,331][__main__][INFO] - Episode 450: Throughput: 7145.76
+[2025-02-24 06:17:41,331][__main__][INFO] - Episode 451
+[2025-02-24 06:17:46,510][__main__][INFO] - Episode 451: Throughput: 7141.92
+[2025-02-24 06:17:46,510][__main__][INFO] - Episode 452
+[2025-02-24 06:17:51,684][__main__][INFO] - Episode 452: Throughput: 7141.42
+[2025-02-24 06:17:51,684][__main__][INFO] - Episode 453
+[2025-02-24 06:17:56,850][__main__][INFO] - Episode 453: Throughput: 7139.07
+[2025-02-24 06:17:56,850][__main__][INFO] - Episode 454
+[2025-02-24 06:18:02,008][__main__][INFO] - Episode 454: Throughput: 7135.10
+[2025-02-24 06:18:02,008][__main__][INFO] - Episode 455
+[2025-02-24 06:18:07,180][__main__][INFO] - Episode 455: Throughput: 7138.67
+[2025-02-24 06:18:07,180][__main__][INFO] - Episode 456
+[2025-02-24 06:18:12,346][__main__][INFO] - Episode 456: Throughput: 7133.96
+[2025-02-24 06:18:12,346][__main__][INFO] - Episode 457
+[2025-02-24 06:18:17,505][__main__][INFO] - Episode 457: Throughput: 7123.57
+[2025-02-24 06:18:17,505][__main__][INFO] - Episode 458
+[2025-02-24 06:18:22,658][__main__][INFO] - Episode 458: Throughput: 7125.10
+[2025-02-24 06:18:22,658][__main__][INFO] - Episode 459
+[2025-02-24 06:18:27,815][__main__][INFO] - Episode 459: Throughput: 7132.02
+[2025-02-24 06:18:27,815][__main__][INFO] - Episode 460
+[2025-02-24 06:18:32,969][__main__][INFO] - Episode 460: Throughput: 7143.78
+[2025-02-24 06:18:32,969][__main__][INFO] - Episode 461
+[2025-02-24 06:18:38,138][__main__][INFO] - Episode 461: Throughput: 7141.08
+[2025-02-24 06:18:38,138][__main__][INFO] - Episode 462
+[2025-02-24 06:18:43,314][__main__][INFO] - Episode 462: Throughput: 7134.03
+[2025-02-24 06:18:43,314][__main__][INFO] - Episode 463
+[2025-02-24 06:18:48,487][__main__][INFO] - Episode 463: Throughput: 7127.99
+[2025-02-24 06:18:48,487][__main__][INFO] - Episode 464
+[2025-02-24 06:18:53,658][__main__][INFO] - Episode 464: Throughput: 7142.13
+[2025-02-24 06:18:53,658][__main__][INFO] - Episode 465
+[2025-02-24 06:18:58,829][__main__][INFO] - Episode 465: Throughput: 7137.73
+[2025-02-24 06:18:58,829][__main__][INFO] - Episode 466
+[2025-02-24 06:19:04,000][__main__][INFO] - Episode 466: Throughput: 7141.16
+[2025-02-24 06:19:04,000][__main__][INFO] - Episode 467
+[2025-02-24 06:19:09,165][__main__][INFO] - Episode 467: Throughput: 7130.12
+[2025-02-24 06:19:09,165][__main__][INFO] - Episode 468
+[2025-02-24 06:19:14,327][__main__][INFO] - Episode 468: Throughput: 7123.96
+[2025-02-24 06:19:14,327][__main__][INFO] - Episode 469
+[2025-02-24 06:19:19,490][__main__][INFO] - Episode 469: Throughput: 7141.34
+[2025-02-24 06:19:19,490][__main__][INFO] - Episode 470
+[2025-02-24 06:19:24,655][__main__][INFO] - Episode 470: Throughput: 7133.22
+[2025-02-24 06:19:24,656][__main__][INFO] - Episode 471
+[2025-02-24 06:19:29,815][__main__][INFO] - Episode 471: Throughput: 7141.23
+[2025-02-24 06:19:29,815][__main__][INFO] - Episode 472
+[2025-02-24 06:19:34,998][__main__][INFO] - Episode 472: Throughput: 7147.18
+[2025-02-24 06:19:34,998][__main__][INFO] - Episode 473
+[2025-02-24 06:19:40,177][__main__][INFO] - Episode 473: Throughput: 7147.68
+[2025-02-24 06:19:40,177][__main__][INFO] - Episode 474
+[2025-02-24 06:19:45,359][__main__][INFO] - Episode 474: Throughput: 7153.23
+[2025-02-24 06:19:45,359][__main__][INFO] - Episode 475
+[2025-02-24 06:19:50,538][__main__][INFO] - Episode 475: Throughput: 7141.19
+[2025-02-24 06:19:50,538][__main__][INFO] - Episode 476
+[2025-02-24 06:19:55,707][__main__][INFO] - Episode 476: Throughput: 7137.40
+[2025-02-24 06:19:55,707][__main__][INFO] - Episode 477
+[2025-02-24 06:20:00,880][__main__][INFO] - Episode 477: Throughput: 7135.50
+[2025-02-24 06:20:00,881][__main__][INFO] - Episode 478
+[2025-02-24 06:20:06,055][__main__][INFO] - Episode 478: Throughput: 7151.45
+[2025-02-24 06:20:06,055][__main__][INFO] - Episode 479
+[2025-02-24 06:20:11,235][__main__][INFO] - Episode 479: Throughput: 7145.08
+[2025-02-24 06:20:11,235][__main__][INFO] - Episode 480
+[2025-02-24 06:20:16,400][__main__][INFO] - Episode 480: Throughput: 7136.65
+[2025-02-24 06:20:16,400][__main__][INFO] - Episode 481
+[2025-02-24 06:20:21,564][__main__][INFO] - Episode 481: Throughput: 7137.56
+[2025-02-24 06:20:21,564][__main__][INFO] - Episode 482
+[2025-02-24 06:20:26,730][__main__][INFO] - Episode 482: Throughput: 7139.15
+[2025-02-24 06:20:26,730][__main__][INFO] - Episode 483
+[2025-02-24 06:20:31,889][__main__][INFO] - Episode 483: Throughput: 7124.44
+[2025-02-24 06:20:31,889][__main__][INFO] - Episode 484
+[2025-02-24 06:20:37,050][__main__][INFO] - Episode 484: Throughput: 7132.40
+[2025-02-24 06:20:37,050][__main__][INFO] - Episode 485
+[2025-02-24 06:20:42,225][__main__][INFO] - Episode 485: Throughput: 7142.24
+[2025-02-24 06:20:42,226][__main__][INFO] - Episode 486
+[2025-02-24 06:20:47,389][__main__][INFO] - Episode 486: Throughput: 7139.59
+[2025-02-24 06:20:47,389][__main__][INFO] - Episode 487
+[2025-02-24 06:20:52,548][__main__][INFO] - Episode 487: Throughput: 7134.61
+[2025-02-24 06:20:52,548][__main__][INFO] - Episode 488
+[2025-02-24 06:20:57,713][__main__][INFO] - Episode 488: Throughput: 7142.61
+[2025-02-24 06:20:57,713][__main__][INFO] - Episode 489
+[2025-02-24 06:21:02,876][__main__][INFO] - Episode 489: Throughput: 7136.45
+[2025-02-24 06:21:02,876][__main__][INFO] - Episode 490
+[2025-02-24 06:21:08,037][__main__][INFO] - Episode 490: Throughput: 7142.32
+[2025-02-24 06:21:08,037][__main__][INFO] - Episode 491
+[2025-02-24 06:21:13,211][__main__][INFO] - Episode 491: Throughput: 7132.44
+[2025-02-24 06:21:13,211][__main__][INFO] - Episode 492
+[2025-02-24 06:21:18,383][__main__][INFO] - Episode 492: Throughput: 7143.61
+[2025-02-24 06:21:18,383][__main__][INFO] - Episode 493
+[2025-02-24 06:21:23,554][__main__][INFO] - Episode 493: Throughput: 7135.52
+[2025-02-24 06:21:23,555][__main__][INFO] - Episode 494
+[2025-02-24 06:21:28,716][__main__][INFO] - Episode 494: Throughput: 7126.52
+[2025-02-24 06:21:28,716][__main__][INFO] - Episode 495
+[2025-02-24 06:21:33,881][__main__][INFO] - Episode 495: Throughput: 7137.69
+[2025-02-24 06:21:33,882][__main__][INFO] - Episode 496
+[2025-02-24 06:21:39,051][__main__][INFO] - Episode 496: Throughput: 7138.10
+[2025-02-24 06:21:39,051][__main__][INFO] - Episode 497
+[2025-02-24 06:21:44,211][__main__][INFO] - Episode 497: Throughput: 7143.68
+[2025-02-24 06:21:44,211][__main__][INFO] - Episode 498
+[2025-02-24 06:21:49,382][__main__][INFO] - Episode 498: Throughput: 7143.66
+[2025-02-24 06:21:49,383][__main__][INFO] - Episode 499
+[2025-02-24 06:21:54,556][__main__][INFO] - Episode 499: Throughput: 7140.04
+[2025-02-24 06:21:54,556][__main__][INFO] - Episode 500
+[2025-02-24 06:21:59,719][__main__][INFO] - Episode 500: Throughput: 7136.65
+[2025-02-24 06:21:59,719][__main__][INFO] - Episode 501
+[2025-02-24 06:22:04,889][__main__][INFO] - Episode 501: Throughput: 7142.75
+[2025-02-24 06:22:04,889][__main__][INFO] - Episode 502
+[2025-02-24 06:22:10,070][__main__][INFO] - Episode 502: Throughput: 7145.10
+[2025-02-24 06:22:10,070][__main__][INFO] - Episode 503
+[2025-02-24 06:22:15,247][__main__][INFO] - Episode 503: Throughput: 7136.49
+[2025-02-24 06:22:15,248][__main__][INFO] - Episode 504
+[2025-02-24 06:22:20,419][__main__][INFO] - Episode 504: Throughput: 7136.99
+[2025-02-24 06:22:20,419][__main__][INFO] - Episode 505
+[2025-02-24 06:22:25,575][__main__][INFO] - Episode 505: Throughput: 7139.48
+[2025-02-24 06:22:25,575][__main__][INFO] - Episode 506
+[2025-02-24 06:22:30,736][__main__][INFO] - Episode 506: Throughput: 7115.40
+[2025-02-24 06:22:30,736][__main__][INFO] - Episode 507
+[2025-02-24 06:22:35,914][__main__][INFO] - Episode 507: Throughput: 7146.02
+[2025-02-24 06:22:35,914][__main__][INFO] - Episode 508
+[2025-02-24 06:22:41,092][__main__][INFO] - Episode 508: Throughput: 7151.11
+[2025-02-24 06:22:41,092][__main__][INFO] - Episode 509
+[2025-02-24 06:22:46,260][__main__][INFO] - Episode 509: Throughput: 7131.70
+[2025-02-24 06:22:46,260][__main__][INFO] - Episode 510
+[2025-02-24 06:22:51,428][__main__][INFO] - Episode 510: Throughput: 7134.68
+[2025-02-24 06:22:51,429][__main__][INFO] - Episode 511
+[2025-02-24 06:22:56,588][__main__][INFO] - Episode 511: Throughput: 7133.24
+[2025-02-24 06:22:56,588][__main__][INFO] - Episode 512
+[2025-02-24 06:23:01,751][__main__][INFO] - Episode 512: Throughput: 7133.02
+[2025-02-24 06:23:01,751][__main__][INFO] - Episode 513
+[2025-02-24 06:23:06,932][__main__][INFO] - Episode 513: Throughput: 7146.19
+[2025-02-24 06:23:06,932][__main__][INFO] - Episode 514
+[2025-02-24 06:23:12,106][__main__][INFO] - Episode 514: Throughput: 7150.01
+[2025-02-24 06:23:12,106][__main__][INFO] - Episode 515
+[2025-02-24 06:23:17,278][__main__][INFO] - Episode 515: Throughput: 7141.04
+[2025-02-24 06:23:17,278][__main__][INFO] - Episode 516
+[2025-02-24 06:23:22,446][__main__][INFO] - Episode 516: Throughput: 7144.08
+[2025-02-24 06:23:22,446][__main__][INFO] - Episode 517
+[2025-02-24 06:23:27,609][__main__][INFO] - Episode 517: Throughput: 7141.99
+[2025-02-24 06:23:27,609][__main__][INFO] - Episode 518
+[2025-02-24 06:23:32,775][__main__][INFO] - Episode 518: Throughput: 7128.11
+[2025-02-24 06:23:32,775][__main__][INFO] - Episode 519
+[2025-02-24 06:23:37,953][__main__][INFO] - Episode 519: Throughput: 7147.46
+[2025-02-24 06:23:37,954][__main__][INFO] - Episode 520
+[2025-02-24 06:23:43,126][__main__][INFO] - Episode 520: Throughput: 7135.28
+[2025-02-24 06:23:43,127][__main__][INFO] - Episode 521
+[2025-02-24 06:23:48,288][__main__][INFO] - Episode 521: Throughput: 7126.41
+[2025-02-24 06:23:48,288][__main__][INFO] - Episode 522
+[2025-02-24 06:23:53,449][__main__][INFO] - Episode 522: Throughput: 7132.66
+[2025-02-24 06:23:53,449][__main__][INFO] - Episode 523
+[2025-02-24 06:23:58,616][__main__][INFO] - Episode 523: Throughput: 7148.75
+[2025-02-24 06:23:58,616][__main__][INFO] - Episode 524
+[2025-02-24 06:24:03,786][__main__][INFO] - Episode 524: Throughput: 7138.47
+[2025-02-24 06:24:03,786][__main__][INFO] - Episode 525
+[2025-02-24 06:24:08,961][__main__][INFO] - Episode 525: Throughput: 7153.78
+[2025-02-24 06:24:08,961][__main__][INFO] - Episode 526
+[2025-02-24 06:24:14,143][__main__][INFO] - Episode 526: Throughput: 7141.81
+[2025-02-24 06:24:14,143][__main__][INFO] - Episode 527
+[2025-02-24 06:24:19,327][__main__][INFO] - Episode 527: Throughput: 7146.63
+[2025-02-24 06:24:19,327][__main__][INFO] - Episode 528
+[2025-02-24 06:24:24,487][__main__][INFO] - Episode 528: Throughput: 7128.27
+[2025-02-24 06:24:24,487][__main__][INFO] - Episode 529
+[2025-02-24 06:24:29,646][__main__][INFO] - Episode 529: Throughput: 7124.84
+[2025-02-24 06:24:29,646][__main__][INFO] - Episode 530
+[2025-02-24 06:24:34,813][__main__][INFO] - Episode 530: Throughput: 7136.93
+[2025-02-24 06:24:34,813][__main__][INFO] - Episode 531
+[2025-02-24 06:24:39,992][__main__][INFO] - Episode 531: Throughput: 7143.63
+[2025-02-24 06:24:39,992][__main__][INFO] - Episode 532
+[2025-02-24 06:24:45,168][__main__][INFO] - Episode 532: Throughput: 7143.28
+[2025-02-24 06:24:45,168][__main__][INFO] - Episode 533
+[2025-02-24 06:24:50,341][__main__][INFO] - Episode 533: Throughput: 7136.89
+[2025-02-24 06:24:50,341][__main__][INFO] - Episode 534
+[2025-02-24 06:24:55,501][__main__][INFO] - Episode 534: Throughput: 7149.38
+[2025-02-24 06:24:55,501][__main__][INFO] - Episode 535
+[2025-02-24 06:25:00,669][__main__][INFO] - Episode 535: Throughput: 7145.67
+[2025-02-24 06:25:00,669][__main__][INFO] - Episode 536
+[2025-02-24 06:25:05,822][__main__][INFO] - Episode 536: Throughput: 7127.04
+[2025-02-24 06:25:05,822][__main__][INFO] - Episode 537
+[2025-02-24 06:25:10,986][__main__][INFO] - Episode 537: Throughput: 7134.56
+[2025-02-24 06:25:10,986][__main__][INFO] - Episode 538
+[2025-02-24 06:25:16,156][__main__][INFO] - Episode 538: Throughput: 7138.78
+[2025-02-24 06:25:16,156][__main__][INFO] - Episode 539
+[2025-02-24 06:25:21,318][__main__][INFO] - Episode 539: Throughput: 7130.04
+[2025-02-24 06:25:21,318][__main__][INFO] - Episode 540
+[2025-02-24 06:25:26,479][__main__][INFO] - Episode 540: Throughput: 7150.30
+[2025-02-24 06:25:26,479][__main__][INFO] - Episode 541
+[2025-02-24 06:25:31,646][__main__][INFO] - Episode 541: Throughput: 7140.70
+[2025-02-24 06:25:31,646][__main__][INFO] - Episode 542
+[2025-02-24 06:25:36,797][__main__][INFO] - Episode 542: Throughput: 7128.47
+[2025-02-24 06:25:36,797][__main__][INFO] - Episode 543
+[2025-02-24 06:25:41,958][__main__][INFO] - Episode 543: Throughput: 7156.57
+[2025-02-24 06:25:41,959][__main__][INFO] - Episode 544
+[2025-02-24 06:25:47,130][__main__][INFO] - Episode 544: Throughput: 7140.94
+[2025-02-24 06:25:47,130][__main__][INFO] - Episode 545
+[2025-02-24 06:25:52,294][__main__][INFO] - Episode 545: Throughput: 7128.62
+[2025-02-24 06:25:52,294][__main__][INFO] - Episode 546
+[2025-02-24 06:25:57,448][__main__][INFO] - Episode 546: Throughput: 7133.57
+[2025-02-24 06:25:57,449][__main__][INFO] - Episode 547
+[2025-02-24 06:26:02,611][__main__][INFO] - Episode 547: Throughput: 7136.05
+[2025-02-24 06:26:02,611][__main__][INFO] - Episode 548
+[2025-02-24 06:26:07,767][__main__][INFO] - Episode 548: Throughput: 7133.14
+[2025-02-24 06:26:07,767][__main__][INFO] - Episode 549
+[2025-02-24 06:26:12,937][__main__][INFO] - Episode 549: Throughput: 7134.47
+[2025-02-24 06:26:12,937][__main__][INFO] - Episode 550
+[2025-02-24 06:26:18,103][__main__][INFO] - Episode 550: Throughput: 7134.23
+[2025-02-24 06:26:18,103][__main__][INFO] - Episode 551
+[2025-02-24 06:26:23,261][__main__][INFO] - Episode 551: Throughput: 7126.89
+[2025-02-24 06:26:23,261][__main__][INFO] - Episode 552
+[2025-02-24 06:26:28,429][__main__][INFO] - Episode 552: Throughput: 7146.10
+[2025-02-24 06:26:28,429][__main__][INFO] - Episode 553
+[2025-02-24 06:26:33,590][__main__][INFO] - Episode 553: Throughput: 7140.54
+[2025-02-24 06:26:33,590][__main__][INFO] - Episode 554
+[2025-02-24 06:26:38,747][__main__][INFO] - Episode 554: Throughput: 7132.77
+[2025-02-24 06:26:38,747][__main__][INFO] - Episode 555
+[2025-02-24 06:26:43,911][__main__][INFO] - Episode 555: Throughput: 7132.49
+[2025-02-24 06:26:43,911][__main__][INFO] - Episode 556
+[2025-02-24 06:26:49,076][__main__][INFO] - Episode 556: Throughput: 7149.26
+[2025-02-24 06:26:49,076][__main__][INFO] - Episode 557
+[2025-02-24 06:26:54,239][__main__][INFO] - Episode 557: Throughput: 7124.35
+[2025-02-24 06:26:54,239][__main__][INFO] - Episode 558
+[2025-02-24 06:26:59,393][__main__][INFO] - Episode 558: Throughput: 7120.59
+[2025-02-24 06:26:59,393][__main__][INFO] - Episode 559
+[2025-02-24 06:27:04,552][__main__][INFO] - Episode 559: Throughput: 7142.36
+[2025-02-24 06:27:04,553][__main__][INFO] - Episode 560
+[2025-02-24 06:27:09,728][__main__][INFO] - Episode 560: Throughput: 7141.39
+[2025-02-24 06:27:09,728][__main__][INFO] - Episode 561
+[2025-02-24 06:27:14,905][__main__][INFO] - Episode 561: Throughput: 7146.87
+[2025-02-24 06:27:14,905][__main__][INFO] - Episode 562
+[2025-02-24 06:27:20,073][__main__][INFO] - Episode 562: Throughput: 7139.81
+[2025-02-24 06:27:20,074][__main__][INFO] - Episode 563
+[2025-02-24 06:27:25,233][__main__][INFO] - Episode 563: Throughput: 7128.72
+[2025-02-24 06:27:25,233][__main__][INFO] - Episode 564
+[2025-02-24 06:27:30,395][__main__][INFO] - Episode 564: Throughput: 7123.78
+[2025-02-24 06:27:30,395][__main__][INFO] - Episode 565
+[2025-02-24 06:27:35,565][__main__][INFO] - Episode 565: Throughput: 7135.76
+[2025-02-24 06:27:35,565][__main__][INFO] - Episode 566
+[2025-02-24 06:27:40,743][__main__][INFO] - Episode 566: Throughput: 7137.53
+[2025-02-24 06:27:40,743][__main__][INFO] - Episode 567
+[2025-02-24 06:27:45,910][__main__][INFO] - Episode 567: Throughput: 7123.21
+[2025-02-24 06:27:45,910][__main__][INFO] - Episode 568
+[2025-02-24 06:27:51,076][__main__][INFO] - Episode 568: Throughput: 7136.18
+[2025-02-24 06:27:51,076][__main__][INFO] - Episode 569
+[2025-02-24 06:27:56,240][__main__][INFO] - Episode 569: Throughput: 7125.85
+[2025-02-24 06:27:56,240][__main__][INFO] - Episode 570
+[2025-02-24 06:28:01,407][__main__][INFO] - Episode 570: Throughput: 7146.31
+[2025-02-24 06:28:01,407][__main__][INFO] - Episode 571
+[2025-02-24 06:28:06,570][__main__][INFO] - Episode 571: Throughput: 7122.89
+[2025-02-24 06:28:06,570][__main__][INFO] - Episode 572
+[2025-02-24 06:28:11,748][__main__][INFO] - Episode 572: Throughput: 7142.00
+[2025-02-24 06:28:11,748][__main__][INFO] - Episode 573
+[2025-02-24 06:28:16,930][__main__][INFO] - Episode 573: Throughput: 7140.03
+[2025-02-24 06:28:16,930][__main__][INFO] - Episode 574
+[2025-02-24 06:28:22,087][__main__][INFO] - Episode 574: Throughput: 7131.30
+[2025-02-24 06:28:22,088][__main__][INFO] - Episode 575
+[2025-02-24 06:28:27,262][__main__][INFO] - Episode 575: Throughput: 7141.37
+[2025-02-24 06:28:27,262][__main__][INFO] - Episode 576
+[2025-02-24 06:28:32,432][__main__][INFO] - Episode 576: Throughput: 7146.61
+[2025-02-24 06:28:32,432][__main__][INFO] - Episode 577
+[2025-02-24 06:28:37,596][__main__][INFO] - Episode 577: Throughput: 7132.05
+[2025-02-24 06:28:37,596][__main__][INFO] - Episode 578
+[2025-02-24 06:28:42,759][__main__][INFO] - Episode 578: Throughput: 7137.65
+[2025-02-24 06:28:42,759][__main__][INFO] - Episode 579
+[2025-02-24 06:28:47,925][__main__][INFO] - Episode 579: Throughput: 7141.70
+[2025-02-24 06:28:47,925][__main__][INFO] - Episode 580
+[2025-02-24 06:28:53,082][__main__][INFO] - Episode 580: Throughput: 7117.81
+[2025-02-24 06:28:53,082][__main__][INFO] - Episode 581
+[2025-02-24 06:28:58,241][__main__][INFO] - Episode 581: Throughput: 7128.96
+[2025-02-24 06:28:58,241][__main__][INFO] - Episode 582
+[2025-02-24 06:29:03,400][__main__][INFO] - Episode 582: Throughput: 7138.99
+[2025-02-24 06:29:03,400][__main__][INFO] - Episode 583
+[2025-02-24 06:29:08,567][__main__][INFO] - Episode 583: Throughput: 7136.07
+[2025-02-24 06:29:08,567][__main__][INFO] - Episode 584
+[2025-02-24 06:29:13,727][__main__][INFO] - Episode 584: Throughput: 7133.32
+[2025-02-24 06:29:13,727][__main__][INFO] - Episode 585
+[2025-02-24 06:29:18,893][__main__][INFO] - Episode 585: Throughput: 7145.86
+[2025-02-24 06:29:18,893][__main__][INFO] - Episode 586
+[2025-02-24 06:29:24,058][__main__][INFO] - Episode 586: Throughput: 7133.55
+[2025-02-24 06:29:24,058][__main__][INFO] - Episode 587
+[2025-02-24 06:29:29,220][__main__][INFO] - Episode 587: Throughput: 7144.50
+[2025-02-24 06:29:29,220][__main__][INFO] - Episode 588
+[2025-02-24 06:29:34,385][__main__][INFO] - Episode 588: Throughput: 7140.81
+[2025-02-24 06:29:34,385][__main__][INFO] - Episode 589
+[2025-02-24 06:29:39,551][__main__][INFO] - Episode 589: Throughput: 7136.87
+[2025-02-24 06:29:39,551][__main__][INFO] - Episode 590
+[2025-02-24 06:29:44,707][__main__][INFO] - Episode 590: Throughput: 7131.35
+[2025-02-24 06:29:44,707][__main__][INFO] - Episode 591
+[2025-02-24 06:29:49,865][__main__][INFO] - Episode 591: Throughput: 7142.76
+[2025-02-24 06:29:49,865][__main__][INFO] - Episode 592
+[2025-02-24 06:29:55,025][__main__][INFO] - Episode 592: Throughput: 7127.64
+[2025-02-24 06:29:55,025][__main__][INFO] - Episode 593
+[2025-02-24 06:30:00,177][__main__][INFO] - Episode 593: Throughput: 7135.93
+[2025-02-24 06:30:00,177][__main__][INFO] - Episode 594
+[2025-02-24 06:30:05,338][__main__][INFO] - Episode 594: Throughput: 7121.30
+[2025-02-24 06:30:05,338][__main__][INFO] - Episode 595
+[2025-02-24 06:30:10,514][__main__][INFO] - Episode 595: Throughput: 7142.94
+[2025-02-24 06:30:10,514][__main__][INFO] - Episode 596
+[2025-02-24 06:30:15,672][__main__][INFO] - Episode 596: Throughput: 7135.86
+[2025-02-24 06:30:15,672][__main__][INFO] - Episode 597
+[2025-02-24 06:30:20,831][__main__][INFO] - Episode 597: Throughput: 7121.30
+[2025-02-24 06:30:20,831][__main__][INFO] - Episode 598
+[2025-02-24 06:30:25,998][__main__][INFO] - Episode 598: Throughput: 7136.75
+[2025-02-24 06:30:25,998][__main__][INFO] - Episode 599
+[2025-02-24 06:30:31,159][__main__][INFO] - Episode 599: Throughput: 7126.24
+[2025-02-24 06:30:31,159][__main__][INFO] - Episode 600
+[2025-02-24 06:30:36,326][__main__][INFO] - Episode 600: Throughput: 7141.17
+[2025-02-24 06:30:36,327][__main__][INFO] - Episode 601
+[2025-02-24 06:30:41,504][__main__][INFO] - Episode 601: Throughput: 7136.52
+[2025-02-24 06:30:41,504][__main__][INFO] - Episode 602
+[2025-02-24 06:30:46,680][__main__][INFO] - Episode 602: Throughput: 7145.25
+[2025-02-24 06:30:46,681][__main__][INFO] - Episode 603
+[2025-02-24 06:30:51,847][__main__][INFO] - Episode 603: Throughput: 7138.04
+[2025-02-24 06:30:51,847][__main__][INFO] - Episode 604
+[2025-02-24 06:30:57,016][__main__][INFO] - Episode 604: Throughput: 7132.40
+[2025-02-24 06:30:57,016][__main__][INFO] - Episode 605
+[2025-02-24 06:31:02,176][__main__][INFO] - Episode 605: Throughput: 7138.28
+[2025-02-24 06:31:02,176][__main__][INFO] - Episode 606
+[2025-02-24 06:31:07,334][__main__][INFO] - Episode 606: Throughput: 7129.32
+[2025-02-24 06:31:07,334][__main__][INFO] - Episode 607
+[2025-02-24 06:31:12,495][__main__][INFO] - Episode 607: Throughput: 7138.80
+[2025-02-24 06:31:12,495][__main__][INFO] - Episode 608
+[2025-02-24 06:31:17,658][__main__][INFO] - Episode 608: Throughput: 7125.96
+[2025-02-24 06:31:17,658][__main__][INFO] - Episode 609
+[2025-02-24 06:31:22,840][__main__][INFO] - Episode 609: Throughput: 7144.34
+[2025-02-24 06:31:22,841][__main__][INFO] - Episode 610
+[2025-02-24 06:31:28,013][__main__][INFO] - Episode 610: Throughput: 7144.89
+[2025-02-24 06:31:28,013][__main__][INFO] - Episode 611
+[2025-02-24 06:31:33,183][__main__][INFO] - Episode 611: Throughput: 7142.45
+[2025-02-24 06:31:33,183][__main__][INFO] - Episode 612
+[2025-02-24 06:31:38,344][__main__][INFO] - Episode 612: Throughput: 7144.18
+[2025-02-24 06:31:38,344][__main__][INFO] - Episode 613
+[2025-02-24 06:31:43,510][__main__][INFO] - Episode 613: Throughput: 7132.59
+[2025-02-24 06:31:43,510][__main__][INFO] - Episode 614
+[2025-02-24 06:31:48,678][__main__][INFO] - Episode 614: Throughput: 7141.53
+[2025-02-24 06:31:48,678][__main__][INFO] - Episode 615
+[2025-02-24 06:31:53,840][__main__][INFO] - Episode 615: Throughput: 7136.06
+[2025-02-24 06:31:53,840][__main__][INFO] - Episode 616
+[2025-02-24 06:31:59,016][__main__][INFO] - Episode 616: Throughput: 7138.52
+[2025-02-24 06:31:59,016][__main__][INFO] - Episode 617
+[2025-02-24 06:32:04,185][__main__][INFO] - Episode 617: Throughput: 7142.47
+[2025-02-24 06:32:04,185][__main__][INFO] - Episode 618
+[2025-02-24 06:32:09,343][__main__][INFO] - Episode 618: Throughput: 7140.47
+[2025-02-24 06:32:09,343][__main__][INFO] - Episode 619
+[2025-02-24 06:32:14,514][__main__][INFO] - Episode 619: Throughput: 7134.39
+[2025-02-24 06:32:14,514][__main__][INFO] - Episode 620
+[2025-02-24 06:32:19,684][__main__][INFO] - Episode 620: Throughput: 7142.76
+[2025-02-24 06:32:19,685][__main__][INFO] - Episode 621
+[2025-02-24 06:32:24,848][__main__][INFO] - Episode 621: Throughput: 7142.38
+[2025-02-24 06:32:24,848][__main__][INFO] - Episode 622
