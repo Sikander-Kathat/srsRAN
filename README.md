@@ -1,5 +1,5 @@
 
-# RL-Driven MAC Scheduling with EdgeRIC and srsRAN
+# EdgeRIC-Enabled RL-Based MAC Scheduler for srsRAN-Based Open RAN Systems
 
 This repository provides an integrated real-time framework for MAC layer scheduling using Reinforcement Learning (RL) within an srsRAN + EdgeRIC setup. The architecture supports deployment of Q-Learning, PPO, and Actor-Critic agents as μApps interacting with a simulated or real RAN stack via ZMQ and Redis interfaces.
 
